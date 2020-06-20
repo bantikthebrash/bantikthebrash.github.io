@@ -104,6 +104,8 @@ $.getJSON("data.json", function(result){
         });
 	
 	$('#monster_table').DataTable( {
+        "pageLength": 100,
+        "order": [5, 'asc'],
         "columnDefs": [ {
             "type": "challenge-rating",
             "targets": 5
