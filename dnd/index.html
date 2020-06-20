@@ -1,0 +1,115 @@
+<html>
+
+<head>
+    <title>D&amp;D Monster List</title>
+    <link rel="icon" type="image/png" href="favicon.big.png"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+</head>
+
+<h1>A htmlified table based on <a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/5nwqo9/complete_list_of_every_creature_in_the_monster/">A reddit post by /u/pinkknight42</a></h1>
+<h2>HTML Source from <a href="http://anemortalkid.github.io/all_monsters/">A github page by anEmortalKid</a></h2>
+    
+<table id="monster_table" class="display" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Size</th>
+            <th>Type</th>
+            <th>Tag</th>
+            <th>Alignment</th>
+            <th>CR</th>
+            <th>Source</th>
+            <th>Environments</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+                <th>Name</th>
+                <th>Size</th>
+                <th>Type</th>
+                <th>Tag</th>
+                <th>Alignment</th>
+                <th>CR</th>
+                <th>Source</th>
+                <th>Environments</th>
+        </tr>
+    </tfoot>
+    <tbody id="table_data">
+    </tbody>
+</table>
+    
+<script>
+
+// just let javascript turn it into a fraction to sort
+$.fn.dataTable.ext.type.order['challenge-rating-pre'] = function ( d ) {
+	
+	var number = eval(d);
+	return number;
+};
+
+var tableData = $('#table_data');
+
+$.getJSON("data.json", function(result){
+        $.each(result, function(i, field){            
+            var tableRow = $("<tr></tr>");
+            
+            var nameTD = $("<td></td>").text(field.name);
+            tableRow.append(nameTD);
+            
+            var sizeTD = $("<td></td>").text(field.size);
+            tableRow.append(sizeTD);
+            
+            var typeTD = $("<td></td>").text(field.type);
+            tableRow.append(typeTD);
+            
+            var tagTD = $("<td></td>").text(field.tag);
+            tableRow.append(tagTD);
+            
+            var alignment = $("<td></td>").text(field.alignment);
+            tableRow.append(alignment);
+            
+            var cr = $("<td></td>").text(field.challengeRating);
+            tableRow.append(cr);
+            
+            var book = $("<td></td>").text(field.bookSource);
+            tableRow.append(book);
+            
+            var environments = $("<td></td>");
+            var environmentText =""
+            if(field.environments.length > 0)
+            {
+                var environmentList = $("<ul></ul>");
+                for(i = 0; i < field.environments.length; i++)
+                {
+                    var environmentItem = $("<li></li>");
+                    environmentItem.text(field.environments[i]);
+                    environmentList.append(environmentItem);
+                }
+                environments.append(environmentList);
+            }
+            else
+            {
+                environments.text(environmentText);
+            }
+            tableRow.append(environments);
+            
+            
+            
+            tableData.append(tableRow);
+            
+        });
+	
+	$('#monster_table').DataTable( {
+        "columnDefs": [ {
+            "type": "challenge-rating",
+            "targets": 5
+        } ]
+    } );
+		
+});
+
+</script>
+</html>

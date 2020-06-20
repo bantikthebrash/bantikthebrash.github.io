@@ -1,0 +1,148 @@
+<html>
+    <head>
+    <title>D&amp;D Add Monster</title>
+        <link rel="icon" type="image/png" href="favicon.big.png"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    </head>
+
+    <h2 style="float:none;";>Use this page to add custom monsters to our dataset automatically</h2>
+
+    <form class=monster-data style="width:350px;margin-left:30px;margin-top:30px;">
+        <div class="form-group">
+            <label for="name">Creature Name</label>
+            <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp" placeholder="Enter Creature Name">
+            <small id="nameHelp" class="form-text text-muted">Please use the Title Case capitilaztion scheme.</small>
+        </div>
+        <div class="form-group">
+            <label for="size">Creature Size</label>
+            <select class="form-control" id="size" name="size">
+                <option value="Colossal">Colossal</option>
+                <option value="Gargantuan">Gargantuan</option>
+                <option value="Huge">Huge</option>
+                <option value="Large">Large</option>
+                <option value="Medium">Medium</option>
+                <option value="Small">Small</option>
+                <option value="Tiny">Tiny</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="type">Creature Type</label>
+            <select class="form-control" id="type" name="type">
+                <option value="Aberration">Aberration</option>
+                <option value="Beast">Beast</option>
+                <option value="Celestial">Celestial</option>
+                <option value="Construct">Construct</option>
+                <option value="Dragon">Dragon</option>
+                <option value="Elemental">Elemental</option>
+                <option value="Fey">Fey</option>
+                <option value="Fiend">Fiend</option>
+                <option value="Giant">Giant</option>
+                <option value="Humanoid">Humanoid</option>
+                <option value="Monstrosity">Monstrosity</option>
+                <option value="Ooze">Ooze</option>
+                <option value="Plant">Plant</option>
+                <option value="Undead">Undead</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="tag">Tag/Sub-Type</label>
+            <input type="text" class="form-control" id="tag" name="tag" placeholder="eg: Shapechanger">
+        </div>
+        <div class="form-group">
+            <label for="alignment">Alignment</label>
+            <select class="form-control" id="alignment" name="alignment">
+                <option value="Any">Any</option>
+                <option value="Any Chaotic">Any Chaotic</option>
+                <option value="Any Evil">Any Evil</option>
+                <option value="Any Non-Good">Any Non-Good</option>
+                <option value="Any Non-Lawful">Any Non-Lawful</option>
+                <option value="E">Evil</option>
+                <option value="CE">Chaotic Evil</option>
+                <option value="NE">Neutral Evil</option>
+                <option value="LE">Lawful Evil</option>
+                <option value="N">Neutral</option>
+                <option value="CN">Chaotic Neutral</option>
+                <option value="LN">Lawful Neutral</option>
+                <option value="G">Good</option>
+                <option value="CG">Chaotic Good</option>
+                <option value="NG">Neutral Good</option>
+                <option value="LG">Lawful Good</option>
+                <option value="C">Chaotic</option>
+                <option value="CG or CN">CG or CN</option>
+                <option value="CG or NE">CG or NE</option>
+                <option value="LN or Evil">LN or Evil</option>
+                <option value="NE or LE">NE or LE</option>
+                <option value="NG or NE">NG or NE</option>
+                <option value="Unaligned">Unaligned</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="CR">Challenge Rating</label>
+            <select class="form-control" id="CR" name="CR">
+                <option value="0">0</option>
+                <option value="1/8">1/8</option>
+                <option value="1/4">1/4</option>
+                <option value="1/2">1/2</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+                <option value="20">20</option>
+                <option value="21">21</option>
+                <option value="22">22</option>
+                <option value="23">23</option>
+                <option value="24">24</option>
+                <option value="25">25</option>
+                <option value="26">26</option>
+                <option value="27">27</option>
+                <option value="28">28</option>
+                <option value="29">29</option>
+                <option value="30">30</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="source">Source</label>
+            <input type="text" class="form-control" id="source" name="source" placeholder="eg: ToB 236">
+        </div>
+        <div class="form-group">
+            <label for="environments">Environments</label>
+            <div class="checkbox">
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="ARCTIC">ARCTIC</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="COASTAL">COASTAL</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="DESERT">DESERT</label>
+            </div>
+            <div class="checkbox">
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="FOREST">FOREST</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="GRASSLAND">GRASSLAND</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="HILL">HILL</label>
+            </div>
+            <div class="checkbox">
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="MOUNTAIN">MOUNTAIN</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="SWAMP">SWAMP</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="UNDERDARK">UNDERDARK</label>
+            </div>
+            <div class="checkbox">
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="UNDERWATER">UNDERWATER</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="URBAN">URBAN</label>
+                <label class="checkbox-inline"><input type="checkbox" id="environments" name="environments" value="OTHER_PLANE">OTHER_PLANE</label>
+            </div>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</html>
