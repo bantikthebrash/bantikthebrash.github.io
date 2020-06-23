@@ -23492,5 +23492,15 @@
          "UNDERDARK",
          "URBAN"
       ]
+   },
+   {
+      "name": "Embhydra",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "fire hydra ember embhydra elemental",
+      "alignment": "NE",
+      "challengeRating": "18",
+      "bookSource": "MHB",
+      "environments": []
    }
 ]
