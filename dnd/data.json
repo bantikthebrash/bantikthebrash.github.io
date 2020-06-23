@@ -23492,23 +23492,5 @@
          "UNDERDARK",
          "URBAN"
       ]
-   },
-   {
-      "name": "Giant Millipede",
-      "size": "Large",
-      "type": "beast",
-      "tag": "millipede centipede millapede giant bug",
-      "alignment": "unaligned",
-      "challengeRating": "3",
-      "bookSource": "MHB",
-      "environments": [
-         "DESERT",
-         "FOREST",
-         "GRASSLAND",
-         "HILL",
-         "MOUNTAIN",
-         "UNDERDARK",
-         "UNDERWATER"
-      ]
    }
 ]
