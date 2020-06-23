@@ -23360,5 +23360,155 @@
       "challengeRating": "16",
       "bookSource": "EGtW 301",
       "environments": []
+   },
+   {
+      "name": "Ancient Iron Golem",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "ancient iron golem construct",
+      "alignment": "unaligned",
+      "challengeRating": "20",
+      "bookSource": "MHB",
+      "environments": []
+   },
+   {
+      "name": "Blaze Skulls",
+      "size": "small",
+      "type": "swarm of undead",
+      "tag": "blaze skulls flame skull lich",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MHB",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Elementapede",
+      "size": "Large",
+      "type": "beast",
+      "tag": "elemental centipede millapede elementapede bug",
+      "alignment": "unaligned",
+      "challengeRating": "7",
+      "bookSource": "MHB",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Giant Millipede",
+      "size": "Large",
+      "type": "beast",
+      "tag": "millipede centipede millapede giant bug",
+      "alignment": "unaligned",
+      "challengeRating": "3",
+      "bookSource": "MHB",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Helper Unbound Form",
+      "size": "medium",
+      "type": "monstrosity",
+      "tag": "helper shapechanger exoskeleton creepy alien monster unbound form eldritch",
+      "alignment": "CN",
+      "challengeRating": "12",
+      "bookSource": "MHB",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Johan Stormfang Adult Gold Dragon Form",
+      "size": "Huge",
+      "type": "dragon",
+      "tag": "Johan Stormfang Adult Gold Dragon Form shapechanger",
+      "alignment": "LG",
+      "challengeRating": "17",
+      "bookSource": "MHB",
+      "environments": [
+         "FOREST",
+         "GRASSLAND"
+      ]
+   },
+   {
+      "name": "Kobold of the Gale",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "kobold gale brom riik diamond north northhaven nourthbourne north",
+      "alignment": "LE",
+      "challengeRating": "1/2",
+      "bookSource": "MHB",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Merrow Trosk",
+      "size": "Large",
+      "type": "giant",
+      "tag": "merrow trosk giant merfolk",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MHB",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Molten Gold Golem",
+      "size": "huge",
+      "type": "construct",
+      "tag": "molten gold golem ooze",
+      "alignment": "NE",
+      "challengeRating": "15",
+      "bookSource": "MHB",
+      "environments": []
+   },
+   {
+      "name": "Skull Inferno",
+      "size": "Medium",
+      "type": "undead swarm",
+      "tag": "skull inferno blaze fire flame skulls lich",
+      "alignment": "CE",
+      "challengeRating": "15",
+      "bookSource": "MHB",
+      "environments": [
+         "DESERT",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Giant Millipede",
+      "size": "Large",
+      "type": "beast",
+      "tag": "millipede centipede millapede giant bug",
+      "alignment": "unaligned",
+      "challengeRating": "3",
+      "bookSource": "MHB",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
    }
 ]
