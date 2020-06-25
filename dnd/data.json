@@ -112,7 +112,6 @@
       "challengeRating": "17",
       "bookSource": "MM 84",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -794,7 +793,6 @@
       "challengeRating": "12",
       "bookSource": "MM 313",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -981,7 +979,6 @@
       "challengeRating": "2",
       "bookSource": "MM 22",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1079,7 +1076,6 @@
       "challengeRating": "19",
       "bookSource": "MM 55",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1169,7 +1165,6 @@
       "challengeRating": "5",
       "bookSource": "MM 70",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1209,7 +1204,6 @@
       "challengeRating": "5",
       "bookSource": "MM 56",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1263,7 +1257,6 @@
       "challengeRating": "3",
       "bookSource": "MM 70",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1546,7 +1539,6 @@
       "challengeRating": "7",
       "bookSource": "MM 276",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -1629,7 +1621,6 @@
       "challengeRating": "9",
       "bookSource": "MM 71",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -2045,7 +2036,6 @@
       "challengeRating": "8",
       "bookSource": "MM 72",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -2098,7 +2088,6 @@
       "challengeRating": "6",
       "bookSource": "MM 57",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -2239,8 +2228,7 @@
          "MOUNTAIN",
          "SWAMP",
          "UNDERDARK",
-         "URBAN",
-         "OTHER_PLANE"
+         "URBAN"
       ]
    },
    {
@@ -2842,7 +2830,6 @@
       "challengeRating": "10",
       "bookSource": "MM 278",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -3103,7 +3090,6 @@
       "challengeRating": "10",
       "bookSource": "MM 16",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -3390,7 +3376,6 @@
       "challengeRating": "1/4",
       "bookSource": "MM 57",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -3545,7 +3530,6 @@
       "challengeRating": "1/4",
       "bookSource": "MM 225",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -3819,7 +3803,6 @@
       "challengeRating": "23",
       "bookSource": "MM 130",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -3883,7 +3866,6 @@
       "challengeRating": "12",
       "bookSource": "MM 73",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -4319,8 +4301,7 @@
          "HILL",
          "SWAMP",
          "UNDERDARK",
-         "URBAN",
-         "OTHER_PLANE"
+         "URBAN"
       ]
    },
    {
@@ -5199,7 +5180,6 @@
       "challengeRating": "8",
       "bookSource": "MM 160",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5211,7 +5191,6 @@
       "challengeRating": "3",
       "bookSource": "MM 160",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5223,7 +5202,6 @@
       "challengeRating": "2",
       "bookSource": "MM 161",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5235,7 +5213,6 @@
       "challengeRating": "6",
       "bookSource": "MM 161",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5247,7 +5224,6 @@
       "challengeRating": "9",
       "bookSource": "MM 58",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5564,7 +5540,6 @@
       "challengeRating": "17",
       "bookSource": "MM 59",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -5645,7 +5620,6 @@
       "challengeRating": "8",
       "bookSource": "MM 277",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -6034,7 +6008,6 @@
       "challengeRating": "8",
       "bookSource": "MM 60",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -6194,7 +6167,6 @@
       "challengeRating": "11",
       "bookSource": "MM 74",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -6294,7 +6266,6 @@
       "challengeRating": "14",
       "bookSource": "MM 75",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -6359,7 +6330,6 @@
       "challengeRating": "1",
       "bookSource": "MM 76",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -6473,8 +6443,7 @@
          "MOUNTAIN",
          "UNDERDARK",
          "UNDERWATER",
-         "URBAN",
-         "OTHER_PLANE"
+         "URBAN"
       ]
    },
    {
@@ -6936,7 +6905,6 @@
       "challengeRating": "0",
       "bookSource": "MM 76",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -7270,7 +7238,6 @@
       "challengeRating": "1/2",
       "bookSource": "MM 212",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -7374,7 +7341,6 @@
       "challengeRating": "1/8",
       "bookSource": "MM 60",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -7415,7 +7381,6 @@
       "challengeRating": "16",
       "bookSource": "MM 61",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -7592,7 +7557,6 @@
       "challengeRating": "5",
       "bookSource": "MM 313",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -7769,7 +7733,6 @@
       "challengeRating": "1/8",
       "bookSource": "MM 224",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8012,7 +7975,6 @@
       "challengeRating": "13",
       "bookSource": "MM 62",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8120,7 +8082,6 @@
       "challengeRating": "5",
       "bookSource": "MM 178",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8152,7 +8113,6 @@
       "challengeRating": "3",
       "bookSource": "MM 235",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8242,7 +8202,6 @@
       "challengeRating": "9",
       "bookSource": "MM 314",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8657,7 +8616,6 @@
       "challengeRating": "2",
       "bookSource": "MM 226",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8738,7 +8696,6 @@
       "challengeRating": "20",
       "bookSource": "MM 77",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8762,7 +8719,6 @@
       "challengeRating": "16",
       "bookSource": "MM 17",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -8962,7 +8918,6 @@
       "challengeRating": "1",
       "bookSource": "MM 226",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -9010,7 +8965,6 @@
       "challengeRating": "1",
       "bookSource": "MM 63",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -9249,7 +9203,6 @@
       "challengeRating": "5",
       "bookSource": "MM 276",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -9919,7 +9872,6 @@
       "challengeRating": "4",
       "bookSource": "MM 64",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -10128,7 +10080,6 @@
       "challengeRating": "1/8",
       "bookSource": "MM 276",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -10222,7 +10173,6 @@
       "challengeRating": "21",
       "bookSource": "MM 18",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -10400,7 +10350,6 @@
       "challengeRating": "2",
       "bookSource": "MM 78",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -10599,8 +10548,7 @@
          "SWAMP",
          "UNDERDARK",
          "UNDERWATER",
-         "URBAN",
-         "OTHER_PLANE"
+         "URBAN"
       ]
    },
    {
@@ -11179,7 +11127,6 @@
       "challengeRating": "1/2",
       "bookSource": "MM 225",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -11323,7 +11270,6 @@
       "challengeRating": "13",
       "bookSource": "MM 314",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -11688,7 +11634,6 @@
       "challengeRating": "6",
       "bookSource": "MM 64",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -12330,7 +12275,6 @@
       "challengeRating": "10",
       "bookSource": "MM 65",
       "environments": [
-         "OTHER_PLANE"
       ]
    },
    {
@@ -12737,7 +12681,7 @@
       "challengeRating": "23",
       "bookSource": "ToA 209",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12749,7 +12693,7 @@
       "challengeRating": "1/4",
       "bookSource": "ToA 210",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12761,7 +12705,7 @@
       "challengeRating": "1",
       "bookSource": "ToA 210",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12773,7 +12717,7 @@
       "challengeRating": "23",
       "bookSource": "ToA 211",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12785,7 +12729,7 @@
       "challengeRating": "3",
       "bookSource": "ToA 213",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12817,7 +12761,7 @@
       "challengeRating": "0",
       "bookSource": "ToA 216",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12829,7 +12773,7 @@
       "challengeRating": "1",
       "bookSource": "ToA 219",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12841,7 +12785,7 @@
       "challengeRating": "0",
       "bookSource": "ToA 220",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12875,7 +12819,7 @@
       "challengeRating": "1",
       "bookSource": "ToA 222",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12887,7 +12831,7 @@
       "challengeRating": "1/4",
       "bookSource": "ToA 224",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12899,7 +12843,7 @@
       "challengeRating": "1/2",
       "bookSource": "ToA 225",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12911,7 +12855,7 @@
       "challengeRating": "4",
       "bookSource": "ToA 225",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12923,7 +12867,7 @@
       "challengeRating": "1",
       "bookSource": "ToA 229",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12935,7 +12879,7 @@
       "challengeRating": "2",
       "bookSource": "ToA 230",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12957,7 +12901,7 @@
       "challengeRating": "4",
       "bookSource": "ToA 231",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -12969,7 +12913,7 @@
       "challengeRating": "1",
       "bookSource": "ToA 232",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13001,7 +12945,7 @@
       "challengeRating": "1/2",
       "bookSource": "ToA 234",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13013,7 +12957,7 @@
       "challengeRating": "1/4",
       "bookSource": "ToA 235",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13025,7 +12969,7 @@
       "challengeRating": "2",
       "bookSource": "ToA 237",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13037,7 +12981,7 @@
       "challengeRating": "1/4",
       "bookSource": "ToA 237",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13049,7 +12993,7 @@
       "challengeRating": "3",
       "bookSource": "ToA 240",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13061,7 +13005,7 @@
       "challengeRating": "3",
       "bookSource": "ToA 240",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13073,7 +13017,7 @@
       "challengeRating": "8",
       "bookSource": "ToA 241",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13085,7 +13029,7 @@
       "challengeRating": "1/2",
       "bookSource": "ToA 241",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -13184,7 +13128,7 @@
       "challengeRating": "3",
       "bookSource": "TftYP 236",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -13208,7 +13152,7 @@
       "bookSource": "TftYP 236",
       "environments": [
          "UNDERDARK",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -13230,7 +13174,7 @@
       "challengeRating": "4",
       "bookSource": "TftYP 238",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -13243,7 +13187,7 @@
       "challengeRating": "3",
       "bookSource": "TftYP 238",
       "environments": [
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -13265,7 +13209,7 @@
       "challengeRating": "10",
       "bookSource": "TftYP 239",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -13300,7 +13244,7 @@
       "challengeRating": "5",
       "bookSource": "TftYP 242",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -13385,7 +13329,6 @@
       "challengeRating": "21",
       "bookSource": "MToF 117",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -13507,7 +13450,6 @@
       "challengeRating": "11",
       "bookSource": "MToF 130",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13519,7 +13461,6 @@
       "challengeRating": "7",
       "bookSource": "MToF 131",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13531,7 +13472,6 @@
       "challengeRating": "3",
       "bookSource": "MToF 131",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13543,7 +13483,6 @@
       "challengeRating": "4",
       "bookSource": "MToF 132",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13555,7 +13494,6 @@
       "challengeRating": "7",
       "bookSource": "MToF 133",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13567,7 +13505,6 @@
       "challengeRating": "21",
       "bookSource": "MToF 134",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13579,7 +13516,6 @@
       "challengeRating": "15",
       "bookSource": "MToF 135",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13591,7 +13527,6 @@
       "challengeRating": "2",
       "bookSource": "MToF 136",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13603,7 +13538,6 @@
       "challengeRating": "1/4",
       "bookSource": "MToF 136",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13615,7 +13549,6 @@
       "challengeRating": "18",
       "bookSource": "MToF 137",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13627,7 +13560,6 @@
       "challengeRating": "13",
       "bookSource": "MToF 139",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13639,7 +13571,6 @@
       "challengeRating": "23",
       "bookSource": "MToF 143",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13651,7 +13582,6 @@
       "challengeRating": "26",
       "bookSource": "MToF 144",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13663,7 +13593,6 @@
       "challengeRating": "23",
       "bookSource": "MToF 146",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13675,7 +13604,6 @@
       "challengeRating": "24",
       "bookSource": "MToF 149",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13687,7 +13615,6 @@
       "challengeRating": "23",
       "bookSource": "MToF 151",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13699,7 +13626,6 @@
       "challengeRating": "26",
       "bookSource": "MToF 153",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13711,7 +13637,6 @@
       "challengeRating": "24",
       "bookSource": "MToF 155",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13723,7 +13648,6 @@
       "challengeRating": "23",
       "bookSource": "MToF 157",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -13759,7 +13683,6 @@
       "challengeRating": "7",
       "bookSource": "MToF 160",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13771,7 +13694,6 @@
       "challengeRating": "17",
       "bookSource": "MToF 161",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13783,7 +13705,6 @@
       "challengeRating": "15",
       "bookSource": "MToF 162",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13795,7 +13716,6 @@
       "challengeRating": "19",
       "bookSource": "MToF 162",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13807,7 +13727,6 @@
       "challengeRating": "6",
       "bookSource": "MToF 163",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13819,7 +13738,6 @@
       "challengeRating": "18",
       "bookSource": "MToF 164",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13831,7 +13749,6 @@
       "challengeRating": "16",
       "bookSource": "MToF 165",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13843,7 +13760,6 @@
       "challengeRating": "4",
       "bookSource": "MToF 166",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13855,7 +13771,6 @@
       "challengeRating": "13",
       "bookSource": "MToF 167",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13867,7 +13782,6 @@
       "challengeRating": "1/2",
       "bookSource": "MToF 168",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13879,7 +13793,6 @@
       "challengeRating": "10",
       "bookSource": "MToF 169",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13891,7 +13804,6 @@
       "challengeRating": "19",
       "bookSource": "MToF 170",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13903,7 +13815,6 @@
       "challengeRating": "22",
       "bookSource": "MToF 173",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13915,7 +13826,6 @@
       "challengeRating": "21",
       "bookSource": "MToF 175",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13927,7 +13837,6 @@
       "challengeRating": "21",
       "bookSource": "MToF 177",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13939,7 +13848,6 @@
       "challengeRating": "16",
       "bookSource": "MToF 179",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -13951,7 +13859,6 @@
       "challengeRating": "26",
       "bookSource": "MToF 180",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -14625,7 +14532,6 @@
       "challengeRating": "1/4",
       "bookSource": "MToF 234",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -14637,7 +14543,6 @@
       "challengeRating": "10",
       "bookSource": "MToF 234",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -14649,7 +14554,6 @@
       "challengeRating": "16",
       "bookSource": "MToF 235",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -14661,7 +14565,6 @@
       "challengeRating": "5",
       "bookSource": "MToF 236",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -14673,7 +14576,6 @@
       "challengeRating": "13",
       "bookSource": "MToF 236",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -15095,7 +14997,7 @@
       "challengeRating": "2",
       "bookSource": "PotA 205",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15108,7 +15010,7 @@
       "challengeRating": "1/2",
       "bookSource": "PotA 205",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15121,7 +15023,7 @@
       "challengeRating": "2",
       "bookSource": "PotA 205",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15134,7 +15036,7 @@
       "challengeRating": "2",
       "bookSource": "PotA 207",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15147,7 +15049,7 @@
       "challengeRating": "3",
       "bookSource": "PotA 207",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15160,7 +15062,7 @@
       "challengeRating": "2",
       "bookSource": "PotA 205",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -15941,7 +15843,7 @@
       "challengeRating": "8",
       "bookSource": "MHB",
       "environments": [
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -15965,8 +15867,6 @@
       "challengeRating": "6",
       "bookSource": "MHB",
       "environments": [
-         "ABYSSAL",
-         "INFERNAL"
       ]
    },
    {
@@ -15978,7 +15878,7 @@
       "challengeRating": "3",
       "bookSource": "MHB",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -15991,7 +15891,7 @@
       "bookSource": "MHB",
       "environments": [
          "URBAN",
-         "RUINS"
+         "UNDERDARK"
       ]
    },
    {
@@ -16026,7 +15926,7 @@
       "bookSource": "MHB",
       "environments": [
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -16039,7 +15939,7 @@
       "bookSource": "MHB",
       "environments": [
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -16051,7 +15951,6 @@
       "challengeRating": "4",
       "bookSource": "MHB",
       "environments": [
-         "COSMIC"
       ]
    },
    {
@@ -16076,7 +15975,7 @@
       "bookSource": "MHB",
       "environments": [
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -16152,7 +16051,7 @@
       "challengeRating": "4",
       "bookSource": "MHB",
       "environments": [
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -16165,10 +16064,9 @@
       "challengeRating": "8",
       "bookSource": "MHB",
       "environments": [
-         "VOLCANIC",
          "MOUNTAIN",
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -16202,7 +16100,7 @@
       "challengeRating": "2",
       "bookSource": "MHB",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16224,7 +16122,7 @@
       "challengeRating": "1",
       "bookSource": "MHB",
       "environments": [
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -16290,7 +16188,7 @@
       "challengeRating": "6",
       "bookSource": "LLoK 38",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16302,8 +16200,8 @@
       "challengeRating": "10",
       "bookSource": "LLoK 38",
       "environments": [
-         "LABORATORY",
-         "AQUATIC"
+         "URBAN",
+         "UNDERWATER"
       ]
    },
    {
@@ -16363,7 +16261,7 @@
       "challengeRating": "3",
       "bookSource": "WDotMM 313",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16375,7 +16273,7 @@
       "challengeRating": "0",
       "bookSource": "WDotMM 313",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16387,7 +16285,7 @@
       "challengeRating": "13",
       "bookSource": "WDotMM 314",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16399,7 +16297,7 @@
       "challengeRating": "13",
       "bookSource": "WDotMM 315",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16411,7 +16309,7 @@
       "challengeRating": "8",
       "bookSource": "WDotMM 315",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16423,7 +16321,7 @@
       "challengeRating": "9",
       "bookSource": "WDotMM 316",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16435,7 +16333,7 @@
       "challengeRating": "2",
       "bookSource": "WDotMM 317",
       "environments": [
-         "DUNGEON"
+         "UNDERDARK"
       ]
    },
    {
@@ -16472,7 +16370,7 @@
       "bookSource": "GGtR 191",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16496,8 +16394,7 @@
       "challengeRating": "12",
       "bookSource": "GGtR 193",
       "environments": [
-         "URBAN",
-         "SKY"
+         "URBAN"
       ]
    },
    {
@@ -16522,9 +16419,7 @@
       "challengeRating": "1/2",
       "bookSource": "GGtR 195",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -16536,9 +16431,7 @@
       "challengeRating": "9",
       "bookSource": "GGtR 196",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -16550,9 +16443,7 @@
       "challengeRating": "12",
       "bookSource": "GGtR 197",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -16591,8 +16482,6 @@
       "bookSource": "GGtR 200",
       "environments": [
          "URBAN",
-         "ABYSSAL",
-         "INFERNAL",
          "MOUNTAIN"
       ]
    },
@@ -16619,7 +16508,7 @@
       "bookSource": "GGtR 202",
       "environments": [
          "URBAN",
-         "CRYPT",
+         "UNDERDARK",
          "MOUNTAIN"
       ]
    },
@@ -16647,7 +16536,7 @@
       "bookSource": "GGtR 203",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -16660,7 +16549,7 @@
       "bookSource": "GGtR 205",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -16673,7 +16562,7 @@
       "bookSource": "GGtR 205",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -16686,7 +16575,7 @@
       "bookSource": "GGtR 206",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16699,7 +16588,7 @@
       "bookSource": "GGtR 207",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16712,7 +16601,7 @@
       "bookSource": "GGtR 208",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16725,7 +16614,7 @@
       "bookSource": "GGtR 209",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16738,8 +16627,8 @@
       "bookSource": "GGtR 210",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "ELDRITCH"
+         "URBAN",
+         "UNDERDARK"
       ]
    },
    {
@@ -16752,8 +16641,8 @@
       "bookSource": "GGtR 211",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "ELDRITCH"
+         "URBAN",
+         "UNDERDARK"
       ]
    },
    {
@@ -16766,8 +16655,8 @@
       "bookSource": "GGtR 212",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "ELDRITCH"
+         "URBAN",
+         "UNDERDARK"
       ]
    },
    {
@@ -16808,7 +16697,7 @@
       "bookSource": "GGtR 215",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16821,7 +16710,7 @@
       "bookSource": "GGtR 215",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16834,8 +16723,8 @@
       "bookSource": "GGtR 216",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -16848,7 +16737,7 @@
       "bookSource": "GGtR 217",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16861,7 +16750,7 @@
       "bookSource": "GGtR 217",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16874,7 +16763,7 @@
       "bookSource": "GGtR 217",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16887,7 +16776,7 @@
       "bookSource": "GGtR 218",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16900,7 +16789,7 @@
       "bookSource": "GGtR 218",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -16912,8 +16801,7 @@
       "challengeRating": "2",
       "bookSource": "GGtR 219",
       "environments": [
-         "URBAN",
-         "SKY"
+         "URBAN"
       ]
    },
    {
@@ -16925,8 +16813,7 @@
       "challengeRating": "13",
       "bookSource": "GGtR 220",
       "environments": [
-         "URBAN",
-         "SKY"
+         "URBAN"
       ]
    },
    {
@@ -16939,7 +16826,7 @@
       "bookSource": "GGtR 221",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16952,7 +16839,7 @@
       "bookSource": "GGtR 221",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16979,7 +16866,7 @@
       "bookSource": "GGtR 223",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -16992,7 +16879,7 @@
       "bookSource": "GGtR 224",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -17005,10 +16892,10 @@
       "bookSource": "GGtR 225",
       "environments": [
          "URBAN",
-         "CRYPT",
+         "UNDERDARK",
          "FOREST",
          "UNDERDARK",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -17105,7 +16992,7 @@
       "bookSource": "GGtR 232",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -17118,7 +17005,7 @@
       "bookSource": "GGtR 233",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -17131,7 +17018,7 @@
       "bookSource": "GGtR 233",
       "environments": [
          "URBAN",
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -17144,9 +17031,9 @@
       "bookSource": "GGtR 235",
       "environments": [
          "URBAN",
-         "ELDRITCH",
+         "UNDERDARK",
          "SWAMP",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -17159,9 +17046,9 @@
       "bookSource": "GGtR 236",
       "environments": [
          "URBAN",
-         "ELDRITCH",
+         "UNDERDARK",
          "SWAMP",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -17226,8 +17113,8 @@
       "bookSource": "GGtR 241",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17240,8 +17127,8 @@
       "bookSource": "GGtR 242",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17254,8 +17141,8 @@
       "bookSource": "GGtR 242",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17268,8 +17155,8 @@
       "bookSource": "GGtR 242",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17282,8 +17169,8 @@
       "bookSource": "GGtR 243",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17296,8 +17183,8 @@
       "bookSource": "GGtR 243",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -17310,7 +17197,7 @@
       "bookSource": "GGtR 245",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -17322,9 +17209,7 @@
       "challengeRating": "24",
       "bookSource": "GGtR 247",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -17336,9 +17221,7 @@
       "challengeRating": "7",
       "bookSource": "GGtR 248",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -17350,9 +17233,7 @@
       "challengeRating": "2",
       "bookSource": "GGtR 248",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -17364,9 +17245,7 @@
       "challengeRating": "1",
       "bookSource": "GGtR 249",
       "environments": [
-         "URBAN",
-         "ABYSSAL",
-         "INFERNAL"
+         "URBAN"
       ]
    },
    {
@@ -18054,7 +17933,6 @@
       "challengeRating": "19",
       "bookSource": "CC 75",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18066,7 +17944,6 @@
       "challengeRating": "13",
       "bookSource": "CC 76",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18078,7 +17955,6 @@
       "challengeRating": "17",
       "bookSource": "CC 79",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18090,7 +17966,6 @@
       "challengeRating": "22",
       "bookSource": "CC 81",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18102,7 +17977,6 @@
       "challengeRating": "9",
       "bookSource": "CC 82",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18114,7 +17988,6 @@
       "challengeRating": "5",
       "bookSource": "CC 83",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18126,7 +17999,6 @@
       "challengeRating": "6",
       "bookSource": "CC 84",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18138,7 +18010,6 @@
       "challengeRating": "9",
       "bookSource": "CC 85",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18150,7 +18021,6 @@
       "challengeRating": "8",
       "bookSource": "CC 87",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18162,7 +18032,6 @@
       "challengeRating": "3",
       "bookSource": "CC 88",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18174,7 +18043,6 @@
       "challengeRating": "3",
       "bookSource": "CC 89",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18186,7 +18054,6 @@
       "challengeRating": "4",
       "bookSource": "CC 90",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18198,7 +18065,6 @@
       "challengeRating": "5",
       "bookSource": "CC 91",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18210,7 +18076,6 @@
       "challengeRating": "7",
       "bookSource": "CC 92",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18222,7 +18087,6 @@
       "challengeRating": "2",
       "bookSource": "CC 93",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18234,7 +18098,6 @@
       "challengeRating": "4",
       "bookSource": "CC 95",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18246,7 +18109,6 @@
       "challengeRating": "9",
       "bookSource": "CC 95",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -18282,8 +18144,7 @@
       "challengeRating": "13",
       "bookSource": "CC 98",
       "environments": [
-         "INFERNAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -18295,7 +18156,6 @@
       "challengeRating": "22",
       "bookSource": "CC 100",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -18307,7 +18167,6 @@
       "challengeRating": "25",
       "bookSource": "CC 101",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -18319,7 +18178,6 @@
       "challengeRating": "5",
       "bookSource": "CC 102",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -18331,7 +18189,6 @@
       "challengeRating": "1/2",
       "bookSource": "CC 103",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -18342,8 +18199,7 @@
       "alignment": "LE",
       "challengeRating": "16",
       "bookSource": "CC 104",
-      "environments": [
-         "INFERNAL"
+      "environments": [""
       ]
    },
    {
@@ -18355,7 +18211,6 @@
       "challengeRating": "4",
       "bookSource": "CC 105",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -18392,8 +18247,7 @@
       "bookSource": "CC 108",
       "environments": [
          "FOREST",
-         "MOUNTAIN",
-         "SKY"
+         "MOUNTAIN"
       ]
    },
    {
@@ -18496,52 +18350,48 @@
       "name": "Wasteland Dragon Wyrmling",
       "size": "Medium",
       "type": "Dragon",
-      "tag": "DragonWasteland Wyrmling",
+      "tag": "DragonDESERT Wyrmling",
       "alignment": "CE",
       "challengeRating": "3",
       "bookSource": "CC 118",
       "environments": [
-         "BARRENS",
-         "WASTELAND"
+         "DESERT"
       ]
    },
    {
-      "name": "Young Wasteland Dragon",
+      "name": "Young DESERT Dragon",
       "size": "Large",
       "type": "Dragon",
-      "tag": "Dragon Wasteland Young",
+      "tag": "Dragon DESERT Young",
       "alignment": "CE",
       "challengeRating": "9",
       "bookSource": "CC 118",
       "environments": [
-         "BARRENS",
-         "WASTELAND"
+         "DESERT"
       ]
    },
    {
-      "name": "Adult Wasteland Dragon",
+      "name": "Adult DESERT Dragon",
       "size": "Huge",
       "type": "Dragon",
-      "tag": "Dragon Wasteland Adult",
+      "tag": "Dragon DESERT Adult",
       "alignment": "CE",
       "challengeRating": "17",
       "bookSource": "CC 119",
       "environments": [
-         "BARRENS",
-         "WASTELAND"
+         "DESERT"
       ]
    },
    {
-      "name": "Ancient Wasteland Dragon",
+      "name": "Ancient DESERT Dragon",
       "size": "Gargantuan",
       "type": "Dragon",
-      "tag": "Dragon Wasteland Ancient",
+      "tag": "Dragon DESERT Ancient",
       "alignment": "CE",
       "challengeRating": "23",
       "bookSource": "CC 120",
       "environments": [
-         "BARRENS",
-         "WASTELAND"
+         "DESERT"
       ]
    },
    {
@@ -18617,7 +18467,7 @@
       "bookSource": "CC 127",
       "environments": [
          "FOREST",
-         "FAEWILDS"
+         "FOREST"
       ]
    },
    {
@@ -18641,8 +18491,6 @@
       "challengeRating": "5",
       "bookSource": "CC 129",
       "environments": [
-         "NOCTURNAL",
-         "SKY"
       ]
    },
    {
@@ -18681,7 +18529,7 @@
       "bookSource": "CC 132",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -18694,7 +18542,7 @@
       "bookSource": "CC 133",
       "environments": [
          "UNDERDARK",
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -18744,8 +18592,7 @@
       "challengeRating": "5",
       "bookSource": "CC 137",
       "environments": [
-         "URBAN",
-         "TEMPLE"
+         "URBAN"
       ]
    },
    {
@@ -18757,7 +18604,7 @@
       "challengeRating": "5",
       "bookSource": "CC 138",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -18770,8 +18617,7 @@
       "bookSource": "CC 139",
       "environments": [
          "COASTAL",
-         "SKY",
-         "aquatic"
+         "UNDERWATER"
       ]
    },
    {
@@ -18783,7 +18629,7 @@
       "challengeRating": "4",
       "bookSource": "CC 140",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -18796,7 +18642,6 @@
       "bookSource": "CC 141",
       "environments": [
          "FOREST",
-         "LABORATORY",
          "URBAN"
       ]
    },
@@ -18851,8 +18696,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18866,8 +18711,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18881,8 +18726,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18896,8 +18741,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18909,7 +18754,7 @@
       "challengeRating": "4",
       "bookSource": "CC 149",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -18935,9 +18780,9 @@
       "bookSource": "CC 151",
       "environments": [
          "URBAN",
-         "ELDRICTH",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "UNDERDARK",
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18950,7 +18795,7 @@
       "bookSource": "CC 152",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -18964,8 +18809,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18979,8 +18824,8 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -18993,7 +18838,7 @@
       "bookSource": "CC 157",
       "environments": [
          "COASTAL",
-         "CRYPT",
+         "UNDERDARK",
          "ARCTIC"
       ]
    },
@@ -19008,7 +18853,7 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "VOLCANIC",
+         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19021,7 +18866,7 @@
       "challengeRating": "9",
       "bookSource": "CC 159",
       "environments": [
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -19033,9 +18878,7 @@
       "challengeRating": "1/2",
       "bookSource": "CC 160",
       "environments": [
-         "UNDERDARK",
-         "CRYPT",
-         "ABYSSAL"
+         "UNDERDARK"
       ]
    },
    {
@@ -19048,8 +18891,8 @@
       "bookSource": "CC 161",
       "environments": [
          "FOREST",
-         "JUNGLE",
-         "CRYPT",
+         "FOREST",
+         "UNDERDARK",
          "SWAMP"
       ]
    },
@@ -19057,12 +18900,12 @@
       "name": "Flying Polyp",
       "size": "Huge",
       "type": "Aberration",
-      "tag": "Aberration Eldritch Polyp",
+      "tag": "Aberration UNDERDARK Polyp",
       "alignment": "CE",
       "challengeRating": "11",
       "bookSource": "CC 162",
       "environments": [
-         "ELDRITCH"
+         "UNDERDARK"
       ]
    },
    {
@@ -19075,8 +18918,8 @@
       "bookSource": "CC 163",
       "environments": [
          "FOREST",
-         "FAEWILDS",
-         "SHADOWFEY",
+         "FOREST",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19111,7 +18954,7 @@
       "environments": [
          "SWAMP",
          "UNDERDARK",
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -19124,7 +18967,7 @@
       "challengeRating": "5",
       "bookSource": "CC 167",
       "environments": [
-         "aquatic",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -19147,7 +18990,7 @@
       "challengeRating": "3",
       "bookSource": "CC 169",
       "environments": [
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -19160,7 +19003,7 @@
       "challengeRating": "6",
       "bookSource": "CC 169",
       "environments": [
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -19183,9 +19026,7 @@
       "challengeRating": "6",
       "bookSource": "CC 171",
       "environments": [
-         "MOUNTAIN",
-         "CAVERNOUS",
-         "DWARVEN"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19197,7 +19038,7 @@
       "challengeRating": "9",
       "bookSource": "CC 172",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19210,7 +19051,7 @@
       "challengeRating": "4",
       "bookSource": "CC 173",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19223,7 +19064,7 @@
       "challengeRating": "4",
       "bookSource": "CC 175",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19236,7 +19077,7 @@
       "challengeRating": "4",
       "bookSource": "CC 176",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19249,7 +19090,7 @@
       "challengeRating": "3",
       "bookSource": "CC 177",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -19284,7 +19125,6 @@
       "challengeRating": "1",
       "bookSource": "CC 179",
       "environments": [
-         "SKY",
          "COASTAL"
       ]
    },
@@ -19298,7 +19138,7 @@
       "bookSource": "CC 179",
       "environments": [
          "MOUNTAIN",
-         "VOLCANIC"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19310,9 +19150,9 @@
       "challengeRating": "8",
       "bookSource": "CC 180",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19325,8 +19165,8 @@
       "bookSource": "CC 181",
       "environments": [
          "MOUNTAIN",
-         "CAVERNOUS",
-         "VOLCANIC"
+         "MOUNTAIN",
+         "MOUNTAIN"
       ]
    },
    {
@@ -19339,8 +19179,8 @@
       "bookSource": "CC 182",
       "environments": [
          "MOUNTAIN",
-         "CAVERNOUS",
-         "VOLCANIC"
+         "MOUNTAIN",
+         "MOUNTAIN"
       ]
    },
    {
@@ -19366,7 +19206,7 @@
       "bookSource": "CC 184",
       "environments": [
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19379,8 +19219,8 @@
       "bookSource": "CC 185",
       "environments": [
          "MOUNTAIN",
-         "CAVERNOUS",
-         "VOLCANIC"
+         "MOUNTAIN",
+         "MOUNTAIN"
       ]
    },
    {
@@ -19393,8 +19233,8 @@
       "bookSource": "CC 187",
       "environments": [
          "MOUNTAIN",
-         "CAVERNOUS",
-         "ELDRITCH"
+         "MOUNTAIN",
+         "UNDERDARK"
       ]
    },
    {
@@ -19433,9 +19273,9 @@
       "bookSource": "CC 190",
       "environments": [
          "FOREST",
-         "CAVERNOUS",
          "MOUNTAIN",
-         "ELDRITCH"
+         "MOUNTAIN",
+         "UNDERDARK"
       ]
    },
    {
@@ -19448,9 +19288,9 @@
       "bookSource": "CC 191",
       "environments": [
          "FOREST",
-         "CAVERNOUS",
          "MOUNTAIN",
-         "SHADOWFEY",
+         "MOUNTAIN",
+         "UNDERDARK",
          "UNDERDARK"
       ]
    },
@@ -19464,8 +19304,8 @@
       "bookSource": "CC 192",
       "environments": [
          "URBAN",
-         "LABORATORY",
-         "FACTORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -19478,8 +19318,7 @@
       "bookSource": "CC 193",
       "environments": [
          "URBAN",
-         "SHRINE",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19504,7 +19343,7 @@
       "bookSource": "CC 195",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19516,10 +19355,7 @@
       "challengeRating": "3",
       "bookSource": "CC 196",
       "environments": [
-         "URBAN",
-         "DWARVEN",
-         "FACTORY",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -19532,7 +19368,7 @@
       "bookSource": "CC 197",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19546,8 +19382,7 @@
       "environments": [
          "URBAN",
          "MOUNTAIN",
-         "RUIN",
-         "DWARVEN"
+         "UNDERDARK"
       ]
    },
    {
@@ -19559,8 +19394,7 @@
       "challengeRating": "3",
       "bookSource": "CC 199",
       "environments": [
-         "URBAN",
-         "DWARVEN"
+         "URBAN"
       ]
    },
    {
@@ -19597,7 +19431,7 @@
       "bookSource": "CC 201",
       "environments": [
          "URBAN",
-         "CAVERN",
+         "MOUNTAIN",
          "MOUNTAIN",
          "SWAMP"
       ]
@@ -19613,7 +19447,7 @@
       "environments": [
          "URBAN",
          "FOREST",
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -19628,8 +19462,8 @@
          "URBAN",
          "SWAMP",
          "COASTAL",
-         "AQUATIC",
-         "JUNGLE",
+         "UNDERWATER",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -19643,7 +19477,7 @@
       "bookSource": "CC 203",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -19680,8 +19514,8 @@
       "bookSource": "CC 205",
       "environments": [
          "URBAN",
-         "FACTORY",
-         "LABORATORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -19693,7 +19527,7 @@
       "challengeRating": "7",
       "bookSource": "CC 206",
       "environments": [
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -19707,8 +19541,8 @@
       "bookSource": "CC 207",
       "environments": [
          "URBAN",
-         "CRYPT",
-         "LABORATORY"
+         "UNDERDARK",
+         "URBAN"
       ]
    },
    {
@@ -19721,8 +19555,8 @@
       "bookSource": "CC 208",
       "environments": [
          "URBAN",
-         "CRYPT",
-         "LABORATORY"
+         "UNDERDARK",
+         "URBAN"
       ]
    },
    {
@@ -19734,8 +19568,7 @@
       "challengeRating": "6",
       "bookSource": "CC 209",
       "environments": [
-         "FOREST",
-         "FAEWILDS"
+         "FOREST"
       ]
    },
    {
@@ -19748,7 +19581,7 @@
       "bookSource": "CC 210",
       "environments": [
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -19760,8 +19593,7 @@
       "challengeRating": "21",
       "bookSource": "CC 211",
       "environments": [
-         "MOUNTAIN",
-         "SKY"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19773,7 +19605,7 @@
       "challengeRating": "6",
       "bookSource": "CC 212",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -19837,8 +19669,8 @@
       "challengeRating": "12",
       "bookSource": "CC 220",
       "environments": [
-         "JUNGLE",
-         "RUIN"
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -19861,7 +19693,7 @@
       "bookSource": "CC 222",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19874,7 +19706,7 @@
       "bookSource": "CC 223",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19897,7 +19729,7 @@
       "bookSource": "CC 225",
       "environments": [
          "FOREST",
-         "FAEWILDS",
+         "FOREST",
          "ARCTIC"
       ]
    },
@@ -19911,7 +19743,7 @@
       "bookSource": "CC 226",
       "environments": [
          "MOUNTAIN",
-         "VOLCANIC"
+         "MOUNTAIN"
       ]
    },
    {
@@ -19924,7 +19756,7 @@
       "bookSource": "CC 227",
       "environments": [
          "URBAN",
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -19937,8 +19769,8 @@
       "bookSource": "CC 228",
       "environments": [
          "URBAN",
-         "FACTORY",
-         "LABORATORY"
+         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -19951,7 +19783,7 @@
       "bookSource": "CC 229",
       "environments": [
          "COASTAL",
-         "aquatic"
+         "UNDERWATER"
       ]
    },
    {
@@ -19964,7 +19796,7 @@
       "bookSource": "CC 230",
       "environments": [
          "URBAN",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -19977,7 +19809,7 @@
       "bookSource": "CC 232",
       "environments": [
          "FOREST",
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -19990,9 +19822,9 @@
       "bookSource": "CC 233",
       "environments": [
          "FOREST",
-         "CAVERNOUS",
          "MOUNTAIN",
-         "FAEWILDS",
+         "MOUNTAIN",
+         "FOREST",
          "SWAMP"
       ]
    },
@@ -20006,11 +19838,11 @@
       "bookSource": "CC 234",
       "environments": [
          "FOREST",
-         "CAVERNOUS",
          "MOUNTAIN",
-         "FAEWILDS",
+         "MOUNTAIN",
+         "FOREST",
          "SWAMP",
-         "JUNGLE",
+         "FOREST",
          "COASTAL"
       ]
    },
@@ -20034,8 +19866,8 @@
       "bookSource": "CC 236",
       "environments": [
          "FOREST",
-         "JUNGLE",
-         "FAEWILDS"
+         "FOREST",
+         "FOREST"
       ]
    },
    {
@@ -20048,9 +19880,9 @@
       "bookSource": "CC 237",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20063,9 +19895,9 @@
       "bookSource": "CC 238",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20078,9 +19910,9 @@
       "bookSource": "CC 239",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20093,9 +19925,9 @@
       "bookSource": "CC 240",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20108,9 +19940,9 @@
       "bookSource": "CC 241",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "MOUNTAIN",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20123,8 +19955,8 @@
       "bookSource": "CC 242",
       "environments": [
          "FOREST",
-         "JUNGLE",
-         "FAEWILDS"
+         "FOREST",
+         "FOREST"
       ]
    },
    {
@@ -20137,9 +19969,9 @@
       "bookSource": "CC 243",
       "environments": [
          "FOREST",
-         "JUNGLE",
+         "FOREST",
          "COASTAL",
-         "CAVERNOUS"
+         "MOUNTAIN"
       ]
    },
    {
@@ -20232,10 +20064,10 @@
       "bookSource": "CC 255",
       "environments": [
          "URBAN",
-         "CRYPT",
          "UNDERDARK",
-         "FAEWILDS",
-         "SHADOWFEY"
+         "UNDERDARK",
+         "FOREST",
+         "UNDERDARK"
       ]
    },
    {
@@ -20347,8 +20179,6 @@
       "challengeRating": "17",
       "bookSource": "CC 265",
       "environments": [
-         "ABYSSAL",
-         "INFERNAL",
          "MOUNTAIN"
       ]
    },
@@ -20361,7 +20191,7 @@
       "challengeRating": "3",
       "bookSource": "CC 266",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -20375,7 +20205,7 @@
       "challengeRating": "5",
       "bookSource": "CC 267",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -20388,7 +20218,7 @@
       "challengeRating": "7",
       "bookSource": "CC 267",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -20401,7 +20231,7 @@
       "challengeRating": "8",
       "bookSource": "CC 268",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -20534,7 +20364,7 @@
       "challengeRating": "1",
       "bookSource": "CC 281",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -20546,7 +20376,7 @@
       "challengeRating": "6",
       "bookSource": "CC 282",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -20618,7 +20448,7 @@
       "bookSource": "CC 289",
       "environments": [
          "ARCTIC",
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -20632,7 +20462,7 @@
       "bookSource": "CC 290",
       "environments": [
          "ARCTIC",
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -20645,7 +20475,7 @@
       "challengeRating": "1/2",
       "bookSource": "CC 291",
       "environments": [
-         "JUNGLE",
+         "FOREST",
          "FOREST"
       ]
    },
@@ -20678,7 +20508,7 @@
       "challengeRating": "2",
       "bookSource": "CC 294",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -20692,7 +20522,7 @@
       "challengeRating": "4",
       "bookSource": "CC 295",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -20706,7 +20536,7 @@
       "challengeRating": "7",
       "bookSource": "CC 295",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -20720,7 +20550,7 @@
       "challengeRating": "1",
       "bookSource": "CC 296",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -20854,7 +20684,7 @@
       "bookSource": "CC 308",
       "environments": [
          "URBAN",
-         "FAEWILD"
+         "FOREST"
       ]
    },
    {
@@ -20878,7 +20708,7 @@
       "challengeRating": "2",
       "bookSource": "CC 310",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -21036,7 +20866,7 @@
       "environments": [
          "SWAMP",
          "FOREST",
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21050,8 +20880,8 @@
       "environments": [
          "COASTAL",
          "FOREST",
-         "JUNGLE",
-         "AQUATIC"
+         "FOREST",
+         "UNDERWATER"
       ]
    },
    {
@@ -21145,7 +20975,7 @@
       "challengeRating": "1/2",
       "bookSource": "CC 336",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21157,7 +20987,7 @@
       "challengeRating": "21",
       "bookSource": "CC 337",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21169,7 +20999,7 @@
       "challengeRating": "2",
       "bookSource": "CC 338",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21191,7 +21021,7 @@
       "challengeRating": "2",
       "bookSource": "CC 340",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21203,7 +21033,7 @@
       "challengeRating": "9",
       "bookSource": "CC 341",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21215,7 +21045,7 @@
       "challengeRating": "2",
       "bookSource": "CC 342",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21227,7 +21057,7 @@
       "challengeRating": "1/4",
       "bookSource": "CC 343",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21252,7 +21082,7 @@
       "bookSource": "CC 345",
       "environments": [
          "FOREST",
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21282,16 +21112,16 @@
       ]
    },
    {
-      "name": "Crypt Spider",
+      "name": "UNDERDARK Spider",
       "size": "Medium",
       "type": "Beast",
-      "tag": "Crypt Spider Beast",
+      "tag": "UNDERDARK Spider Beast",
       "alignment": "LE",
       "challengeRating": "2",
       "bookSource": "CC 348",
       "environments": [
-         "CRYPT",
-         "CAVERNOUS"
+         "UNDERDARK",
+         "MOUNTAIN"
       ]
    },
    {
@@ -21303,7 +21133,7 @@
       "challengeRating": "7",
       "bookSource": "CC 349",
       "environments": [
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21325,7 +21155,7 @@
       "challengeRating": "1",
       "bookSource": "CC 351",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21391,7 +21221,7 @@
       "challengeRating": "4",
       "bookSource": "CC 357",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21403,7 +21233,7 @@
       "challengeRating": "2",
       "bookSource": "CC 357",
       "environments": [
-         "JUNGLE"
+         "FOREST"
       ]
    },
    {
@@ -21426,7 +21256,7 @@
       "bookSource": "CC 359",
       "environments": [
          "ARCTIC",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -21459,8 +21289,8 @@
       "bookSource": "CC 362",
       "environments": [
          "COASTAL",
-         "aquatic",
-         "FAEWILDS"
+         "UNDERWATER",
+         "FOREST"
       ]
    },
    {
@@ -21492,7 +21322,7 @@
       "challengeRating": "10",
       "bookSource": "CC 365",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -21505,7 +21335,7 @@
       "challengeRating": "8",
       "bookSource": "CC 367",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -21518,7 +21348,7 @@
       "challengeRating": "11",
       "bookSource": "CC 369",
       "environments": [
-         "CRYPT",
+         "UNDERDARK",
          "URBAN"
       ]
    },
@@ -21561,7 +21391,7 @@
       "challengeRating": "4",
       "bookSource": "CC 373",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21604,7 +21434,7 @@
       "challengeRating": "11",
       "bookSource": "CC 377",
       "environments": [
-         "CAVERNOUS",
+         "MOUNTAIN",
          "ARCTIC",
          "MOUNTAIN",
          "FOREST"
@@ -21763,7 +21593,7 @@
       "challengeRating": "8",
       "bookSource": "CC 392",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21876,7 +21706,7 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 230",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21889,7 +21719,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 232",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21902,7 +21732,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 232",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21915,7 +21745,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 232",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21928,7 +21758,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 233",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21941,7 +21771,7 @@
       "challengeRating": "4",
       "bookSource": "GotSM 234",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21954,7 +21784,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 235",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21967,7 +21797,7 @@
       "challengeRating": "9",
       "bookSource": "GotSM 235",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21980,7 +21810,7 @@
       "challengeRating": "4",
       "bookSource": "GotSM 236",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -21993,7 +21823,7 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 237",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22006,7 +21836,7 @@
       "challengeRating": "5",
       "bookSource": "GotSM 237",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22019,7 +21849,7 @@
       "challengeRating": "14",
       "bookSource": "GotSM 238",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22032,7 +21862,7 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 238",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22045,7 +21875,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 239",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22058,7 +21888,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 240",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22081,7 +21911,7 @@
       "challengeRating": "1/4",
       "bookSource": "GotSM 241",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22094,7 +21924,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 241",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22107,7 +21937,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 242",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22120,7 +21950,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 241",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22133,7 +21963,7 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 243",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22146,7 +21976,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 243",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22159,7 +21989,7 @@
       "challengeRating": "7",
       "bookSource": "GotSM 244",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22172,7 +22002,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 243",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22195,9 +22025,8 @@
       "challengeRating": "11",
       "bookSource": "GotSM 245",
       "environments": [
-         "AQUATIC",
-         "COASTAL",
-         "SKY"
+         "UNDERWATER",
+         "COASTAL"
       ]
    },
    {
@@ -22209,7 +22038,7 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 247",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22222,7 +22051,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 247",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22235,7 +22064,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 248",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22248,7 +22077,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 248",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22261,7 +22090,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 248",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22274,7 +22103,7 @@
       "challengeRating": "6",
       "bookSource": "GotSM 249",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22287,7 +22116,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 249",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22300,7 +22129,7 @@
       "challengeRating": "1",
       "bookSource": "GotSM 249",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22313,7 +22142,7 @@
       "challengeRating": "4",
       "bookSource": "GotSM 250",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22326,7 +22155,7 @@
       "challengeRating": "3",
       "bookSource": "GotSM 250",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22339,7 +22168,7 @@
       "challengeRating": "5",
       "bookSource": "GotSM 251",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22352,7 +22181,7 @@
       "challengeRating": "5",
       "bookSource": "GotSM 251",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22365,7 +22194,7 @@
       "challengeRating": "2",
       "bookSource": "GotSM 252",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -22378,9 +22207,9 @@
       "challengeRating": "1/2",
       "bookSource": "GotSM 253",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -22392,9 +22221,9 @@
       "challengeRating": "5",
       "bookSource": "GotSM 253",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -22406,9 +22235,9 @@
       "challengeRating": "2",
       "bookSource": "GotSM 254",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -22420,9 +22249,9 @@
       "challengeRating": "5",
       "bookSource": "GotSM 254",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL",
-         "CRYPT"
+         "UNDERDARK"
       ]
    },
    {
@@ -22444,7 +22273,7 @@
       "challengeRating": "6",
       "bookSource": "GotSM 256",
       "environments": [
-         "AQUATIC",
+         "UNDERWATER",
          "COASTAL",
          "SWAMP"
       ]
@@ -22518,7 +22347,6 @@
       "challengeRating": "14",
       "bookSource": "BGDiA 230",
       "environments": [
-         "ABYSSAL"
       ]
    },
    {
@@ -22630,8 +22458,6 @@
       "challengeRating": "8",
       "bookSource": "BGDiA 236",
       "environments": [
-         "ABYSSAL",
-         "INFERNAL"
       ]
    },
    {
@@ -22663,7 +22489,6 @@
       "challengeRating": "4",
       "bookSource": "BGDiA 238",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -22685,7 +22510,6 @@
       "challengeRating": "26",
       "bookSource": "BGDiA 243",
       "environments": [
-         "INFERNAL"
       ]
    },
    {
@@ -22707,7 +22531,7 @@
       "challengeRating": "1/2",
       "bookSource": "LLoK",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -22729,8 +22553,6 @@
       "challengeRating": "1/2",
       "bookSource": "SLW",
       "environments": [
-         "INFERNAL",
-         "ABYSSAL"
       ]
    },
    {
@@ -22862,7 +22684,7 @@
       "challengeRating": "1",
       "bookSource": "E:RftLW 298",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -22874,7 +22696,7 @@
       "challengeRating": "5",
       "bookSource": "E:RftLW 299",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -22886,7 +22708,7 @@
       "challengeRating": "7",
       "bookSource": "E:RftLW 299",
       "environments": [
-         "LABORATORY"
+         "URBAN"
       ]
    },
    {
@@ -23268,7 +23090,7 @@
       "challengeRating": "4",
       "bookSource": "EGtW 294",
       "environments": [
-         "aquatic",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -23311,7 +23133,7 @@
       "challengeRating": "3",
       "bookSource": "EGtW 297",
       "environments": [
-         "aquatic",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -23324,7 +23146,7 @@
       "challengeRating": "12",
       "bookSource": "EGtW 299",
       "environments": [
-         "aquatic",
+         "UNDERWATER",
          "COASTAL"
       ]
    },
@@ -23348,7 +23170,7 @@
       "bookSource": "EGtW 300",
       "environments": [
          "COASTAL",
-         "AQUATIC"
+         "UNDERWATER"
       ]
    },
    {
@@ -23419,7 +23241,7 @@
       "name": "Helper Unbound Form",
       "size": "medium",
       "type": "monstrosity",
-      "tag": "helper shapechanger exoskeleton creepy alien monster unbound form eldritch",
+      "tag": "helper shapechanger exoskeleton creepy alien monster unbound form UNDERDARK",
       "alignment": "CN",
       "challengeRating": "12",
       "bookSource": "MHB",
@@ -23502,5 +23324,441 @@
       "challengeRating": "18",
       "bookSource": "MHB",
       "environments": []
+   },
+   {
+      "name": "Aarakocra Brave",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "aarakocra brid fold person brave",
+      "alignment": "NG",
+      "challengeRating": "3",
+      "bookSource": "MME 7",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Aarakocra Scout",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "aarakocra brid fold person scout",
+      "alignment": "NG",
+      "challengeRating": "1",
+      "bookSource": "MME 8",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Aarakocra Talon of Syranita",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "aarakocra brid fold person Talon Syranita",
+      "alignment": "NG",
+      "challengeRating": "6",
+      "bookSource": "MME 8",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Aboleth Overseer",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "aboleth overseer squid mind flayer psionic",
+      "alignment": "LE",
+      "challengeRating": "20",
+      "bookSource": "MME 10",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Aboleth Slime Lord",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "aboleth slime lord ooze squid mind flayer psionic",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "MME 11",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Skum",
+      "size": "medium",
+      "type": "humanoid",
+      "tag": "skum triton merrow trosk merfolk aboleth abolith",
+      "alignment": "LE",
+      "challengeRating": "1/4",
+      "bookSource": "MME 12",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Skum Beast",
+      "size": "large",
+      "type": "humanoid",
+      "tag": "skum triton merrow trosk merfolk aboleth abolith beast",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 12",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Skum Hulk",
+      "size": "large",
+      "type": "humanoid",
+      "tag": "skum hulk brute triton merrow trosk merfolk aboleth abolith",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 12",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Deva Shaitan",
+      "size": "medium",
+      "type": "fiend",
+      "tag": "deva shaitan angel fallen demonic shadow fiend",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 13",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Planetar Shaitan",
+      "size": "medium",
+      "type": "fiend",
+      "tag": "planetar shaitan angel fallen demonic shadow fiend",
+      "alignment": "CE",
+      "challengeRating": "16",
+      "bookSource": "MME 14",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Solar Shaitan",
+      "size": "medium",
+      "type": "fiend",
+      "tag": "solar sun shaitan angel fallen demonic shadow fiend",
+      "alignment": "CE",
+      "challengeRating": "21",
+      "bookSource": "MME 15",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Animated Wood Statue",
+      "size": "large",
+      "type": "construct",
+      "tag": "animated object wood wooden statue construct golem",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MME 16",
+      "environments": [
+         "URBAN",
+         "COASTAL",
+         "FOREST"
+      ]
+   },
+   {
+      "name": "Animated Stone Statue",
+      "size": "large",
+      "type": "construct",
+      "tag": "animated object stone statue construct golem",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "MME 16",
+      "environments": [
+         "URBAN",
+         "UNDERDARK",
+         "COASTAL",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Animated Iron Statue",
+      "size": "large",
+      "type": "construct",
+      "tag": "animated object iron metal steel statue construct golem",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MME 16",
+      "environments": [
+         "URBAN",
+         "UNDERDARK",
+         "COASTAL",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ankheg Brood Queen",
+      "size": "huge",
+      "type": "monstrosity",
+      "tag": "ankheg brood queen ant bug",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME 17",
+      "environments": [
+         "HILL",
+         "FOREST",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "DESERT"
+      ]
+   },
+   {
+      "name": "Ankheg Broodling",
+      "size": "small",
+      "type": "monstrosity",
+      "tag": "ankheg broodling spawn ant bug",
+      "alignment": "U",
+      "challengeRating": "1/4",
+      "bookSource": "MME 17",
+      "environments": [
+         "HILL",
+         "FOREST",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "DESERT"
+      ]
+   },
+   {
+      "name": "Azer Priest of the Flame",
+      "size": "medium",
+      "type": "elemenetal",
+      "tag": "azer elemental priest flame fire giant",
+      "alignment": "LN",
+      "challengeRating": "7",
+      "bookSource": "MME 18",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Azer Taskmaster",
+      "size": "medium",
+      "type": "elemenetal",
+      "tag": "azer elemental task master taskmaster fire giant",
+      "alignment": "LN",
+      "challengeRating": "5",
+      "bookSource": "MME 19",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Azer Zealot",
+      "size": "medium",
+      "type": "elemenetal",
+      "tag": "azer elemental task master taskmaster fire giant",
+      "alignment": "LN",
+      "challengeRating": "4",
+      "bookSource": "MME 19",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Banshee",
+      "size": "medium",
+      "type": "undead",
+      "tag": "greater banshee wail ghost spirit undead",
+      "alignment": "CE",
+      "challengeRating": "13",
+      "bookSource": "MME 21",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Greater Basilisk",
+      "size": "large",
+      "type": "monstrosity",
+      "tag": "greater basilisk lizard snake poison",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME 22",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "UNDERDARK",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ancient Behir",
+      "size": "gargantuan",
+      "type": "monstrosity",
+      "tag": "greater behir ancient gargantuan lightning electricity snake dragon lizard",
+      "alignment": "NE",
+      "challengeRating": "20",
+      "bookSource": "MME 23",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "UNDERDARK",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Young Behir",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "spawn behir young gargantuan lightning electricity snake dragon lizard",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MME 23",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "UNDERDARK",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Elder Orb",
+      "size": "large",
+      "type": "aberration",
+      "tag": "elder orb eye beholder",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "MME 25",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Eye of Flame",
+      "size": "large",
+      "type": "aberration",
+      "tag": "flame fire orb eye beholder",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MME 26",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "URBAN",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Eye of Frost",
+      "size": "large",
+      "type": "aberration",
+      "tag": "frost cold orb eye beholder",
+      "alignment": "LE",
+      "challengeRating": "12",
+      "bookSource": "MME 27",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "URBAN",
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Ultimate Tyrant",
+      "size": "huge",
+      "type": "aberration",
+      "tag": "ultimate tyrant orb eye beholder",
+      "alignment": "LE",
+      "challengeRating": "22",
+      "bookSource": "MME 28",
+      "environments": [
+         "MOUNTAIN",
+         "GRASSLAND",
+         "COASTAL",
+         "FOREST",
+         "URBAN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Abyssal Chicken",
+      "size": "tiny",
+      "type": "fiend",
+      "tag": "abyssal chicken fiend demon",
+      "alignment": "CE",
+      "challengeRating": "1/4",
+      "bookSource": "BGDiA 97",
+      "environments": []
+   },
+   {
+      "name": "Ancient Blight",
+      "size": "huge",
+      "type": "plant",
+      "tag": "ancient plant blight saproling dead infected",
+      "alignment": "NE",
+      "challengeRating": "6",
+      "bookSource": "MME 29",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "FOREST",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "UNDERDARK",
+         "DESERT"
+      ]
    }
 ]
