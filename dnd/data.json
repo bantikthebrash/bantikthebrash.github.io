@@ -16051,7 +16051,6 @@
       "challengeRating": "4",
       "bookSource": "MHB",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -18199,8 +18198,7 @@
       "alignment": "LE",
       "challengeRating": "16",
       "bookSource": "CC 104",
-      "environments": [""
-      ]
+      "environments": []
    },
    {
       "name": "Winds harp",
@@ -18466,7 +18464,6 @@
       "challengeRating": "6",
       "bookSource": "CC 127",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -18696,7 +18693,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18711,7 +18707,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18726,7 +18721,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18741,7 +18735,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18809,7 +18802,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18824,7 +18816,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "FOREST",
          "UNDERDARK"
       ]
    },
@@ -18891,7 +18882,6 @@
       "bookSource": "CC 161",
       "environments": [
          "FOREST",
-         "FOREST",
          "UNDERDARK",
          "SWAMP"
       ]
@@ -18917,7 +18907,6 @@
       "challengeRating": "1/2",
       "bookSource": "CC 163",
       "environments": [
-         "FOREST",
          "FOREST",
          "UNDERDARK",
          "URBAN"
@@ -18954,7 +18943,6 @@
       "environments": [
          "SWAMP",
          "UNDERDARK",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -18990,7 +18978,6 @@
       "challengeRating": "3",
       "bookSource": "CC 169",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19003,7 +18990,6 @@
       "challengeRating": "6",
       "bookSource": "CC 169",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19446,7 +19432,6 @@
       "bookSource": "CC 201",
       "environments": [
          "URBAN",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19463,7 +19448,6 @@
          "SWAMP",
          "COASTAL",
          "UNDERWATER",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19527,7 +19511,6 @@
       "challengeRating": "7",
       "bookSource": "CC 206",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19729,7 +19712,6 @@
       "bookSource": "CC 225",
       "environments": [
          "FOREST",
-         "FOREST",
          "ARCTIC"
       ]
    },
@@ -19808,7 +19790,6 @@
       "challengeRating": "9",
       "bookSource": "CC 232",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19821,8 +19802,6 @@
       "challengeRating": "2",
       "bookSource": "CC 233",
       "environments": [
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN",
          "FOREST",
          "SWAMP"
@@ -19839,10 +19818,7 @@
       "environments": [
          "FOREST",
          "MOUNTAIN",
-         "MOUNTAIN",
-         "FOREST",
          "SWAMP",
-         "FOREST",
          "COASTAL"
       ]
    },
@@ -19865,8 +19841,6 @@
       "challengeRating": "2",
       "bookSource": "CC 236",
       "environments": [
-         "FOREST",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19880,8 +19854,6 @@
       "bookSource": "CC 237",
       "environments": [
          "FOREST",
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19895,8 +19867,6 @@
       "bookSource": "CC 238",
       "environments": [
          "FOREST",
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19910,8 +19880,6 @@
       "bookSource": "CC 239",
       "environments": [
          "FOREST",
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19925,8 +19893,6 @@
       "bookSource": "CC 240",
       "environments": [
          "FOREST",
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19940,8 +19906,6 @@
       "bookSource": "CC 241",
       "environments": [
          "FOREST",
-         "FOREST",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19955,7 +19919,6 @@
       "bookSource": "CC 242",
       "environments": [
          "FOREST",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -19968,7 +19931,6 @@
       "challengeRating": "5",
       "bookSource": "CC 243",
       "environments": [
-         "FOREST",
          "FOREST",
          "COASTAL",
          "MOUNTAIN"
@@ -20448,7 +20410,6 @@
       "bookSource": "CC 289",
       "environments": [
          "ARCTIC",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -20462,7 +20423,6 @@
       "bookSource": "CC 290",
       "environments": [
          "ARCTIC",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -20475,7 +20435,6 @@
       "challengeRating": "1/2",
       "bookSource": "CC 291",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -20865,7 +20824,6 @@
       "bookSource": "CC 326",
       "environments": [
          "SWAMP",
-         "FOREST",
          "FOREST"
       ]
    },
@@ -20879,7 +20837,6 @@
       "bookSource": "CC 327",
       "environments": [
          "COASTAL",
-         "FOREST",
          "FOREST",
          "UNDERWATER"
       ]
@@ -21081,7 +21038,6 @@
       "challengeRating": "7",
       "bookSource": "CC 345",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -23751,14 +23707,12 @@
       "environments": [
          "DESERT",
          "FOREST",
-         "FOREST",
          "GRASSLAND",
          "HILL",
          "FOREST",
          "MOUNTAIN",
          "GRASSLAND",
-         "UNDERDARK",
-         "DESERT"
+         "UNDERDARK"
       ]
    }
 ]
