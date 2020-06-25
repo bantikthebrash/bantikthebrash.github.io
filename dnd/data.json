@@ -4401,10 +4401,10 @@
       ]
    },
    {
-      "name": "Forest Hunter Shadow Fey Elves",
+      "name": "Forest Hunter",
       "size": "Medium",
       "type": "Humanoid",
-      "tag": "Elf",
+      "tag": "Elf Shadow Fey Elves hunter forest",
       "alignment": "LE",
       "challengeRating": "5",
       "bookSource": "ToB 173",
@@ -16586,7 +16586,6 @@
       "challengeRating": "4",
       "bookSource": "GGtR 207",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16599,7 +16598,6 @@
       "challengeRating": "7",
       "bookSource": "GGtR 208",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16612,7 +16610,6 @@
       "challengeRating": "1",
       "bookSource": "GGtR 209",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16625,7 +16622,6 @@
       "challengeRating": "1",
       "bookSource": "GGtR 210",
       "environments": [
-         "URBAN",
          "URBAN",
          "UNDERDARK"
       ]
@@ -16640,7 +16636,6 @@
       "bookSource": "GGtR 211",
       "environments": [
          "URBAN",
-         "URBAN",
          "UNDERDARK"
       ]
    },
@@ -16653,7 +16648,6 @@
       "challengeRating": "16",
       "bookSource": "GGtR 212",
       "environments": [
-         "URBAN",
          "URBAN",
          "UNDERDARK"
       ]
@@ -16721,8 +16715,6 @@
       "challengeRating": "8",
       "bookSource": "GGtR 216",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16735,7 +16727,6 @@
       "challengeRating": "2",
       "bookSource": "GGtR 217",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16748,7 +16739,6 @@
       "challengeRating": "2",
       "bookSource": "GGtR 217",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16761,7 +16751,6 @@
       "challengeRating": "1",
       "bookSource": "GGtR 217",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16774,7 +16763,6 @@
       "challengeRating": "1",
       "bookSource": "GGtR 218",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16787,7 +16775,6 @@
       "challengeRating": "1/2",
       "bookSource": "GGtR 218",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -16893,7 +16880,6 @@
          "URBAN",
          "UNDERDARK",
          "FOREST",
-         "UNDERDARK",
          "MOUNTAIN"
       ]
    },
@@ -17030,7 +17016,6 @@
       "bookSource": "GGtR 235",
       "environments": [
          "URBAN",
-         "UNDERDARK",
          "SWAMP",
          "UNDERDARK"
       ]
@@ -17045,7 +17030,6 @@
       "bookSource": "GGtR 236",
       "environments": [
          "URBAN",
-         "UNDERDARK",
          "SWAMP",
          "UNDERDARK"
       ]
@@ -17111,8 +17095,6 @@
       "challengeRating": "26",
       "bookSource": "GGtR 241",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -17125,8 +17107,6 @@
       "challengeRating": "4",
       "bookSource": "GGtR 242",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -17139,8 +17119,6 @@
       "challengeRating": "2",
       "bookSource": "GGtR 242",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -17153,8 +17131,6 @@
       "challengeRating": "5",
       "bookSource": "GGtR 242",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -17167,8 +17143,6 @@
       "challengeRating": "5",
       "bookSource": "GGtR 243",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -17181,8 +17155,6 @@
       "challengeRating": "1/2",
       "bookSource": "GGtR 243",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -18348,7 +18320,7 @@
       "name": "Wasteland Dragon Wyrmling",
       "size": "Medium",
       "type": "Dragon",
-      "tag": "DragonDESERT Wyrmling",
+      "tag": "Dragon Wasteland Wyrmling",
       "alignment": "CE",
       "challengeRating": "3",
       "bookSource": "CC 118",
@@ -18357,10 +18329,10 @@
       ]
    },
    {
-      "name": "Young DESERT Dragon",
+      "name": "Young Wasteland Dragon",
       "size": "Large",
       "type": "Dragon",
-      "tag": "Dragon DESERT Young",
+      "tag": "Dragon Wasteland Young",
       "alignment": "CE",
       "challengeRating": "9",
       "bookSource": "CC 118",
@@ -18369,10 +18341,10 @@
       ]
    },
    {
-      "name": "Adult DESERT Dragon",
+      "name": "Adult Wasteland Dragon",
       "size": "Huge",
       "type": "Dragon",
-      "tag": "Dragon DESERT Adult",
+      "tag": "Dragon Wasteland Adult",
       "alignment": "CE",
       "challengeRating": "17",
       "bookSource": "CC 119",
@@ -18381,10 +18353,10 @@
       ]
    },
    {
-      "name": "Ancient DESERT Dragon",
+      "name": "Ancient Wasteland Dragon",
       "size": "Gargantuan",
       "type": "Dragon",
-      "tag": "Dragon DESERT Ancient",
+      "tag": "Dragon Wasteland Ancient",
       "alignment": "CE",
       "challengeRating": "23",
       "bookSource": "CC 120",
@@ -18538,7 +18510,6 @@
       "challengeRating": "9",
       "bookSource": "CC 133",
       "environments": [
-         "UNDERDARK",
          "UNDERDARK",
          "URBAN"
       ]
@@ -18773,7 +18744,6 @@
       "bookSource": "CC 151",
       "environments": [
          "URBAN",
-         "UNDERDARK",
          "FOREST",
          "UNDERDARK"
       ]
@@ -19275,8 +19245,6 @@
       "challengeRating": "9",
       "bookSource": "CC 192",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -19445,7 +19413,6 @@
       "challengeRating": "8",
       "bookSource": "CC 203",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -19482,8 +19449,6 @@
       "challengeRating": "18",
       "bookSource": "CC 205",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -19508,7 +19473,6 @@
       "challengeRating": "1/4",
       "bookSource": "CC 207",
       "environments": [
-         "URBAN",
          "UNDERDARK",
          "URBAN"
       ]
@@ -19522,7 +19486,6 @@
       "challengeRating": "10",
       "bookSource": "CC 208",
       "environments": [
-         "URBAN",
          "UNDERDARK",
          "URBAN"
       ]
@@ -19733,8 +19696,6 @@
       "challengeRating": "5",
       "bookSource": "CC 228",
       "environments": [
-         "URBAN",
-         "URBAN",
          "URBAN"
       ]
    },
@@ -20008,8 +19969,6 @@
       "bookSource": "CC 255",
       "environments": [
          "URBAN",
-         "UNDERDARK",
-         "UNDERDARK",
          "FOREST",
          "UNDERDARK"
       ]
@@ -21045,10 +21004,10 @@
       ]
    },
    {
-      "name": "UNDERDARK Spider",
+      "name": "Crypt Spider",
       "size": "Medium",
       "type": "Beast",
-      "tag": "UNDERDARK Spider Beast",
+      "tag": "Crypt Spider Beast",
       "alignment": "LE",
       "challengeRating": "2",
       "bookSource": "CC 348",
@@ -23429,7 +23388,6 @@
       "bookSource": "MME 16",
       "environments": [
          "URBAN",
-         "UNDERDARK",
          "COASTAL",
          "UNDERDARK"
       ]
@@ -23444,7 +23402,6 @@
       "bookSource": "MME 16",
       "environments": [
          "URBAN",
-         "UNDERDARK",
          "COASTAL",
          "UNDERDARK"
       ]
@@ -23545,8 +23502,6 @@
          "COASTAL",
          "FOREST",
          "URBAN",
-         "UNDERDARK",
-         "UNDERDARK",
          "UNDERDARK"
       ]
    },
@@ -23564,8 +23519,6 @@
          "COASTAL",
          "FOREST",
          "URBAN",
-         "UNDERDARK",
-         "UNDERDARK",
          "UNDERDARK"
       ]
    },
@@ -23583,8 +23536,6 @@
          "COASTAL",
          "FOREST",
          "URBAN",
-         "UNDERDARK",
-         "UNDERDARK",
          "UNDERDARK"
       ]
    },
@@ -23601,7 +23552,6 @@
          "GRASSLAND",
          "COASTAL",
          "FOREST",
-         "URBAN",
          "UNDERDARK",
          "URBAN"
       ]
@@ -23619,9 +23569,8 @@
          "GRASSLAND",
          "COASTAL",
          "FOREST",
-         "URBAN",
          "UNDERDARK",
-         "URBAN",
+         "URBAN"
       ]
    },
    {
@@ -23637,7 +23586,6 @@
          "GRASSLAND",
          "COASTAL",
          "FOREST",
-         "URBAN",
          "UNDERDARK",
          "URBAN",
          "ARCTIC"
@@ -23656,7 +23604,6 @@
          "GRASSLAND",
          "COASTAL",
          "FOREST",
-         "URBAN",
          "UNDERDARK",
          "URBAN"
       ]
