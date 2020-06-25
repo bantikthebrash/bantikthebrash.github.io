@@ -23655,5 +23655,171 @@
          "GRASSLAND",
          "UNDERDARK"
       ]
+   },
+   {
+      "name": "Bugbear Bruiser",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bug bear goblin orc goblinoid bugbear bruiser",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 30",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Champion of Hruggek",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bug bear goblin orc goblinoid bugbear Champion Hruggek",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME 30",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Footpad",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bug bear goblin orc goblinoid bugbear footpad",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MME 31",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Marauder",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bug bear goblin orc goblinoid bugbear marauder",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 31",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Priest of Hruggek",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bug bear goblin orc goblinoid bugbear Priest Hruggek",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 31",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bullywug Brute",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bullywug brute frog folk",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MME 33",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bullywug Cheiftain",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bullywug chieftain chief frog folk",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "MME 33",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bullywug Swampstalker",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bullywug swampstalker chief frog folk",
+      "alignment": "NE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 34",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bullywug Witch Doctor",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "bullywug swampstalker chief frog folk",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "MME 34",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
    }
 ]
