@@ -18844,7 +18844,6 @@
       "environments": [
          "FOREST",
          "URBAN",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19123,7 +19122,6 @@
       "challengeRating": "1/4",
       "bookSource": "CC 179",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19137,7 +19135,6 @@
       "bookSource": "CC 180",
       "environments": [
          "UNDERDARK",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19150,8 +19147,6 @@
       "challengeRating": "6",
       "bookSource": "CC 181",
       "environments": [
-         "MOUNTAIN",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19164,8 +19159,6 @@
       "challengeRating": "10",
       "bookSource": "CC 182",
       "environments": [
-         "MOUNTAIN",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19191,7 +19184,6 @@
       "challengeRating": "4",
       "bookSource": "CC 184",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19204,8 +19196,6 @@
       "challengeRating": "21",
       "bookSource": "CC 185",
       "environments": [
-         "MOUNTAIN",
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19218,7 +19208,6 @@
       "challengeRating": "11",
       "bookSource": "CC 187",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -19260,7 +19249,6 @@
       "environments": [
          "FOREST",
          "MOUNTAIN",
-         "MOUNTAIN",
          "UNDERDARK"
       ]
    },
@@ -19275,8 +19263,6 @@
       "environments": [
          "FOREST",
          "MOUNTAIN",
-         "MOUNTAIN",
-         "UNDERDARK",
          "UNDERDARK"
       ]
    },
@@ -19417,7 +19403,6 @@
       "bookSource": "CC 201",
       "environments": [
          "URBAN",
-         "MOUNTAIN",
          "MOUNTAIN",
          "SWAMP"
       ]
@@ -19724,7 +19709,6 @@
       "challengeRating": "10",
       "bookSource": "CC 226",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -19737,7 +19721,6 @@
       "challengeRating": "1/4",
       "bookSource": "CC 227",
       "environments": [
-         "URBAN",
          "URBAN"
       ]
    },
@@ -19918,7 +19901,6 @@
       "challengeRating": "3",
       "bookSource": "CC 242",
       "environments": [
-         "FOREST",
          "FOREST"
       ]
    },
@@ -20154,7 +20136,6 @@
       "bookSource": "CC 266",
       "environments": [
          "MOUNTAIN",
-         "MOUNTAIN",
          "UNDERDARK"
       ]
    },
@@ -20168,7 +20149,7 @@
       "bookSource": "CC 267",
       "environments": [
          "MOUNTAIN",
-         "MOUNTAIN"
+         "UNDERDARK"
       ]
    },
    {
@@ -20180,7 +20161,6 @@
       "challengeRating": "7",
       "bookSource": "CC 267",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN"
       ]
    },
@@ -20194,7 +20174,7 @@
       "bookSource": "CC 268",
       "environments": [
          "MOUNTAIN",
-         "MOUNTAIN"
+         "UNDERDARK"
       ]
    },
    {
@@ -20468,7 +20448,6 @@
       "bookSource": "CC 294",
       "environments": [
          "MOUNTAIN",
-         "MOUNTAIN",
          "UNDERDARK"
       ]
    },
@@ -20481,7 +20460,6 @@
       "challengeRating": "4",
       "bookSource": "CC 295",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -20667,7 +20645,6 @@
       "challengeRating": "2",
       "bookSource": "CC 310",
       "environments": [
-         "MOUNTAIN",
          "MOUNTAIN",
          "UNDERDARK"
       ]
@@ -21392,7 +21369,6 @@
       "environments": [
          "MOUNTAIN",
          "ARCTIC",
-         "MOUNTAIN",
          "FOREST"
       ]
    },
@@ -23646,7 +23622,6 @@
          "URBAN",
          "UNDERDARK",
          "URBAN",
-         "MOUNTAIN"
       ]
    },
    {
