@@ -388,7 +388,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Dinosuar",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 79",
       "environments": [
@@ -420,14 +420,14 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 16",
       "environments": []
    },
    {
       "name": "Ancient Black Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CE",
@@ -439,7 +439,7 @@
    },
    {
       "name": "Ancient Blue Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "LE",
@@ -452,7 +452,7 @@
    },
    {
       "name": "Ancient Brass Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CG",
@@ -464,7 +464,7 @@
    },
    {
       "name": "Ancient Bronze Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "LG",
@@ -485,7 +485,7 @@
    },
    {
       "name": "Ancient Copper Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CG",
@@ -497,7 +497,7 @@
    },
    {
       "name": "Ancient Flame Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CE",
@@ -507,7 +507,7 @@
    },
    {
       "name": "Ancient Gold Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "LG",
@@ -520,7 +520,7 @@
    },
    {
       "name": "Ancient Green Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "LE",
@@ -532,7 +532,7 @@
    },
    {
       "name": "Ancient Mithral Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "N",
@@ -542,7 +542,7 @@
    },
    {
       "name": "Ancient Red Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CE",
@@ -555,7 +555,7 @@
    },
    {
       "name": "Ancient Sea Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "NE",
@@ -565,7 +565,7 @@
    },
    {
       "name": "Ancient Silver Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "LG",
@@ -578,7 +578,7 @@
    },
    {
       "name": "Ancient Titan",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Celestial",
       "tag": "",
       "alignment": "NG",
@@ -588,7 +588,7 @@
    },
    {
       "name": "Ancient Void Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CN",
@@ -598,7 +598,7 @@
    },
    {
       "name": "Ancient White Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CE",
@@ -610,7 +610,7 @@
    },
    {
       "name": "Ancient Wind Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "CN",
@@ -620,7 +620,7 @@
    },
    {
       "name": "Andrenjinyi",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Celestial",
       "tag": "",
       "alignment": "N",
@@ -655,7 +655,7 @@
       "size": "Huge",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 22",
       "environments": []
@@ -665,7 +665,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 19",
       "environments": [
@@ -687,7 +687,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 21",
       "environments": [
@@ -700,7 +700,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 79",
       "environments": [
@@ -745,7 +745,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 317",
       "environments": [
@@ -914,7 +914,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "VGtM 207",
       "environments": [
@@ -938,7 +938,7 @@
       "size": "Small",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 317",
       "environments": [
@@ -950,7 +950,7 @@
       "size": "Huge",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 317",
       "environments": [
@@ -962,7 +962,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 317",
       "environments": [
@@ -1037,7 +1037,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 318",
       "environments": [
@@ -1050,7 +1050,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 318",
       "environments": [
@@ -1211,7 +1211,7 @@
       "size": "Medium",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 24",
       "environments": [
@@ -1235,7 +1235,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 318",
       "environments": [
@@ -1414,7 +1414,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 318",
       "environments": [
@@ -1448,7 +1448,7 @@
       "size": "Large",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "MM 241",
       "environments": [
@@ -1505,7 +1505,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 319",
       "environments": [
@@ -1546,7 +1546,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 319",
       "environments": [
@@ -1702,10 +1702,10 @@
    },
    {
       "name": "Brontosaurus",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "VGtM 139",
       "environments": [
@@ -1758,7 +1758,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 319",
       "environments": [
@@ -1820,7 +1820,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 34",
       "environments": [
@@ -1886,7 +1886,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 50",
       "environments": []
@@ -1918,7 +1918,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 320",
       "environments": [
@@ -1940,7 +1940,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 37",
       "environments": [
@@ -1952,7 +1952,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 320",
       "environments": [
@@ -1966,7 +1966,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "VGtM 129",
       "environments": [
@@ -1997,7 +1997,7 @@
       "size": "Medium",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "VGtM 130",
       "environments": [
@@ -2174,7 +2174,7 @@
       "size": "Large",
       "type": "Elemental",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "ToB 57",
       "environments": []
@@ -2216,7 +2216,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "9",
       "bookSource": "MM 168",
       "environments": [
@@ -2268,7 +2268,7 @@
       "size": "Tiny",
       "type": "Construct",
       "tag": "bug",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "ToB 60",
       "environments": []
@@ -2297,7 +2297,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 62",
       "environments": []
@@ -2307,7 +2307,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 63",
       "environments": []
@@ -2317,7 +2317,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "ToB 64",
       "environments": []
@@ -2336,7 +2336,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "ToB 65",
       "environments": []
@@ -2346,7 +2346,7 @@
       "size": "Tiny",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "ToB 66",
       "environments": []
@@ -2390,7 +2390,7 @@
       "size": "Medium",
       "type": "Monstrosity",
       "tag": "Swarm",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 68",
       "environments": []
@@ -2400,7 +2400,7 @@
       "size": "Small",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 42",
       "environments": [
@@ -2442,7 +2442,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 320",
       "environments": [
@@ -2533,7 +2533,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Rothé, Deep Rothé, Ox",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "VGtM 207",
       "environments": [
@@ -2547,7 +2547,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 320",
       "environments": [
@@ -2592,7 +2592,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 320",
       "environments": [
@@ -2748,7 +2748,7 @@
       "size": "Small",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 46",
       "environments": [
@@ -2945,7 +2945,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 321",
       "environments": [
@@ -2968,7 +2968,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "VGtM 139",
       "environments": [
@@ -3003,7 +3003,7 @@
    },
    {
       "name": "Demon Lord of Apes, Mechuiti",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Fiend",
       "tag": "Demon",
       "alignment": "CE",
@@ -3043,7 +3043,7 @@
    },
    {
       "name": "Demon Lord of the Devouring Worm Qorgeth",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Fiend",
       "tag": "Demon",
       "alignment": "CE",
@@ -3119,7 +3119,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "VGtM 139",
       "environments": [
@@ -3132,7 +3132,7 @@
       "size": "Tiny",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 118",
       "environments": []
@@ -3151,7 +3151,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 321",
       "environments": [
@@ -3230,7 +3230,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "VGtM 208",
       "environments": [
@@ -3266,7 +3266,7 @@
       "size": "Tiny",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 123",
       "environments": []
@@ -3298,7 +3298,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 321",
       "environments": [
@@ -3317,7 +3317,7 @@
    },
    {
       "name": "Dragon Turtle",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "",
       "alignment": "N",
@@ -3333,7 +3333,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "ToB 147",
       "environments": []
@@ -3343,7 +3343,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 157",
       "environments": []
@@ -3579,7 +3579,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 322",
       "environments": [
@@ -3594,7 +3594,7 @@
       "size": "Small",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 163",
       "environments": []
@@ -3706,7 +3706,7 @@
    },
    {
       "name": "Elemental Locus",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "",
       "alignment": "N",
@@ -3719,7 +3719,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "MM 322",
       "environments": [
@@ -3731,7 +3731,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 322",
       "environments": [
@@ -3789,7 +3789,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "ToB 176",
       "environments": []
@@ -3919,7 +3919,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "11",
       "bookSource": "ToB 233",
       "environments": []
@@ -4076,7 +4076,7 @@
       "size": "Huge",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "ToB 200",
       "environments": []
@@ -4255,7 +4255,7 @@
       "size": "Large",
       "type": "Elemental",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "VGtM 144",
       "environments": [
@@ -4346,7 +4346,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 322",
       "environments": [
@@ -4361,7 +4361,7 @@
       "size": "Small",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 20",
       "environments": [
@@ -4435,7 +4435,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 322",
       "environments": [
@@ -4451,7 +4451,7 @@
       "size": "Huge",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "10",
       "bookSource": "VGtM 145",
       "environments": [
@@ -4515,7 +4515,7 @@
       "size": "Medium",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 207",
       "environments": []
@@ -4560,7 +4560,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 208",
       "environments": []
@@ -4570,7 +4570,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 138",
       "environments": [
@@ -4615,7 +4615,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "ToB 209",
       "environments": []
@@ -4635,7 +4635,7 @@
       "size": "Large",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 242",
       "environments": [
@@ -4718,7 +4718,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 23",
       "environments": []
@@ -4728,7 +4728,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 23",
       "environments": []
@@ -4738,7 +4738,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "MM 323",
       "environments": [
@@ -4750,7 +4750,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 323",
       "environments": [
@@ -4762,7 +4762,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 323",
       "environments": [
@@ -4774,7 +4774,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 323",
       "environments": [
@@ -4788,7 +4788,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "giant centipede bug",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 323",
       "environments": [
@@ -4803,7 +4803,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 324",
       "environments": [
@@ -4818,7 +4818,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 324",
       "environments": [
@@ -4830,7 +4830,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 324",
       "environments": [
@@ -4857,7 +4857,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 325",
       "environments": [
@@ -4871,7 +4871,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "bug",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 325",
       "environments": [
@@ -4883,7 +4883,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 325",
       "environments": [
@@ -4896,7 +4896,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 326",
       "environments": [
@@ -4911,7 +4911,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 326",
       "environments": [
@@ -4926,7 +4926,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 326",
       "environments": [
@@ -4942,7 +4942,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 326",
       "environments": [
@@ -4968,7 +4968,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 327",
       "environments": [
@@ -4985,7 +4985,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 327",
       "environments": [
@@ -5000,7 +5000,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 327",
       "environments": [
@@ -5012,7 +5012,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 328",
       "environments": [
@@ -5024,7 +5024,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 328",
       "environments": [
@@ -5036,7 +5036,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 328",
       "environments": [
@@ -5052,7 +5052,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 329",
       "environments": [
@@ -5081,7 +5081,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 329",
       "environments": [
@@ -5094,7 +5094,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 329",
       "environments": [
@@ -5108,7 +5108,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 330",
       "environments": [
@@ -5152,7 +5152,7 @@
    },
    {
       "name": "Ginormous Squirrel",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "",
       "challengeRating": "16",
@@ -5164,7 +5164,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "VGtM 152",
       "environments": [
@@ -5261,7 +5261,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "ToB 228",
       "environments": []
@@ -5271,7 +5271,7 @@
       "size": "Small",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "ToB 229",
       "environments": []
@@ -5419,7 +5419,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 330",
       "environments": [
@@ -5522,7 +5522,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 171",
       "environments": [
@@ -5556,7 +5556,7 @@
       "size": "Medium",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 243",
       "environments": [
@@ -5665,7 +5665,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 174",
       "environments": [
@@ -5765,7 +5765,7 @@
       "size": "Medium",
       "type": "Dragon",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "VGtM 158",
       "environments": [
@@ -5837,7 +5837,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "VGtM 140",
       "environments": [
@@ -5905,7 +5905,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 330",
       "environments": [
@@ -6027,7 +6027,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 184",
       "environments": [
@@ -6041,7 +6041,7 @@
       "size": "Huge",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "12",
       "bookSource": "ToB 234",
       "environments": []
@@ -6174,7 +6174,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 251",
       "environments": []
@@ -6214,7 +6214,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 330",
       "environments": [
@@ -6226,7 +6226,7 @@
       "size": "Huge",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "MM 190",
       "environments": [
@@ -6238,7 +6238,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 331",
       "environments": [
@@ -6430,7 +6430,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "16",
       "bookSource": "MM 170",
       "environments": [
@@ -6448,7 +6448,7 @@
    },
    {
       "name": "Isonade",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "",
       "alignment": "CN",
@@ -6461,7 +6461,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 362",
       "environments": []
@@ -6471,7 +6471,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 331",
       "environments": [
@@ -6504,7 +6504,7 @@
    },
    {
       "name": "Jotun Giant",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Giant",
       "tag": "",
       "alignment": "CN",
@@ -6565,7 +6565,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 331",
       "environments": [
@@ -6725,7 +6725,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 265",
       "environments": []
@@ -6787,7 +6787,7 @@
    },
    {
       "name": "Kraken",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Titan",
       "alignment": "CE",
@@ -7048,7 +7048,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 331",
       "environments": [
@@ -7082,7 +7082,7 @@
       "size": "Small",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 278",
       "environments": []
@@ -7092,7 +7092,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 332",
       "environments": [
@@ -7245,7 +7245,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 281",
       "environments": []
@@ -7295,7 +7295,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "MM 332",
       "environments": [
@@ -7327,7 +7327,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Swarm",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 374",
       "environments": []
@@ -7445,7 +7445,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 332",
       "environments": [
@@ -7491,7 +7491,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 114",
       "environments": []
@@ -7740,7 +7740,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "ToB 294",
       "environments": []
@@ -7750,14 +7750,14 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 295",
       "environments": []
    },
    {
       "name": "Mordant Snare",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "",
       "alignment": "CE",
@@ -7837,7 +7837,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 333",
       "environments": [
@@ -8043,7 +8043,7 @@
    },
    {
       "name": "Neothelid",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "",
       "alignment": "CE",
@@ -8058,7 +8058,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 115",
       "environments": []
@@ -8089,7 +8089,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 340",
       "environments": []
@@ -8172,7 +8172,7 @@
       ]
    },
    {
-      "name": "Noctiny",
+      "name": "NocTiny",
       "size": "Medium",
       "type": "Humanoid",
       "tag": "",
@@ -8209,7 +8209,7 @@
       "size": "Large",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 243",
       "environments": [
@@ -8221,7 +8221,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 333",
       "environments": [
@@ -8286,10 +8286,10 @@
    },
    {
       "name": "Oozasis",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "9",
       "bookSource": "ToB 310",
       "environments": []
@@ -8520,7 +8520,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 333",
       "environments": [
@@ -8543,7 +8543,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 249",
       "environments": [
@@ -8574,7 +8574,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Leopard, Cougar",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 333",
       "environments": [
@@ -8636,7 +8636,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MM 334",
       "environments": [
@@ -8662,7 +8662,7 @@
       "size": "Medium",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 252",
       "environments": [
@@ -8726,7 +8726,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 80",
       "environments": [
@@ -8739,7 +8739,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 334",
       "environments": [
@@ -8756,7 +8756,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Cave Bear",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 334",
       "environments": [
@@ -8779,7 +8779,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 335",
       "environments": [
@@ -8791,7 +8791,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "ToB 314",
       "environments": []
@@ -8822,7 +8822,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Swarm bug",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 375",
       "environments": []
@@ -8859,7 +8859,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 80",
       "environments": [
@@ -8879,10 +8879,10 @@
    },
    {
       "name": "Purple Worm",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "15",
       "bookSource": "MM 255",
       "environments": [
@@ -8937,7 +8937,7 @@
       "size": "Medium",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 230",
       "environments": [
@@ -8972,7 +8972,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "VGtM 140",
       "environments": [
@@ -8998,7 +8998,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 335",
       "environments": [
@@ -9052,7 +9052,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 335",
       "environments": [
@@ -9114,7 +9114,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 335",
       "environments": [
@@ -9127,7 +9127,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 321",
       "environments": []
@@ -9210,7 +9210,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 363",
       "environments": []
@@ -9244,7 +9244,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 336",
       "environments": [
@@ -9256,7 +9256,7 @@
       "size": "Huge",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "11",
       "bookSource": "MM 258",
       "environments": [
@@ -9285,7 +9285,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 336",
       "environments": [
@@ -9297,7 +9297,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 336",
       "environments": [
@@ -9357,10 +9357,10 @@
    },
    {
       "name": "Roc",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "11",
       "bookSource": "MM 260",
       "environments": [
@@ -9408,7 +9408,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 20",
       "environments": [
@@ -9469,7 +9469,7 @@
       "size": "Medium",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 262",
       "environments": [
@@ -9481,7 +9481,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 336",
       "environments": [
@@ -9555,7 +9555,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "10",
       "bookSource": "ToB 235",
       "environments": []
@@ -9585,7 +9585,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "ToB 364",
       "environments": []
@@ -9605,7 +9605,7 @@
       "size": "Large",
       "type": "Dragon",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "ToB 334",
       "environments": []
@@ -9698,7 +9698,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 337",
       "environments": [
@@ -9771,7 +9771,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 337",
       "environments": [
@@ -9815,7 +9815,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 342",
       "environments": []
@@ -9825,7 +9825,7 @@
       "size": "Medium",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "ToB 343",
       "environments": []
@@ -9903,7 +9903,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 270",
       "environments": [
@@ -9935,7 +9935,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "MM 271",
       "environments": [
@@ -9972,7 +9972,7 @@
       "size": "Medium",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 138",
       "environments": [
@@ -10022,7 +10022,7 @@
    },
    {
       "name": "Sire of Stagnation",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "Eldrazi",
       "challengeRating": "17",
@@ -10066,7 +10066,7 @@
       "size": "Large",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 352",
       "environments": []
@@ -10138,7 +10138,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "14",
       "bookSource": "ToB 236",
       "environments": []
@@ -10298,7 +10298,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 337",
       "environments": [
@@ -10336,7 +10336,7 @@
       "size": "Small",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "ToB 366",
       "environments": []
@@ -10354,10 +10354,10 @@
    },
    {
       "name": "Spinosaurus",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "13",
       "bookSource": "ToB 116",
       "environments": []
@@ -10451,7 +10451,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "13",
       "bookSource": "ToB 237",
       "environments": []
@@ -10473,7 +10473,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "VGtM 140",
       "environments": [
@@ -10486,7 +10486,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "MM 284",
       "environments": [
@@ -10534,7 +10534,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "10",
       "bookSource": "MM 170",
       "environments": [
@@ -10614,7 +10614,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "ToB 340",
       "environments": []
@@ -10646,7 +10646,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 372",
       "environments": []
@@ -10668,7 +10668,7 @@
       "size": "Small",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 354",
       "environments": []
@@ -10678,7 +10678,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 337",
       "environments": [
@@ -10705,7 +10705,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 338",
       "environments": [
@@ -10723,7 +10723,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "MM 338",
       "environments": [
@@ -10736,7 +10736,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 338",
       "environments": [
@@ -10748,7 +10748,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 339",
       "environments": [
@@ -10761,7 +10761,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 339",
       "environments": [
@@ -10776,7 +10776,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "Swarm",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "VGtM 208",
       "environments": [
@@ -10832,10 +10832,10 @@
    },
    {
       "name": "Tarrasque",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Titan",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "30",
       "bookSource": "MM 286",
       "environments": [
@@ -10943,7 +10943,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "MM 339",
       "environments": [
@@ -10962,10 +10962,10 @@
    },
    {
       "name": "Titanoboa",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "12",
       "bookSource": "ToB 382",
       "environments": []
@@ -11059,7 +11059,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "VGtM 194",
       "environments": []
@@ -11069,7 +11069,7 @@
       "size": "Tiny",
       "type": "Ooze",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 387",
       "environments": []
@@ -11111,7 +11111,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 80",
       "environments": [
@@ -11199,7 +11199,7 @@
    },
    {
       "name": "Tuskaloth",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "",
       "challengeRating": "10",
@@ -11233,7 +11233,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "MM 80",
       "environments": [
@@ -11331,7 +11331,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "9",
       "bookSource": "ToB 394",
       "environments": []
@@ -11460,7 +11460,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "VGtM 140",
       "environments": [
@@ -11489,10 +11489,10 @@
    },
    {
       "name": "Vesiculosa",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "11",
       "bookSource": "ToB 399",
       "environments": []
@@ -11563,7 +11563,7 @@
       "size": "Large",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "9",
       "bookSource": "ToB 351",
       "environments": [
@@ -11580,7 +11580,7 @@
       "size": "Medium",
       "type": "Plant",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 138",
       "environments": [
@@ -11641,7 +11641,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 339",
       "environments": [
@@ -11665,7 +11665,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "ToB 307",
       "environments": []
@@ -11697,7 +11697,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "MM 340",
       "environments": [
@@ -11793,7 +11793,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 406",
       "environments": []
@@ -11813,7 +11813,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "MM 340",
       "environments": [
@@ -11916,7 +11916,7 @@
       "size": "Tiny",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/8",
       "bookSource": "ToB 407",
       "environments": []
@@ -11926,7 +11926,7 @@
       "size": "Large",
       "type": "Beast",
       "tag": "Swarm",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ToB 407",
       "environments": []
@@ -12082,7 +12082,7 @@
       "size": "Medium",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "MM 341",
       "environments": [
@@ -12164,7 +12164,7 @@
       "size": "Large",
       "type": "Dragon",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "MM 303",
       "environments": [
@@ -12177,7 +12177,7 @@
       "size": "Small",
       "type": "Construct",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "ToB 411",
       "environments": []
@@ -12232,10 +12232,10 @@
    },
    {
       "name": "Ychen Bannog",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "11",
       "bookSource": "ToB 413",
       "environments": []
@@ -12435,7 +12435,7 @@
       "size": "Large",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "MM 258",
       "environments": [
@@ -12470,7 +12470,7 @@
       "size": "Huge",
       "type": "Beast",
       "tag": "Dinosaur",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "ToB 117",
       "environments": []
@@ -12625,17 +12625,17 @@
       "size": "Large",
       "type": "Beast",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "ToB 354",
       "environments": []
    },
    {
       "name": "Zaratan",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "",
-      "alignment": "Unaligned",
+      "alignment": "U",
       "challengeRating": "26",
       "bookSource": "ToB 414",
       "environments": []
@@ -13302,7 +13302,7 @@
    },
    {
       "name": "White Maw",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Ooze",
       "tag": "Ooze",
       "alignment": "CE",
@@ -13322,7 +13322,7 @@
    },
    {
       "name": "Astral Dreadnought",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Titan",
       "alignment": "U",
@@ -14103,7 +14103,7 @@
    },
    {
       "name": "Leviathan",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "Titan",
       "alignment": "N",
@@ -14113,7 +14113,7 @@
    },
    {
       "name": "Phoenix",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "Titan",
       "alignment": "N",
@@ -14123,7 +14123,7 @@
    },
    {
       "name": "Elder Tempest",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "Titan",
       "alignment": "N",
@@ -14133,7 +14133,7 @@
    },
    {
       "name": "Zaratan",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "Titan",
       "alignment": "N",
@@ -14780,7 +14780,7 @@
    },
    {
       "name": "Maegera the Dawn Titan",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Elemental",
       "tag": "Titan",
       "alignment": "U",
@@ -15276,7 +15276,7 @@
    },
    {
       "name": "Tiamat",
-      "size": "gargantuan",
+      "size": "Gragantuan",
       "type": "Fiend",
       "tag": "Dragon",
       "alignment": "NE",
@@ -15396,7 +15396,7 @@
    },
    {
       "name": "Ancient Amethyst Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "N",
@@ -15436,7 +15436,7 @@
    },
    {
       "name": "Ancient Crystal Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "N",
@@ -15476,7 +15476,7 @@
    },
    {
       "name": "Ancient Emerald Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "LN",
@@ -15516,7 +15516,7 @@
    },
    {
       "name": "Ancient Sapphire Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "LN",
@@ -15556,7 +15556,7 @@
    },
    {
       "name": "Ancient Topaz Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "CN",
@@ -15596,7 +15596,7 @@
    },
    {
       "name": "Ancient Ruby Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "N",
@@ -15931,7 +15931,7 @@
    },
    {
       "name": "Quacken Void Kraken",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Kraken",
       "alignment": "CE",
@@ -16241,7 +16241,7 @@
    },
    {
       "name": "Walking Statue of Waterdeep",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Construct",
       "tag": "Waterdeep Construct",
       "alignment": "U",
@@ -16289,7 +16289,7 @@
    },
    {
       "name": "Neothelid",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "Illithid Mind Flayer",
       "alignment": "CE",
@@ -16792,7 +16792,7 @@
    },
    {
       "name": "Skyswimmer",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Leviathan Wurm",
       "alignment": "U",
@@ -16885,7 +16885,7 @@
    },
    {
       "name": "Isperia Supreme Judge",
-      "size": "Gargantuan Colossal",
+      "size": "Gragantuan Colossal",
       "type": "Monsrosity",
       "tag": "Azorius Senate Sphynx",
       "alignment": "LN",
@@ -17088,7 +17088,7 @@
    },
    {
       "name": "Niv Mizzet the Firemind",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Izzet League Dragon",
       "alignment": "CN",
@@ -17497,7 +17497,7 @@
    },
    {
       "name": "Ankou Soul Herald",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon",
       "alignment": "N",
@@ -17930,7 +17930,7 @@
    },
    {
       "name": "Typhon Father of Monsters",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Fiend",
       "tag": "Demon Lord Father Monsters ",
       "alignment": "CE",
@@ -18108,7 +18108,7 @@
    },
    {
       "name": "Devil Shark",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Devil Shark Leviathan",
       "alignment": "NE",
@@ -18308,7 +18308,7 @@
    },
    {
       "name": "Ancient Light Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon Light Ancient",
       "alignment": "NG",
@@ -18354,7 +18354,7 @@
    },
    {
       "name": "Ancient Wasteland Dragon",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Dragon",
       "tag": "Dragon Wasteland Ancient",
       "alignment": "CE",
@@ -19159,7 +19159,7 @@
    },
    {
       "name": "Mountain Giant",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Giant",
       "tag": "Giant Mountain",
       "alignment": "NE",
@@ -19454,7 +19454,7 @@
    },
    {
       "name": "Goliath Longlegs",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Monstrosity",
       "tag": "Monstrosity Longlegs Spider",
       "alignment": "U",
@@ -20248,7 +20248,7 @@
    },
    {
       "name": "Oliphaunt",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Beast",
       "tag": "Oliphaunt",
       "alignment": "U",
@@ -20811,7 +20811,7 @@
    },
    {
       "name": "Avatar of Shoth",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "Avatar Shoth Aberration",
       "alignment": "LN",
@@ -20897,7 +20897,7 @@
    },
    {
       "name": "Simurg",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Celestial",
       "tag": "Eagle Flying Fox Simurg Avatar Celestaial",
       "alignment": "NG",
@@ -21477,7 +21477,7 @@
    },
    {
       "name": "Ziphius",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Aberration",
       "tag": "Ziphius Aberration",
       "alignment": "N",
@@ -21593,7 +21593,7 @@
       "size": "Medium",
       "type": "monstrosity",
       "tag": "reptile amphibious Amphisbaena",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "GotSM 230",
       "environments": [
@@ -21697,7 +21697,7 @@
       "size": "Large",
       "type": "beast",
       "tag": "giant coral snake",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "GotSM 236",
       "environments": [
@@ -21710,7 +21710,7 @@
       "size": "Medium",
       "type": "beast",
       "tag": "gieant sea eel",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "GotSM 237",
       "environments": [
@@ -21788,7 +21788,7 @@
       "size": "Medium",
       "type": "construct",
       "tag": "living iron statue animated",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "GotSM 241",
       "environments": []
@@ -21902,14 +21902,14 @@
       "size": "Large",
       "type": "construct",
       "tag": "minotaur living crystal sattue construct animated object",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "6",
       "bookSource": "GotSM 245",
       "environments": []
    },
    {
       "name": "Monstrous Peryton",
-      "size": "large",
+      "size": "Large",
       "type": "monstrosity",
       "tag": "monstrous peryton bird monstrosity",
       "alignment": "CE",
@@ -22040,7 +22040,7 @@
    {
       "name": "Sahuagin Hatchling Swarm",
       "size": "Large",
-      "type": "swarm of tiny beasts",
+      "type": "swarm of Tiny beasts",
       "tag": "sahuagin hatchling Swarm",
       "alignment": "CE",
       "challengeRating": "3",
@@ -22081,7 +22081,7 @@
       "size": "Medium",
       "type": "monstrosity",
       "tag": "shell shark",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "GotSM 252",
       "environments": [
@@ -22120,7 +22120,7 @@
    {
       "name": "Skeletal Swarm",
       "size": "Large",
-      "type": "swarm of medium undead",
+      "type": "swarm of Medium undead",
       "tag": "skeletal swarm undead",
       "alignment": "LE",
       "challengeRating": "2",
@@ -22204,34 +22204,34 @@
       "size": "Large",
       "type": "monstrosity",
       "tag": "deep crow",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "9",
       "bookSource": "AA 210",
       "environments": []
    },
    {
       "name": "Keg Robot",
-      "size": "medium",
+      "size": "Medium",
       "type": "construct",
       "tag": "keg robot golem animated object beer brewing dwarf gnome",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "2",
       "bookSource": "AA 212",
       "environments": []
    },
    {
       "name": "Mechanical Beholder",
-      "size": "huge",
+      "size": "Huge",
       "type": "vehicle",
       "tag": "mechanical beholder vehicle",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "0",
       "bookSource": "AA 219",
       "environments": []
    },
    {
       "name": "Crokek'toeck",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "fiend (demon)",
       "tag": "crokek toek croak crok croc demon fiend",
       "alignment": "CE",
@@ -22242,7 +22242,7 @@
    },
    {
       "name": "Fist of Bane",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "fist bane cult cultist",
       "alignment": "LE",
@@ -22252,7 +22252,7 @@
    },
    {
       "name": "Iron Consul",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "iron consul bane cult cultist",
       "alignment": "LE",
@@ -22262,7 +22262,7 @@
    },
    {
       "name": "Black Gauntlet of Bane",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "black gauntlet bane cult cultist",
       "alignment": "LE",
@@ -22272,7 +22272,7 @@
    },
    {
       "name": "Night Blade",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "night blade bhaal cult cultist",
       "alignment": "CE",
@@ -22282,7 +22282,7 @@
    },
    {
       "name": "Reaper of Bhaal",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "reaper bhaal cult cultist",
       "alignment": "CE",
@@ -22292,7 +22292,7 @@
    },
    {
       "name": "Death's Hand of Bhaal",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "deaths hand bhaal cult cultist",
       "alignment": "CE",
@@ -22302,7 +22302,7 @@
    },
    {
       "name": "Necromite of Myrkul",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "necromite necro myrkul cult cultist",
       "alignment": "NE",
@@ -22312,7 +22312,7 @@
    },
    {
       "name": "Skull Lasher of Myrkul",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "skull lasher myrkul cult cultist",
       "alignment": "NE",
@@ -22322,7 +22322,7 @@
    },
    {
       "name": "Master of Souls",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "master souls myrkul cult cultist",
       "alignment": "NE",
@@ -22332,17 +22332,17 @@
    },
    {
       "name": "Fiendish Flesh Golem",
-      "size": "large",
+      "size": "Large",
       "type": "construct",
       "tag": "fiendish flesh golem animated object construct",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "BGDiA 236",
       "environments": []
    },
    {
       "name": "Hellwasp",
-      "size": "large",
+      "size": "Large",
       "type": "fiend",
       "tag": "fiendish fiend hell wasp hellwasp",
       "alignment": "LE",
@@ -22353,17 +22353,17 @@
    },
    {
       "name": "Fiendish Flesh Golem",
-      "size": "large",
+      "size": "Large",
       "type": "construct",
       "tag": "fiendish flesh golem animated object construct",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "BGDiA 236",
       "environments": []
    },
    {
       "name": "Hollyphant",
-      "size": "small",
+      "size": "Small",
       "type": "celestial",
       "tag": "hollyphant elephant celestial angel",
       "alignment": "LG",
@@ -22373,7 +22373,7 @@
    },
    {
       "name": "Merregon",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend (devil)",
       "tag": "merregon fiend devil mask iron",
       "alignment": "LE",
@@ -22384,7 +22384,7 @@
    },
    {
       "name": "Redcap",
-      "size": "small",
+      "size": "Small",
       "type": "fey",
       "tag": "murderous red cap redcap fey",
       "alignment": "CE",
@@ -22408,17 +22408,17 @@
       "size": "Huge",
       "type": "monstrosity",
       "tag": "thessalhydra hydra stranger things",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "4",
       "bookSource": "ST:HftT",
       "environments": []
    },
    {
       "name": "Ooze-Folk",
-      "size": "medium",
+      "size": "Medium",
       "type": "ooze",
       "tag": "ooze folk",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "LLoK",
       "environments": [
@@ -22427,17 +22427,17 @@
    },
    {
       "name": "Skull Flier",
-      "size": "medium",
+      "size": "Medium",
       "type": "construct",
       "tag": "skull flier construct animated object",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1/2",
       "bookSource": "SLW",
       "environments": []
    },
    {
       "name": "Tooth-N-Claw",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend",
       "tag": "tooth claw fiend",
       "alignment": "LE",
@@ -22448,7 +22448,7 @@
    },
    {
       "name": "Belashyrra",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "belashyrra mind flayer alien",
       "alignment": "CE",
@@ -22458,7 +22458,7 @@
    },
    {
       "name": "Dyrrn",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "dyrrn mind flayer alien vampire",
       "alignment": "CE",
@@ -22468,27 +22468,27 @@
    },
    {
       "name": "Clawfoot",
-      "size": "medium",
+      "size": "Medium",
       "type": "beast",
       "tag": "clawfoot raptor dinosuar",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "E:RftLW 289",
       "environments": []
    },
    {
       "name": "Fastieth",
-      "size": "medium",
+      "size": "Medium",
       "type": "beast",
       "tag": "fastieth saurian dinosuar",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1/4",
       "bookSource": "E:RftLW 289",
       "environments": []
    },
    {
       "name": "Dolgaunt",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "dol gaunt dolgaunt hobgoblin goblin twisted corrupted diseased",
       "alignment": "LE",
@@ -22498,7 +22498,7 @@
    },
    {
       "name": "Dolgrim",
-      "size": "small",
+      "size": "Small",
       "type": "aberration",
       "tag": "dol grim dolgrim hobgoblin goblin twisted corrupted",
       "alignment": "CE",
@@ -22508,7 +22508,7 @@
    },
    {
       "name": "Dusk Hag",
-      "size": "medium",
+      "size": "Medium",
       "type": "fey",
       "tag": "dusk hag fey",
       "alignment": "NE",
@@ -22518,7 +22518,7 @@
    },
    {
       "name": "Expeditious Messenger",
-      "size": "tiny",
+      "size": "Tiny",
       "type": "construct",
       "tag": "expeditious messanger homunculi construct",
       "alignment": "N",
@@ -22571,7 +22571,7 @@
       "size": "Medium",
       "type": "construct",
       "tag": "living burning hands spell",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "E:RftLW 298",
       "environments": [
@@ -22583,7 +22583,7 @@
       "size": "Large",
       "type": "construct",
       "tag": "living lightning bolt spell",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "5",
       "bookSource": "E:RftLW 299",
       "environments": [
@@ -22595,7 +22595,7 @@
       "size": "Large",
       "type": "construct",
       "tag": "living cloudkill cloud kill spell",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "E:RftLW 299",
       "environments": [
@@ -22634,7 +22634,7 @@
    },
    {
       "name": "Sul Khatesh",
-      "size": "large",
+      "size": "Large",
       "type": "fiend",
       "tag": "sul khatesh shadow fiend overlord",
       "alignment": "LE",
@@ -22644,7 +22644,7 @@
    },
    {
       "name": "Hashalaq Quori",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "hashalaq quori lovecraftion",
       "alignment": "LE",
@@ -22654,7 +22654,7 @@
    },
    {
       "name": "Kalaraq Quori",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "kalaraq fire sliver splinter bug mantis quori lovecraftion",
       "alignment": "LE",
@@ -22664,7 +22664,7 @@
    },
    {
       "name": "Tsucora Quori",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "tsycora claw pincer quori lovecraftion",
       "alignment": "LE",
@@ -22674,7 +22674,7 @@
    },
    {
       "name": "Radiant Idol",
-      "size": "large",
+      "size": "Large",
       "type": "celestial",
       "tag": "radiant idol celestial fallen angel",
       "alignment": "LE",
@@ -22684,7 +22684,7 @@
    },
    {
       "name": "Zakya Rakshasa",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend",
       "tag": "zakya rakshasa cat tiger lion fiend",
       "alignment": "LE",
@@ -22694,7 +22694,7 @@
    },
    {
       "name": "Undying Councilor",
-      "size": "medium",
+      "size": "Medium",
       "type": "undead",
       "tag": "undying councilor",
       "alignment": "NG",
@@ -22704,7 +22704,7 @@
    },
    {
       "name": "Undying soldier",
-      "size": "medium",
+      "size": "Medium",
       "type": "undead",
       "tag": "undying soldier",
       "alignment": "NG",
@@ -22714,7 +22714,7 @@
    },
    {
       "name": "Valenar Hawk",
-      "size": "tiny",
+      "size": "Tiny",
       "type": "fey",
       "tag": "valenar hawk bird elf elven druid wildshape fey",
       "alignment": "N",
@@ -22724,7 +22724,7 @@
    },
    {
       "name": "Valenar Hound",
-      "size": "medium",
+      "size": "Medium",
       "type": "fey",
       "tag": "valenar hound dog elf elven druid wildshape fey",
       "alignment": "N",
@@ -22744,10 +22744,10 @@
    },
    {
       "name": "Warforged Colossus",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "construct",
       "tag": "war forged warforged colossus construct mechanical closkwork clock gear",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "25",
       "bookSource": "E:RftLW 314",
       "environments": []
@@ -22764,7 +22764,7 @@
    },
    {
       "name": "Bone Knight",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "bone knight",
       "alignment": "any non-good",
@@ -22774,7 +22774,7 @@
    },
    {
       "name": "Changeling",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid shapechanger",
       "tag": "changeling",
       "alignment": "any",
@@ -22784,7 +22784,7 @@
    },
    {
       "name": "Kalashtar",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid",
       "tag": "kalashtar",
       "alignment": "any",
@@ -22794,7 +22794,7 @@
    },
    {
       "name": "Magewright",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "magewright mechanic mage wright worker smith",
       "alignment": "any",
@@ -22804,7 +22804,7 @@
    },
    {
       "name": "Shifter",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (shifter)",
       "tag": "shifter changeling shape changer shapechanger",
       "alignment": "any",
@@ -22814,7 +22814,7 @@
    },
    {
       "name": "Tarkanan Assassin",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (shifter)",
       "tag": "trakanan assassin",
       "alignment": "any non-good",
@@ -22824,7 +22824,7 @@
    },
    {
       "name": "Warforged Soldier",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (warforged)",
       "tag": "warforged soldier",
       "alignment": "any",
@@ -22834,7 +22834,7 @@
    },
    {
       "name": "Aeorian Absorber",
-      "size": "large",
+      "size": "Large",
       "type": "monstrosity",
       "tag": "aeorian absorber beast cat dog lovecraftian",
       "alignment": "NE",
@@ -22844,7 +22844,7 @@
    },
    {
       "name": "Aeorian Nullifier",
-      "size": "large",
+      "size": "Large",
       "type": "monstrosity",
       "tag": "aeorian nullifier snake magic lovecraftian",
       "alignment": "NE",
@@ -22854,7 +22854,7 @@
    },
    {
       "name": "Aeorian Reverser",
-      "size": "large",
+      "size": "Large",
       "type": "monstrosity",
       "tag": "aeorian reverser gorilla lovecraftian",
       "alignment": "NE",
@@ -22864,7 +22864,7 @@
    },
    {
       "name": "Blood Hunter",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (any)",
       "tag": "blood hunter",
       "alignment": "Any",
@@ -22874,7 +22874,7 @@
    },
    {
       "name": "Core Spawn Crawler",
-      "size": "small",
+      "size": "Small",
       "type": "aberration",
       "tag": "core spawn crawler",
       "alignment": "CE",
@@ -22884,7 +22884,7 @@
    },
    {
       "name": "Core Spawn Emissary",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "core spawn emissary",
       "alignment": "NE",
@@ -22894,7 +22894,7 @@
    },
    {
       "name": "Core Spawn Seer",
-      "size": "medium",
+      "size": "Medium",
       "type": "aberration",
       "tag": "core spawn seer",
       "alignment": "CE",
@@ -22904,7 +22904,7 @@
    },
    {
       "name": "Core Spawn Worm",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "aberration",
       "tag": "core spawn worm wurm",
       "alignment": "CE",
@@ -22924,10 +22924,10 @@
    },
    {
       "name": "Frost Worm",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "monstrosity",
       "tag": "frost giant worm wurm",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "17",
       "bookSource": "EGtW 289",
       "environments": []
@@ -22937,7 +22937,7 @@
       "size": "Large",
       "type": "construct",
       "tag": "gearkeeper gear keeper construct",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "10",
       "bookSource": "EGtW 290",
       "environments": []
@@ -22954,17 +22954,17 @@
    },
    {
       "name": "Horizonback Tortoise",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "monstrosity",
       "tag": "horizonback horizon back tortoise turtle",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "8",
       "bookSource": "EGtW 292",
       "environments": []
    },
    {
       "name": "Husk Zombie",
-      "size": "medium",
+      "size": "Medium",
       "type": "undead",
       "tag": "husk zombie",
       "alignment": "NE",
@@ -22990,7 +22990,7 @@
       "size": "Large",
       "type": "beast",
       "tag": "moonbounder mount cat panther wolf",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "1",
       "bookSource": "EGtW 295",
       "environments": []
@@ -23000,7 +23000,7 @@
       "size": "Large",
       "type": "beast",
       "tag": "bristled moonbounder mount cat panther wolf",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "EGtW 295",
       "environments": []
@@ -23017,7 +23017,7 @@
    },
    {
       "name": "Sahuagin Warlock of Uk'otoa",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid (sahuagin)",
       "tag": "sahuagin walck ukotoa uk otoa toa",
       "alignment": "NE",
@@ -23030,7 +23030,7 @@
    },
    {
       "name": "Sea Fury",
-      "size": "medium",
+      "size": "Medium",
       "type": "fey",
       "tag": "sea ocean lake fury hag",
       "alignment": "CE",
@@ -23043,7 +23043,7 @@
    },
    {
       "name": "Shadowghast",
-      "size": "medium",
+      "size": "Medium",
       "type": "undead",
       "tag": "shadowghast ghast ghoul shadow",
       "alignment": "CE",
@@ -23056,7 +23056,7 @@
       "size": "Huge",
       "type": "monstrosity",
       "tag": "swavain basilisk hydra snake",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "EGtW 300",
       "environments": [
@@ -23066,7 +23066,7 @@
    },
    {
       "name": "Udaak",
-      "size": "Gargantuan",
+      "size": "Gragantuan",
       "type": "Fiend",
       "tag": "udaak fiend ox demoninc gorilla",
       "alignment": "NE",
@@ -23079,14 +23079,14 @@
       "size": "Huge",
       "type": "construct",
       "tag": "ancient iron golem construct",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "20",
       "bookSource": "MHB",
       "environments": []
    },
    {
       "name": "Blaze Skulls",
-      "size": "small",
+      "size": "Small",
       "type": "swarm of undead",
       "tag": "blaze skulls flame skull lich",
       "alignment": "LE",
@@ -23101,7 +23101,7 @@
       "size": "Large",
       "type": "beast",
       "tag": "elemental centipede millapede elementapede bug",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "7",
       "bookSource": "MHB",
       "environments": [
@@ -23115,7 +23115,7 @@
       "size": "Large",
       "type": "beast",
       "tag": "millipede centipede millapede giant bug",
-      "alignment": "unaligned",
+      "alignment": "U",
       "challengeRating": "3",
       "bookSource": "MHB",
       "environments": [
@@ -23130,7 +23130,7 @@
    },
    {
       "name": "Helper Unbound Form",
-      "size": "medium",
+      "size": "Medium",
       "type": "monstrosity",
       "tag": "helper shapechanger exoskeleton creepy alien monster unbound form UNDERDARK",
       "alignment": "CN",
@@ -23156,7 +23156,7 @@
    },
    {
       "name": "Kobold of the Gale",
-      "size": "small",
+      "size": "Small",
       "type": "humanoid",
       "tag": "kobold gale brom riik diamond north northhaven nourthbourne north",
       "alignment": "LE",
@@ -23182,7 +23182,7 @@
    },
    {
       "name": "Molten Gold Golem",
-      "size": "huge",
+      "size": "Huge",
       "type": "construct",
       "tag": "molten gold golem ooze",
       "alignment": "NE",
@@ -23291,7 +23291,7 @@
    },
    {
       "name": "Skum",
-      "size": "medium",
+      "size": "Medium",
       "type": "humanoid",
       "tag": "skum triton merrow trosk merfolk aboleth abolith",
       "alignment": "LE",
@@ -23305,7 +23305,7 @@
    },
    {
       "name": "Skum Beast",
-      "size": "large",
+      "size": "Large",
       "type": "humanoid",
       "tag": "skum triton merrow trosk merfolk aboleth abolith beast",
       "alignment": "LE",
@@ -23319,7 +23319,7 @@
    },
    {
       "name": "Skum Hulk",
-      "size": "large",
+      "size": "Large",
       "type": "humanoid",
       "tag": "skum hulk brute triton merrow trosk merfolk aboleth abolith",
       "alignment": "LE",
@@ -23333,7 +23333,7 @@
    },
    {
       "name": "Deva Shaitan",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend",
       "tag": "deva shaitan angel fallen demonic shadow fiend",
       "alignment": "CE",
@@ -23344,7 +23344,7 @@
    },
    {
       "name": "Planetar Shaitan",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend",
       "tag": "planetar shaitan angel fallen demonic shadow fiend",
       "alignment": "CE",
@@ -23355,7 +23355,7 @@
    },
    {
       "name": "Solar Shaitan",
-      "size": "medium",
+      "size": "Medium",
       "type": "fiend",
       "tag": "solar sun shaitan angel fallen demonic shadow fiend",
       "alignment": "CE",
@@ -23366,7 +23366,7 @@
    },
    {
       "name": "Animated Wood Statue",
-      "size": "large",
+      "size": "Large",
       "type": "construct",
       "tag": "animated object wood wooden statue construct golem",
       "alignment": "U",
@@ -23380,7 +23380,7 @@
    },
    {
       "name": "Animated Stone Statue",
-      "size": "large",
+      "size": "Large",
       "type": "construct",
       "tag": "animated object stone statue construct golem",
       "alignment": "U",
@@ -23394,7 +23394,7 @@
    },
    {
       "name": "Animated Iron Statue",
-      "size": "large",
+      "size": "Large",
       "type": "construct",
       "tag": "animated object iron metal steel statue construct golem",
       "alignment": "U",
@@ -23408,7 +23408,7 @@
    },
    {
       "name": "Ankheg Brood Queen",
-      "size": "huge",
+      "size": "Huge",
       "type": "monstrosity",
       "tag": "ankheg brood queen ant bug",
       "alignment": "U",
@@ -23424,7 +23424,7 @@
    },
    {
       "name": "Ankheg Broodling",
-      "size": "small",
+      "size": "Small",
       "type": "monstrosity",
       "tag": "ankheg broodling spawn ant bug",
       "alignment": "U",
@@ -23440,7 +23440,7 @@
    },
    {
       "name": "Azer Priest of the Flame",
-      "size": "medium",
+      "size": "Medium",
       "type": "elemenetal",
       "tag": "azer elemental priest flame fire giant",
       "alignment": "LN",
@@ -23451,7 +23451,7 @@
    },
    {
       "name": "Azer Taskmaster",
-      "size": "medium",
+      "size": "Medium",
       "type": "elemenetal",
       "tag": "azer elemental task master taskmaster fire giant",
       "alignment": "LN",
@@ -23462,7 +23462,7 @@
    },
    {
       "name": "Azer Zealot",
-      "size": "medium",
+      "size": "Medium",
       "type": "elemenetal",
       "tag": "azer elemental task master taskmaster fire giant",
       "alignment": "LN",
@@ -23473,7 +23473,7 @@
    },
    {
       "name": "Greater Banshee",
-      "size": "medium",
+      "size": "Medium",
       "type": "undead",
       "tag": "greater banshee wail ghost spirit undead",
       "alignment": "CE",
@@ -23490,7 +23490,7 @@
    },
    {
       "name": "Greater Basilisk",
-      "size": "large",
+      "size": "Large",
       "type": "monstrosity",
       "tag": "greater basilisk lizard snake poison",
       "alignment": "U",
@@ -23507,9 +23507,9 @@
    },
    {
       "name": "Ancient Behir",
-      "size": "gargantuan",
+      "size": "Gragantuan",
       "type": "monstrosity",
-      "tag": "greater behir ancient gargantuan lightning electricity snake dragon lizard",
+      "tag": "greater behir ancient Gragantuan lightning electricity snake dragon lizard",
       "alignment": "NE",
       "challengeRating": "20",
       "bookSource": "MME 23",
@@ -23526,7 +23526,7 @@
       "name": "Young Behir",
       "size": "Large",
       "type": "monstrosity",
-      "tag": "spawn behir young gargantuan lightning electricity snake dragon lizard",
+      "tag": "spawn behir young Gragantuan lightning electricity snake dragon lizard",
       "alignment": "NE",
       "challengeRating": "5",
       "bookSource": "MME 23",
@@ -23541,7 +23541,7 @@
    },
    {
       "name": "Elder Orb",
-      "size": "large",
+      "size": "Large",
       "type": "aberration",
       "tag": "elder orb eye beholder",
       "alignment": "LE",
@@ -23558,7 +23558,7 @@
    },
    {
       "name": "Eye of Flame",
-      "size": "large",
+      "size": "Large",
       "type": "aberration",
       "tag": "flame fire orb eye beholder",
       "alignment": "LE",
@@ -23575,7 +23575,7 @@
    },
    {
       "name": "Eye of Frost",
-      "size": "large",
+      "size": "Large",
       "type": "aberration",
       "tag": "frost cold orb eye beholder",
       "alignment": "LE",
@@ -23593,7 +23593,7 @@
    },
    {
       "name": "Ultimate Tyrant",
-      "size": "huge",
+      "size": "Huge",
       "type": "aberration",
       "tag": "ultimate tyrant orb eye beholder",
       "alignment": "LE",
@@ -23610,7 +23610,7 @@
    },
    {
       "name": "Abyssal Chicken",
-      "size": "tiny",
+      "size": "Tiny",
       "type": "fiend",
       "tag": "abyssal chicken fiend demon",
       "alignment": "CE",
@@ -23620,11 +23620,30 @@
    },
    {
       "name": "Ancient Blight",
-      "size": "huge",
+      "size": "Huge",
       "type": "plant",
       "tag": "ancient plant blight saproling dead infected",
       "alignment": "NE",
       "challengeRating": "6",
+      "bookSource": "MME 29",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "FOREST",
+         "MOUNTAIN",
+         "GRASSLAND",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Tree Blight",
+      "size": "Large",
+      "type": "plant",
+      "tag": "tree plant blight saproling dead infected",
+      "alignment": "NE",
+      "challengeRating": "3",
       "bookSource": "MME 29",
       "environments": [
          "DESERT",
