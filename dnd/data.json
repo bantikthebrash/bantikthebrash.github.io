@@ -23821,5 +23821,201 @@
          "UNDERWATER",
          "URBAN"
       ]
+   },
+   {
+      "name": "Great Bulette",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "bullette greater great bulette land shark",
+      "alignment": "U",
+      "challengeRating": "12",
+      "bookSource": "MME 35",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Cambion Hell Knight",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "cambion hell knight fiend devil demon infernal abyssal",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 36",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Cambion Warlock of the Fiend",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "cambion Warlock Fiend fiend devil demon infernal abyssal",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 37",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Cambion Abyssal Trickster",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "cambion Abyssal Trickster fiend devil demon infernal abyssal",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 37",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Enormous Carrion Crawler",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "enormous carrion crawler bug corpse",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME 38",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Centuar Champion",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "centuar champion horse hybrid",
+      "alignment": "NG",
+      "challengeRating": "7",
+      "bookSource": "MME 39",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Centuar Skirmisher",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "centuar Skirmisher horse hybrid",
+      "alignment": "NG",
+      "challengeRating": "4",
+      "bookSource": "MME 39",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Centuar Shaman",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "centuar shaman horse hybrid",
+      "alignment": "NG",
+      "challengeRating": "5",
+      "bookSource": "MME 40",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ancient Chimera",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "anceint chimera red dragon goat lion",
+      "alignment": "CE",
+      "challengeRating": "15",
+      "bookSource": "MME 41",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Ankhimera",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "Ankhimera chimera ankheg white dragon goat",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME 42",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Gorgimera",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "gorgimera chimera red dragon gorgon lion",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 43",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Mantimera",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "mantimera chimera manticore red dragon goat lion",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 43",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
    }
 ]
