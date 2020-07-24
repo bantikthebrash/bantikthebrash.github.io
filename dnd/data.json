@@ -24017,5 +24017,939 @@
          "MOUNTAIN",
          "UNDERDARK"
       ]
+   },
+   {
+      "name": "Chuul Juggernaut",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "lobster folk chuul juggernaut",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 44",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "UNDERWATER",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Uchuulun Slime Chuul",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "lobster folk chuul uchuulun slime",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MME 44",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "UNDERWATER",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Basilisk Theros Variation",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "snake wurm theros",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MOoT 204",
+      "environments": [
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Adult Blue Dragon Theros Variation",
+      "size": "Huge",
+      "type": "Dragon  ",
+      "tag": "Dragon Blue lightning Theros",
+      "alignment": "CN",
+      "challengeRating": "16",
+      "bookSource": "MOoT 205",
+      "environments": [
+         "COASTAL",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Adult Red Dragon Theros Variation",
+      "size": "Huge",
+      "type": "Dragon  ",
+      "tag": "Dragon red fire Theros",
+      "alignment": "CN",
+      "challengeRating": "17",
+      "bookSource": "MOoT 205",
+      "environments": [
+         "DESERT",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Lamia Theros Variation",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MOoT 206",
+      "environments": [
+         "DESERT"
+      ]
+   },
+   {
+      "name": "Medusa Theros Variation or Gorgon",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "snake gorgon medusa",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MOoT 206",
+      "environments": [
+         "DESERT"
+      ]
+   },
+   {
+      "name": "Night Hag Theros Variation",
+      "size": "Medium",
+      "type": "Fiend",
+      "tag": "",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MOoT 206",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Sphinx Theros Variation",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "",
+      "alignment": "LN",
+      "challengeRating": "17",
+      "bookSource": "MOoT 207",
+      "environments": [
+         "DESERT"
+      ]
+   },
+   {
+      "name": "Unicorn Theros Varation",
+      "size": "Large",
+      "type": "Celestial",
+      "tag": "",
+      "alignment": "LG",
+      "challengeRating": "5",
+      "bookSource": "MOoT 207",
+      "environments": [
+         "FOREST"
+      ]
+   },
+   {
+      "name": "Amphisbaena",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "snake theros",
+      "alignment": "U",
+      "challengeRating": "1/2",
+      "bookSource": "MOoT 208",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Anvilwrought Raptor",
+      "size": "Tiny",
+      "type": "Construct",
+      "tag": "anvil wrought smithed black forged construct bird",
+      "alignment": "U",
+      "challengeRating": "1/2",
+      "bookSource": "MOoT 209",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bronze Sable",
+      "size": "Medium",
+      "type": "Construct",
+      "tag": "anvil wrought smithed black forged construct weasel",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "MOoT 210",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Burnished Hart",
+      "size": "Medium",
+      "type": "Construct",
+      "tag": "anvil wrought smithed black forged construct",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MOoT 211",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Archon of Falling Stars",
+      "size": "Medium",
+      "type": "Celestial",
+      "tag": "archon celestial angel avatar fallin star nyx theros",
+      "alignment": "LG",
+      "challengeRating": "12",
+      "bookSource": "MOoT 212",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ashen Rider",
+      "size": "Medium",
+      "type": "Celestial",
+      "tag": "archon celestial angel avatar nyx theros",
+      "alignment": "LE",
+      "challengeRating": "12",
+      "bookSource": "MOoT 213",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Winged Bull",
+      "size": "Large",
+      "type": "Celestial",
+      "tag": "archon celestial angel bovine cow mount avatar nyx theros",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "MOoT 214",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Winged Lion",
+      "size": "Large",
+      "type": "Celestial",
+      "tag": "archon celestial angel tiger panther mount avatar nyx theros",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "MOoT 214",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Two Headed Cerberus",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "cerberus dog underworld",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MOoT 215",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Underworld Cerberus",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "cerberus dog underworld",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MOoT 215",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Theran Chimera",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "chimera theros nyx",
+      "alignment": "U",
+      "challengeRating": "7",
+      "bookSource": "MOoT 216",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Colossus of Akros",
+      "size": "Gargantuan",
+      "type": "construct",
+      "tag": "theros",
+      "alignment": "U",
+      "challengeRating": "23",
+      "bookSource": "MOoT 218",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Abhorrent Overlord",
+      "size": "Large",
+      "type": "fiend",
+      "tag": "underworld demon devil theros nyx",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MOoT 219",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Eater of Hope",
+      "size": "Large",
+      "type": "fiend",
+      "tag": "underworld demon devil theros nyx",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MOoT 220",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Nightmare Shepherd",
+      "size": "Large",
+      "type": "fiend",
+      "tag": "underworld demon devil theros nyx",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MOoT 221",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Flitterstep Eidolon",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "underworld ghost eidolon theros nyx",
+      "alignment": "Any",
+      "challengeRating": "3",
+      "bookSource": "MOoT 222",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ghotsblade Eidolon",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "underworld ghost eidolon theros nyx",
+      "alignment": "Any",
+      "challengeRating": "5",
+      "bookSource": "MOoT 222",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fleecemane Lion",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "lion beast tiger golden theros nemian nyx",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MOoT 223",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Doomwake Giant",
+      "size": "Huge",
+      "type": "Giant",
+      "tag": "giant theros primordial nyx",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MOoT 224",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hundred Handed One",
+      "size": "Huge",
+      "type": "Giant",
+      "tag": "giant theros primordial nyx",
+      "alignment": "LN",
+      "challengeRating": "15",
+      "bookSource": "MOoT 225",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Aphemia",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "harpy siren",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MOoT 226",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Blood-Toll Harpy",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "harpy siren",
+      "alignment": "CE",
+      "challengeRating": "1/8",
+      "bookSource": "MOoT 227",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hippocamp",
+      "size": "Large",
+      "type": "Monstrosity",
+      "tag": "hippocampp horse sea horse fish",
+      "alignment": "CG",
+      "challengeRating": "1/2",
+      "bookSource": "MOoT 227",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Akroan Hoplite",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "akroa theros spartan greek hoplite phalanx shield wall",
+      "alignment": "Any",
+      "challengeRating": "3",
+      "bookSource": "MOoT 228",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Meletian Hoplite",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "theros spartan greek hoplite phalanx shield wall",
+      "alignment": "Any",
+      "challengeRating": "3",
+      "bookSource": "MOoT 229",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Setessan Hoplite",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "theros spartan greek hoplite phalanx shield wall",
+      "alignment": "Any",
+      "challengeRating": "4",
+      "bookSource": "MOoT 229",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ironscale Hydra",
+      "size": "Gargantuan",
+      "type": "Monstrosity",
+      "tag": "theros hydra",
+      "alignment": "U",
+      "challengeRating": "12",
+      "bookSource": "MOoT 231",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Polikranos",
+      "size": "Gargantuan",
+      "type": "Monstrosity",
+      "tag": "theros hydra",
+      "alignment": "U",
+      "challengeRating": "19",
+      "bookSource": "MOoT 231",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Leonin Iconoclaast",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "leonin lion folk",
+      "alignment": "Any",
+      "challengeRating": "5",
+      "bookSource": "MOoT 232",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Nyx Fleece Ram",
+      "size": "Medium",
+      "type": "Monstrosity",
+      "tag": "nyx fleece ram beast",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "MOoT 233",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Alseid",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx archon protector nymph",
+      "alignment": "CG",
+      "challengeRating": "1",
+      "bookSource": "MOoT 235",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lampad",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx archon protector nymph",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "MOoT 235",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Naiad",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx archon protector nymph",
+      "alignment": "CN",
+      "challengeRating": "2",
+      "bookSource": "MOoT 236",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oread",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx archon protector nymph",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MOoT 237",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oracle",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "nyx prophecy",
+      "alignment": "Any",
+      "challengeRating": "4",
+      "bookSource": "MOoT 238",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Phylaskia",
+      "size": "Large",
+      "type": "Undead",
+      "tag": "nyx underworld skeleton",
+      "alignment": "LN",
+      "challengeRating": "9",
+      "bookSource": "MOoT 239",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Returned Drifter",
+      "size": "Medium",
+      "type": "Undead",
+      "tag": "nyx revenant zombie underworld",
+      "alignment": "LN",
+      "challengeRating": "1/4",
+      "bookSource": "MOoT 240",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Returned Palamnite",
+      "size": "Medium",
+      "type": "Undead",
+      "tag": "nyx revenant zombie underworld",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MOoT 241",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Returned Sentry",
+      "size": "Medium",
+      "type": "Undead",
+      "tag": "nyx revenant zombie underworld",
+      "alignment": "LE",
+      "challengeRating": "1",
+      "bookSource": "MOoT 241",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Satyr Reveler",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx humanoid satyr",
+      "alignment": "CN",
+      "challengeRating": "1",
+      "bookSource": "MOoT 242",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Satyr Thornbreaker",
+      "size": "Medium",
+      "type": "Fey",
+      "tag": "nyx humanoid satyr",
+      "alignment": "CN",
+      "challengeRating": "2",
+      "bookSource": "MOoT 243",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Triton Shorestalker",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "nyx merfolk mermaid",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MOoT 244",
+      "environments": [
+         "COASTAL",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Triton Master of Waves",
+      "size": "Medium",
+      "type": "Humanoid",
+      "tag": "nyx merfolk mermaid summmoned elemental",
+      "alignment": "N",
+      "challengeRating": "8",
+      "bookSource": "MOoT 245",
+      "environments": [
+         "COASTAL",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Typhon",
+      "size": "Huge",
+      "type": "Monstrosity",
+      "tag": "nyx hydra",
+      "alignment": "CE",
+      "challengeRating": "15",
+      "bookSource": "MOoT 246",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Woe Stryider",
+      "size": "Large",
+      "type": "Aberrations",
+      "tag": "nyx undead zombie fiend",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MOoT 247",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Arasta",
+      "size": "Huge",
+      "type": "Monstrosity",
+      "tag": "nyx spider oni lady",
+      "alignment": "NE",
+      "challengeRating": "21",
+      "bookSource": "MOoT 248",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hythonia",
+      "size": "Huge",
+      "type": "Monstrosity",
+      "tag": "nyx gorgon statue medusa lady",
+      "alignment": "NE",
+      "challengeRating": "17",
+      "bookSource": "MOoT 252",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Tromokratis",
+      "size": "Gargantuan",
+      "type": "Monstrosity",
+      "tag": "nyx kraken",
+      "alignment": "Any",
+      "challengeRating": "26",
+      "bookSource": "MOoT 254",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
    }
 ]
