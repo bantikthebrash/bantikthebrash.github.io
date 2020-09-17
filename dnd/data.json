@@ -12761,6 +12761,7 @@
       "challengeRating": "0",
       "bookSource": "ToA 216",
       "environments": [
+         "ARCTIC",
          "FOREST"
       ]
    },
@@ -16210,7 +16211,7 @@
       "tag": "Waterdeep Assassin",
       "alignment": "CN",
       "challengeRating": "5",
-      "bookSource": "WDH 196",
+      "bookSource": "W:DH 196",
       "environments": [
          "URBAN"
       ]
@@ -16222,7 +16223,7 @@
       "tag": "Waterdeep Guard",
       "alignment": "A",
       "challengeRating": "2",
-      "bookSource": "WDH 197",
+      "bookSource": "W:DH 197",
       "environments": [
          "URBAN"
       ]
@@ -16234,7 +16235,7 @@
       "tag": "Waterdeep Drow Gunslinger",
       "alignment": "A",
       "challengeRating": "4",
-      "bookSource": "WDH 201",
+      "bookSource": "W:DH 201",
       "environments": [
          "URBAN"
       ]
@@ -16246,7 +16247,7 @@
       "tag": "Waterdeep Construct",
       "alignment": "U",
       "challengeRating": "18",
-      "bookSource": "WDH 219",
+      "bookSource": "W:DH 219",
       "environments": [
          "URBAN"
       ]
@@ -16258,7 +16259,7 @@
       "tag": "Lava Child",
       "alignment": "N",
       "challengeRating": "3",
-      "bookSource": "WDotMM 313",
+      "bookSource": "W:DotMM 313",
       "environments": [
          "UNDERDARK"
       ]
@@ -16270,7 +16271,7 @@
       "tag": "Servant",
       "alignment": "U",
       "challengeRating": "0",
-      "bookSource": "WDotMM 313",
+      "bookSource": "W:DotMM 313",
       "environments": [
          "UNDERDARK"
       ]
@@ -16282,7 +16283,7 @@
       "tag": "Muiral",
       "alignment": "CE",
       "challengeRating": "13",
-      "bookSource": "WDotMM 314",
+      "bookSource": "W:DotMM 314",
       "environments": [
          "UNDERDARK"
       ]
@@ -16294,7 +16295,7 @@
       "tag": "Illithid Mind Flayer",
       "alignment": "CE",
       "challengeRating": "13",
-      "bookSource": "WDotMM 315",
+      "bookSource": "W:DotMM 315",
       "environments": [
          "UNDERDARK"
       ]
@@ -16306,7 +16307,7 @@
       "tag": "Construct",
       "alignment": "U",
       "challengeRating": "8",
-      "bookSource": "WDotMM 315",
+      "bookSource": "W:DotMM 315",
       "environments": [
          "UNDERDARK"
       ]
@@ -16318,7 +16319,7 @@
       "tag": "Illithid Mind Flayer",
       "alignment": "LE",
       "challengeRating": "9",
-      "bookSource": "WDotMM 316",
+      "bookSource": "W:DotMM 316",
       "environments": [
          "UNDERDARK"
       ]
@@ -16330,7 +16331,7 @@
       "tag": "Goblin Lycanthrope",
       "alignment": "NE",
       "challengeRating": "2",
-      "bookSource": "WDotMM 317",
+      "bookSource": "W:DotMM 317",
       "environments": [
          "UNDERDARK"
       ]
@@ -21595,7 +21596,7 @@
       "tag": "reptile amphibious Amphisbaena",
       "alignment": "U",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 230",
+      "bookSource": "GoS 230",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21608,7 +21609,7 @@
       "tag": "bullywug croaker frog bard",
       "alignment": "neutral evil",
       "challengeRating": "2",
-      "bookSource": "GotSM 232",
+      "bookSource": "GoS 232",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21621,7 +21622,7 @@
       "tag": "bullywug royal frog",
       "alignment": "neutral evil",
       "challengeRating": "3",
-      "bookSource": "GotSM 232",
+      "bookSource": "GoS 232",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21634,7 +21635,7 @@
       "tag": "bullywug royal frog",
       "alignment": "neutral evil",
       "challengeRating": "3",
-      "bookSource": "GotSM 232",
+      "bookSource": "GoS 232",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21647,7 +21648,7 @@
       "tag": "drowned ascetic undead martial artist",
       "alignment": "chaotic evil",
       "challengeRating": "3",
-      "bookSource": "GotSM 233",
+      "bookSource": "GoS 233",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21660,7 +21661,7 @@
       "tag": "drowned assassin undead",
       "alignment": "chaotic evil",
       "challengeRating": "4",
-      "bookSource": "GotSM 234",
+      "bookSource": "GoS 234",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21673,7 +21674,7 @@
       "tag": "drowned blade undead fighter rogue",
       "alignment": "chaotic evil",
       "challengeRating": "2",
-      "bookSource": "GotSM 235",
+      "bookSource": "GoS 235",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21686,7 +21687,7 @@
       "tag": "drowned master undead fighter",
       "alignment": "chaotic evil",
       "challengeRating": "9",
-      "bookSource": "GotSM 235",
+      "bookSource": "GoS 235",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21699,7 +21700,7 @@
       "tag": "giant coral snake",
       "alignment": "U",
       "challengeRating": "4",
-      "bookSource": "GotSM 236",
+      "bookSource": "GoS 236",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21712,7 +21713,7 @@
       "tag": "gieant sea eel",
       "alignment": "U",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 237",
+      "bookSource": "GoS 237",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21725,7 +21726,7 @@
       "tag": "harpy matriarch",
       "alignment": "chaotic evil",
       "challengeRating": "5",
-      "bookSource": "GotSM 237",
+      "bookSource": "GoS 237",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21738,7 +21739,7 @@
       "tag": "juvenile kraken titan",
       "alignment": "chaotic evil",
       "challengeRating": "14",
-      "bookSource": "GotSM 238",
+      "bookSource": "GoS 238",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21751,7 +21752,7 @@
       "tag": "koalinth goblinoid",
       "alignment": "chaotic evil",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 238",
+      "bookSource": "GoS 238",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21764,7 +21765,7 @@
       "tag": "koalinth goblinoid",
       "alignment": "lawful evil",
       "challengeRating": "2",
-      "bookSource": "GotSM 239",
+      "bookSource": "GoS 239",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21777,7 +21778,7 @@
       "tag": "kysh triton coastal",
       "alignment": "lawful good",
       "challengeRating": "1",
-      "bookSource": "GotSM 240",
+      "bookSource": "GoS 240",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21790,7 +21791,7 @@
       "tag": "living iron statue animated",
       "alignment": "U",
       "challengeRating": "5",
-      "bookSource": "GotSM 241",
+      "bookSource": "GoS 241",
       "environments": []
    },
    {
@@ -21800,7 +21801,7 @@
       "tag": "lizard reptile commoner lizardfolk folk",
       "alignment": "N",
       "challengeRating": "1/4",
-      "bookSource": "GotSM 241",
+      "bookSource": "GoS 241",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21813,7 +21814,7 @@
       "tag": "lizard reptile render barbarian lizardfolk folk",
       "alignment": "N",
       "challengeRating": "3",
-      "bookSource": "GotSM 241",
+      "bookSource": "GoS 241",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21826,7 +21827,7 @@
       "tag": "lizard reptile scaleshield lizardfolk scale shield",
       "alignment": "N",
       "challengeRating": "1",
-      "bookSource": "GotSM 242",
+      "bookSource": "GoS 242",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21839,7 +21840,7 @@
       "tag": "lizard reptile subchief lizardfolk chief",
       "alignment": "N",
       "challengeRating": "3",
-      "bookSource": "GotSM 241",
+      "bookSource": "GoS 241",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21852,7 +21853,7 @@
       "tag": "locath fish folk",
       "alignment": "N",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 243",
+      "bookSource": "GoS 243",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21865,7 +21866,7 @@
       "tag": "locath fish folk hunter",
       "alignment": "N",
       "challengeRating": "2",
-      "bookSource": "GotSM 243",
+      "bookSource": "GoS 243",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21878,7 +21879,7 @@
       "tag": "maw sekolah sahuagin god",
       "alignment": "NE",
       "challengeRating": "7",
-      "bookSource": "GotSM 244",
+      "bookSource": "GoS 244",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21891,7 +21892,7 @@
       "tag": "merfolk mermaid scavenger salvager folk",
       "alignment": "N",
       "challengeRating": "1",
-      "bookSource": "GotSM 243",
+      "bookSource": "GoS 243",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21904,7 +21905,7 @@
       "tag": "minotaur living crystal sattue construct animated object",
       "alignment": "U",
       "challengeRating": "6",
-      "bookSource": "GotSM 245",
+      "bookSource": "GoS 245",
       "environments": []
    },
    {
@@ -21914,7 +21915,7 @@
       "tag": "monstrous peryton bird monstrosity",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "GotSM 245",
+      "bookSource": "GoS 245",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21927,7 +21928,7 @@
       "tag": "pirate bosun boatswain humanoid",
       "alignment": "Any",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 247",
+      "bookSource": "GoS 247",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21940,7 +21941,7 @@
       "tag": "pirate captain humanoid",
       "alignment": "Any",
       "challengeRating": "2",
-      "bookSource": "GotSM 247",
+      "bookSource": "GoS 247",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21953,7 +21954,7 @@
       "tag": "pirate deck wizard humanoid",
       "alignment": "Any",
       "challengeRating": "1",
-      "bookSource": "GotSM 248",
+      "bookSource": "GoS 248",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21966,7 +21967,7 @@
       "tag": "pirate first mate humanoid",
       "alignment": "Any",
       "challengeRating": "1",
-      "bookSource": "GotSM 248",
+      "bookSource": "GoS 248",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21979,7 +21980,7 @@
       "tag": "ripo tide priest cult cultists",
       "alignment": "NE",
       "challengeRating": "2",
-      "bookSource": "GotSM 248",
+      "bookSource": "GoS 248",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -21992,7 +21993,7 @@
       "tag": "sahuagin blademaster",
       "alignment": "LE",
       "challengeRating": "6",
-      "bookSource": "GotSM 249",
+      "bookSource": "GoS 249",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22005,7 +22006,7 @@
       "tag": "sahuagin champion",
       "alignment": "LE",
       "challengeRating": "3",
-      "bookSource": "GotSM 249",
+      "bookSource": "GoS 249",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22018,7 +22019,7 @@
       "tag": "sahuagin coral smasher brute",
       "alignment": "LE",
       "challengeRating": "1",
-      "bookSource": "GotSM 249",
+      "bookSource": "GoS 249",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22031,7 +22032,7 @@
       "tag": "sahuagin deep diver",
       "alignment": "LE",
       "challengeRating": "4",
-      "bookSource": "GotSM 250",
+      "bookSource": "GoS 250",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22044,7 +22045,7 @@
       "tag": "sahuagin hatchling Swarm",
       "alignment": "CE",
       "challengeRating": "3",
-      "bookSource": "GotSM 250",
+      "bookSource": "GoS 250",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22057,7 +22058,7 @@
       "tag": "sahuagin high priestess",
       "alignment": "LE",
       "challengeRating": "5",
-      "bookSource": "GotSM 251",
+      "bookSource": "GoS 251",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22070,7 +22071,7 @@
       "tag": "sahuagin wave shaper",
       "alignment": "LE",
       "challengeRating": "5",
-      "bookSource": "GotSM 251",
+      "bookSource": "GoS 251",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22083,7 +22084,7 @@
       "tag": "shell shark",
       "alignment": "U",
       "challengeRating": "2",
-      "bookSource": "GotSM 252",
+      "bookSource": "GoS 252",
       "environments": [
          "UNDERWATER",
          "COASTAL"
@@ -22096,7 +22097,7 @@
       "tag": "skeletal alchemist undead",
       "alignment": "LE",
       "challengeRating": "1/2",
-      "bookSource": "GotSM 253",
+      "bookSource": "GoS 253",
       "environments": [
          "UNDERWATER",
          "COASTAL",
@@ -22110,7 +22111,7 @@
       "tag": "skeletal juggernaut undead",
       "alignment": "LE",
       "challengeRating": "5",
-      "bookSource": "GotSM 253",
+      "bookSource": "GoS 253",
       "environments": [
          "UNDERWATER",
          "COASTAL",
@@ -22124,7 +22125,7 @@
       "tag": "skeletal swarm undead",
       "alignment": "LE",
       "challengeRating": "2",
-      "bookSource": "GotSM 254",
+      "bookSource": "GoS 254",
       "environments": [
          "UNDERWATER",
          "COASTAL",
@@ -22138,7 +22139,7 @@
       "tag": "skum squid lovecraftian",
       "alignment": "LE",
       "challengeRating": "5",
-      "bookSource": "GotSM 254",
+      "bookSource": "GoS 254",
       "environments": [
          "UNDERWATER",
          "COASTAL",
@@ -22152,7 +22153,7 @@
       "tag": "storm giant quintessant",
       "alignment": "CG",
       "challengeRating": "16",
-      "bookSource": "GotSM 255",
+      "bookSource": "GoS 255",
       "environments": []
    },
    {
@@ -22162,7 +22163,7 @@
       "tag": "thousand teeth crocodile alligator",
       "alignment": "NE",
       "challengeRating": "6",
-      "bookSource": "GotSM 256",
+      "bookSource": "GoS 256",
       "environments": [
          "UNDERWATER",
          "COASTAL",
@@ -22176,7 +22177,7 @@
       "tag": "vampiric jade statue vampire animated object",
       "alignment": "U",
       "challengeRating": "8",
-      "bookSource": "GotSM 256",
+      "bookSource": "GoS 256",
       "environments": []
    },
    {
@@ -22186,7 +22187,7 @@
       "tag": "chaos quadrapod lovecraftian tentacles",
       "alignment": "CE",
       "challengeRating": "4",
-      "bookSource": "AA 209",
+      "bookSource": "AI 209",
       "environments": []
    },
    {
@@ -22196,7 +22197,7 @@
       "tag": "clockwork dragon",
       "alignment": "N",
       "challengeRating": "1",
-      "bookSource": "AA 209",
+      "bookSource": "AI 209",
       "environments": []
    },
    {
@@ -22206,7 +22207,7 @@
       "tag": "deep crow",
       "alignment": "U",
       "challengeRating": "9",
-      "bookSource": "AA 210",
+      "bookSource": "AI 210",
       "environments": []
    },
    {
@@ -22216,7 +22217,7 @@
       "tag": "keg robot golem animated object beer brewing dwarf gnome",
       "alignment": "U",
       "challengeRating": "2",
-      "bookSource": "AA 212",
+      "bookSource": "AI 212",
       "environments": []
    },
    {
@@ -22226,7 +22227,7 @@
       "tag": "mechanical beholder vehicle",
       "alignment": "U",
       "challengeRating": "0",
-      "bookSource": "AA 219",
+      "bookSource": "AI 219",
       "environments": []
    },
    {
@@ -22236,7 +22237,7 @@
       "tag": "crokek toek croak crok croc demon fiend",
       "alignment": "CE",
       "challengeRating": "14",
-      "bookSource": "BGDiA 230",
+      "bookSource": "BG:DiA 230",
       "environments": [
       ]
    },
@@ -22247,7 +22248,7 @@
       "tag": "fist bane cult cultist",
       "alignment": "LE",
       "challengeRating": "1/2",
-      "bookSource": "BGDiA 232",
+      "bookSource": "BG:DiA 232",
       "environments": []
    },
    {
@@ -22257,7 +22258,7 @@
       "tag": "iron consul bane cult cultist",
       "alignment": "LE",
       "challengeRating": "2",
-      "bookSource": "BGDiA 232",
+      "bookSource": "BG:DiA 232",
       "environments": []
    },
    {
@@ -22267,7 +22268,7 @@
       "tag": "black gauntlet bane cult cultist",
       "alignment": "LE",
       "challengeRating": "6",
-      "bookSource": "BGDiA 232",
+      "bookSource": "BG:DiA 232",
       "environments": []
    },
    {
@@ -22277,7 +22278,7 @@
       "tag": "night blade bhaal cult cultist",
       "alignment": "CE",
       "challengeRating": "1/4",
-      "bookSource": "BGDiA 233",
+      "bookSource": "BG:DiA 233",
       "environments": []
    },
    {
@@ -22287,7 +22288,7 @@
       "tag": "reaper bhaal cult cultist",
       "alignment": "CE",
       "challengeRating": "2",
-      "bookSource": "BGDiA 233",
+      "bookSource": "BG:DiA 233",
       "environments": []
    },
    {
@@ -22297,7 +22298,7 @@
       "tag": "deaths hand bhaal cult cultist",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "BGDiA 233",
+      "bookSource": "BG:DiA 233",
       "environments": []
    },
    {
@@ -22307,7 +22308,7 @@
       "tag": "necromite necro myrkul cult cultist",
       "alignment": "NE",
       "challengeRating": "1/2",
-      "bookSource": "BGDiA 234",
+      "bookSource": "BG:DiA 234",
       "environments": []
    },
    {
@@ -22317,7 +22318,7 @@
       "tag": "skull lasher myrkul cult cultist",
       "alignment": "NE",
       "challengeRating": "1",
-      "bookSource": "BGDiA 234",
+      "bookSource": "BG:DiA 234",
       "environments": []
    },
    {
@@ -22327,7 +22328,7 @@
       "tag": "master souls myrkul cult cultist",
       "alignment": "NE",
       "challengeRating": "4",
-      "bookSource": "BGDiA 234",
+      "bookSource": "BG:DiA 234",
       "environments": []
    },
    {
@@ -22337,7 +22338,7 @@
       "tag": "fiendish flesh golem animated object construct",
       "alignment": "U",
       "challengeRating": "8",
-      "bookSource": "BGDiA 236",
+      "bookSource": "BG:DiA 236",
       "environments": []
    },
    {
@@ -22347,7 +22348,7 @@
       "tag": "fiendish fiend hell wasp hellwasp",
       "alignment": "LE",
       "challengeRating": "8",
-      "bookSource": "BGDiA 236",
+      "bookSource": "BG:DiA 236",
       "environments": [
       ]
    },
@@ -22358,7 +22359,7 @@
       "tag": "fiendish flesh golem animated object construct",
       "alignment": "U",
       "challengeRating": "8",
-      "bookSource": "BGDiA 236",
+      "bookSource": "BG:DiA 236",
       "environments": []
    },
    {
@@ -22368,7 +22369,7 @@
       "tag": "hollyphant elephant celestial angel",
       "alignment": "LG",
       "challengeRating": "5",
-      "bookSource": "BGDiA 237",
+      "bookSource": "BG:DiA 237",
       "environments": []
    },
    {
@@ -22378,7 +22379,7 @@
       "tag": "merregon fiend devil mask iron",
       "alignment": "LE",
       "challengeRating": "4",
-      "bookSource": "BGDiA 238",
+      "bookSource": "BG:DiA 238",
       "environments": [
       ]
    },
@@ -22389,7 +22390,7 @@
       "tag": "murderous red cap redcap fey",
       "alignment": "CE",
       "challengeRating": "3",
-      "bookSource": "BGDiA 240",
+      "bookSource": "BG:DiA 240",
       "environments": []
    },
    {
@@ -22399,7 +22400,7 @@
       "tag": "zariel fallen angel devil archduke avernus",
       "alignment": "LE",
       "challengeRating": "26",
-      "bookSource": "BGDiA 243",
+      "bookSource": "BG:DiA 243",
       "environments": [
       ]
    },
@@ -23615,7 +23616,7 @@
       "tag": "abyssal chicken fiend demon",
       "alignment": "CE",
       "challengeRating": "1/4",
-      "bookSource": "BGDiA 97",
+      "bookSource": "BG:DiA 97",
       "environments": []
    },
    {
@@ -24950,6 +24951,576 @@
          "SWAMP",
          "UNDERDARK",
          "URBAN"
+      ]
+   },
+   {
+      "name": "Brain In a Jar",
+      "size": "Small",
+      "type": "undead",
+      "tag": "brain jar mind flayer illithid elder brain scifi lovecraftian lovecraft",
+      "alignment": "Any",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 278",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Auril First Form",
+      "size": "Medium",
+      "type": "mostrosity",
+      "tag": "auril frost maiden frostmaiden form owl owlbear",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "ID:RotF 275",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Auril Second Form",
+      "size": "Large",
+      "type": "elemental",
+      "tag": "auril frost maiden frostmaiden form elemental construct golem",
+      "alignment": "NE",
+      "challengeRating": "10",
+      "bookSource": "ID:RotF 277",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Auril Second Form",
+      "size": "Small",
+      "type": "elemental",
+      "tag": "auril frost maiden frostmaiden form elemental construct golem diamond",
+      "alignment": "NE",
+      "challengeRating": "11",
+      "bookSource": "ID:RotF 278",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Chardalyn Berserker",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "demon fiend chardalyn berserker barbarian",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "ID:RotF 280",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Chardalyn Dragon",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "demon fiend chardalyn clockwork construct golem dragon",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "ID:RotF 280",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Coldlight Walker",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "demon fiend chardalyn clockwork construct golem dragon",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "ID:RotF 280",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Xardorok Sunblight",
+      "size": "Medium",
+      "type": "dwarf",
+      "tag": "duergar king underdark warlock",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 287",
+      "environments": [
+         "ARCTIC",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Fox",
+      "size": "Tiny",
+      "type": "beast",
+      "tag": "fox kitsune animal beast",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "ID:RotF 288",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "HILL",
+         "GRASSLAND"
+      ]
+   },
+   {
+      "name": "Frost Druid",
+      "size": "Medium",
+      "type": "human",
+      "tag": "frost cold fox ice druid",
+      "alignment": "Any",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 288",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Frost Giant Skeleton",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "frost giant skeleton undead",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "ID:RotF 288",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Gnoll Vampire",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "gnoll vampire",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 290",
+      "environments": [
+         "ARCTIC",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Goliath Warrior",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "goliath warrior",
+      "alignment": "Any",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 292",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Goliath Werebear",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "goliath werebear bear lycanthrope werewolf were polar",
+      "alignment": "NG",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 293",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Hare",
+      "size": "Tiny",
+      "type": "beast",
+      "tag": "hare rabbit bunny hair",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "ID:RotF 294",
+      "environments": [
+         "ARCTIC",
+         "DESERT",
+         "FOREST",
+         "HILL",
+         "GRASSLAND",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ice Troll",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ice frost cold troll giant",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 295",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Knucklehead Trout",
+      "size": "Small",
+      "type": "beast",
+      "tag": "Knucklehead Trout fish",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "ID:RotF 295",
+      "environments": [
+         "ARCTIC",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Icewind Kobold",
+      "size": "Small",
+      "type": "humanoid",
+      "tag": "ice wind dale kobold draconic",
+      "alignment": "Any",
+      "challengeRating": "1/8",
+      "bookSource": "ID:RotF 296",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Icewind Kobold Zombie",
+      "size": "Small",
+      "type": "undead",
+      "tag": "ice wind dale kobold draconic zombie",
+      "alignment": "NE",
+      "challengeRating": "1/8",
+      "bookSource": "ID:RotF 297",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Kobold Vampie Spawn",
+      "size": "Small",
+      "type": "undead",
+      "tag": "ice wind dale kobold draconic vampire spawn",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 297",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Living Bigby's Hand",
+      "size": "Large",
+      "type": "construct",
+      "tag": "living spell bigbys bigsbys hand",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "ID:RotF 298",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Living Blade of Disaster",
+      "size": "Small",
+      "type": "construct",
+      "tag": "living spell blade disaster",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 299",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Living Demiplane",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "living spell demiplane",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "ID:RotF 299",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Damos Magen",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "construct magen damos",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "ID:RotF 300",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Galvan Magen",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "construct magen damos",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 301",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hypnos Magen",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "construct magen damos",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "ID:RotF 301",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Spitting Mimic",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "spit mimic acid large",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 302",
+      "environments": [
+         "ARCTIC",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Gnome Ceremorph",
+      "size": "Small",
+      "type": "aberration",
+      "tag": "gnome ceremorph mind flayer illithid",
+      "alignment": "Any",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 303",
+      "environments": [
+         "ARCTIC",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Gnome Squidling",
+      "size": "Small",
+      "type": "aberration",
+      "tag": "gnome ceremorph mind flayer sqiud illithid",
+      "alignment": "U",
+      "challengeRating": "1/2",
+      "bookSource": "ID:RotF 303",
+      "environments": [
+         "ARCTIC",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Mountain Goat",
+      "size": "Medium",
+      "type": "beast",
+      "tag": "mountain goat ram sheep",
+      "alignment": "U",
+      "challengeRating": "1/8",
+      "bookSource": "ID:RotF 304",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Gunvald Halraggson",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "King Jarl bear ten towns",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 305",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Jarund Elkhardt",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "King Jarl elk moose ten towns",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 305",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Bjornhild Solvigsdottir",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "Queen Jarl tiger ten towns",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 306",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Isarr Kronenstrom",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "Queen Jarl wolf ten towns",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 307",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Seal",
+      "size": "Medium",
+      "type": "beast",
+      "tag": "seal underwater",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "ID:RotF 308",
+      "environments": [
+         "ARCTIC",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Snow Golem",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "snow golem construct",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 308",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Snowy Owlbear",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "snow owlbear ice cold",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "ID:RotF 309",
+      "environments": [
+         "ARCTIC",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Sperm Whale",
+      "size": "Gargantuan",
+      "type": "beast",
+      "tag": "whale big",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "ID:RotF 309",
+      "environments": [
+         "ARCTIC",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Tomb Tapper",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "tomb tapper construct horror giant",
+      "alignment": "LN",
+      "challengeRating": "10",
+      "bookSource": "ID:RotF 310",
+      "environments": [
+         "ARCTIC",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Verbeeg Longstrider",
+      "size": "Large",
+      "type": "giant",
+      "tag": "verbeeg longstrider giant",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "ID:RotF 311",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Verbeeg Marauder",
+      "size": "Large",
+      "type": "giant",
+      "tag": "verbeeg marauder giant",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "ID:RotF 311",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Walrus",
+      "size": "Large",
+      "type": "beast",
+      "tag": "walrus",
+      "alignment": "U",
+      "challengeRating": "1/4",
+      "bookSource": "ID:RotF 312",
+      "environments": [
+         "ARCTIC",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Giant Walrus",
+      "size": "Huge",
+      "type": "beast",
+      "tag": "walrus",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "ID:RotF 312",
+      "environments": [
+         "ARCTIC",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Yeti Tyke",
+      "size": "Small",
+      "type": "monstrosity",
+      "tag": "yeti snow man abominable bit foot yeti",
+      "alignment": "CE",
+      "challengeRating": "1/8",
+      "bookSource": "ID:RotF 313",
+      "environments": [
+         "ARCTIC"
       ]
    }
 ]
