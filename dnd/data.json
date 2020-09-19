@@ -27792,7 +27792,7 @@
       ]
    },
    {
-      "name": "Half Black Dragon Bagaceratops",
+      "name": "Half-Black Dragon Bagaceratops",
       "size": "Medium",
       "type": "beast",
       "tag": "half dragon baga ceratops black",
@@ -27805,7 +27805,7 @@
       ]
    },
    {
-      "name": "Half Green Dragon Megaraptor",
+      "name": "Half-Green Dragon Megaraptor",
       "size": "Large",
       "type": "beast",
       "tag": "half dragon mega raptor green",
@@ -27819,7 +27819,7 @@
       ]
    },
    {
-      "name": "Half Red Dragon Allosaurus",
+      "name": "Half-Red Dragon Allosaurus",
       "size": "Large",
       "type": "beast",
       "tag": "half dragon allosaurus red",
@@ -27836,7 +27836,7 @@
       ]
    },
    {
-      "name": "Half Red Dragon Tyrannosaurus Rex",
+      "name": "Half-Red Dragon Tyrannosaurus Rex",
       "size": "Huge",
       "type": "beast",
       "tag": "half dragon trex red",
@@ -28296,12 +28296,1764 @@
    },
    {
       "name": "Kuo-Toa Exalted Whip",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kuo-toa exalted whip",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "MME 169",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Kuo-Toa Harpooner",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kuo-toa spear harpoon",
+      "alignment": "NE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 169",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Kuo-Toa Monitor",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kuo-toa monitor",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "MME 170",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Kuo-Toa Grand Monitor",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kuo-toa grand monitor",
+      "alignment": "NE",
+      "challengeRating": "6",
+      "bookSource": "MME 170",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Lamia Noble",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "gorgon lamia noble",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MME 171",
+      "environments": [
+         "DESERT",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Lamia Queen",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "gorgon lamia noble",
+      "alignment": "CE",
+      "challengeRating": "14",
+      "bookSource": "MME 172",
+      "environments": [
+         "DESERT",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Banelich",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "lich undead bane",
+      "alignment": "LE",
+      "challengeRating": "20",
+      "bookSource": "MME 173",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Pactlich",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "lich undead pact",
+      "alignment": "Any Evil",
+      "challengeRating": "21",
+      "bookSource": "MME 174",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Blackscale Bruiser",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk blackscale",
+      "alignment": "N",
+      "challengeRating": "2",
+      "bookSource": "MME 175",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dragonblood Lizardfolk Sorcerer of Tiamat",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk dragon blood sorcerer tiamat",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "MME 176",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lizardfolk Berserker",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk berserker barbarian",
+      "alignment": "N",
+      "challengeRating": "1",
+      "bookSource": "MME 176",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lizardfolk Champion of Sess'innek",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk champion sess innek",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 177",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lizardfolk Swampstalker",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk swamp stalker",
+      "alignment": "N",
+      "challengeRating": "1",
+      "bookSource": "MME 178",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lizardfolk Witch Doctor",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lizardfolk shaman druid witch doctor",
+      "alignment": "N",
+      "challengeRating": "3",
+      "bookSource": "MME 178",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dire Werebear",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire werebear",
+      "alignment": "N",
+      "challengeRating": "9",
+      "bookSource": "MME 179",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dire Wereboar",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were boar",
+      "alignment": "NE",
+      "challengeRating": "6",
+      "bookSource": "MME 179",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dire Weretiger",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were tiger",
+      "alignment": "N",
+      "challengeRating": "7",
+      "bookSource": "MME 180",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dire Werewolf",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were wolf",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 180",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Werewolf Pack Lord",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were wolf pack lord",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 181",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Wererat Captain",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were rat captain",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MME 181",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Wererat Pack Lord",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were rat pack lord",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MME 182",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Wererat Thug",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "lycanthrope lycanthropy dire were rat thug",
+      "alignment": "LE",
+      "challengeRating": "3",
+      "bookSource": "MME 182",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Manticore Alpha",
       "size": "Huge",
       "type": "monstrosity",
-      "tag": "titan young kraken",
+      "tag": "manticore alpha",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MME 183",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Manticore Skirmisher",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "manticore skirmisher",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "MME 184",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Manticore Stalker",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "manticore stalker",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 184",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Greater Medusa",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "greater medusa gorgon",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "MME 185",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Merfolk Priest",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "merfolk priest",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MME 186",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Merfolk Scout",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "merfolk scout",
+      "alignment": "NE",
+      "challengeRating": "1",
+      "bookSource": "MME 186",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Merfolk Shaman",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "merfolk shaman warlock witch doctor",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MME 186",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Merrow Champion",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "merfolk merrow champion",
       "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 187",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Merrow Shaman",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "merfolk merrow shaman witch doctor druid warlock",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 187",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Greater Mimic",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "mimic greater shapechanger",
+      "alignment": "N",
+      "challengeRating": "7",
+      "bookSource": "MME 188",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Enormous Mimic",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "mimic enormous shapechanger",
+      "alignment": "N",
+      "challengeRating": "13",
+      "bookSource": "MME 189",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Mind Flayer Assassin",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "mind flayer illithid assassin",
+      "alignment": "LE",
+      "challengeRating": "8",
+      "bookSource": "MME 190",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Mind Flayer Sorcerer",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "mind flayer illithid sorcerer",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 191",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Mind Flayer Warlock",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "mind flayer illithid warlock",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 192",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Minotaur Berserker",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "minotaur berserker",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 193",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Minotaur Savage Bull of Baphomet",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "minotaur savage of baphomet",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 193",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Minotaur Shaman",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "minotaur shaman druid",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME 194",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Minotaur Warrior",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "minotaur warrior fighter",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 194",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ettin Mummy",
+      "size": "Large",
+      "type": "undead",
+      "tag": "mummy ettin",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 195",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Mummy",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "mummy hill giant",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MME 195",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Mummy",
+      "size": "Large",
+      "type": "undead",
+      "tag": "mummy ogre",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 196",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Royal Sorcerer Mummy",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "mummy royal sorcerer",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MME 197",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Mycanid Guard",
+      "size": "Medium",
+      "type": "plant",
+      "tag": "fungus fungi plant spore mushroom mycanid guard",
+      "alignment": "LN",
+      "challengeRating": "1",
+      "bookSource": "MME 198",
+      "environments": [
+         "FOREST",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Mycanid Devoted",
+      "size": "Medium",
+      "type": "plant",
+      "tag": "fungus fungi plant spore mushroom mycanid devoted",
+      "alignment": "LN",
+      "challengeRating": "1",
+      "bookSource": "MME 198",
+      "environments": [
+         "FOREST",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ancient Bone Naga",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "ancient naga bone",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 199",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ancient Spirit Naga",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "ancient naga spirit ghost",
+      "alignment": "CE",
+      "challengeRating": "13",
+      "bookSource": "MME 199",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ancient Guardian Naga",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "ancient naga spirit ghost",
+      "alignment": "LG",
+      "challengeRating": "15",
+      "bookSource": "MME 200",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Cauchemar",
+      "size": "Huge",
+      "type": "fiend",
+      "tag": "nightmare cauche mare fiend demon horse",
+      "alignment": "NE",
+      "challengeRating": "8",
+      "bookSource": "MME 201",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Nothic Eye of Vecna",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "nothic eye vecna",
+      "alignment": "NE",
+      "challengeRating": "8",
+      "bookSource": "MME 202",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Nothic Mindblight",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "nothic mind blight",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MME 203",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ogre Bruiser",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant bruiser",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 204",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Champion of Vaprak",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant champion vaprak",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 204",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Chieftain",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant chieftain",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MME 204",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Shaman",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant shaman druid",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 205",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Skirmisher",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant skirmisher",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 205",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ogre Warhulk",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant war hulk",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME 206",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Skullcrusher Ogre",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ogre goblinoid giant skull crusher barbarian berserker",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "MME 206",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oni Night Haunter",
+      "size": "Large",
+      "type": "giant",
+      "tag": "oni night haunter giant goblnoid ogre fiend demon",
+      "alignment": "LE",
+      "challengeRating": "8",
+      "bookSource": "MME 207",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oni Magi",
+      "size": "Large",
+      "type": "giant",
+      "tag": "oni magi giant goblnoid ogre fiend demon",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MME 208",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oni Lord",
+      "size": "Large",
+      "type": "giant",
+      "tag": "oni lord giant goblnoid ogre fiend demon",
+      "alignment": "LE",
+      "challengeRating": "16",
+      "bookSource": "MME 209",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Oni Yama-Uba",
+      "size": "Large",
+      "type": "giant",
+      "tag": "oni yama uba giant goblnoid ogre fiend demon",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 210",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Monstrous Black Pudding",
+      "size": "Huge",
+      "type": "ooze",
+      "tag": "monstous black pudding ooze goo jelly",
+      "alignment": "U",
+      "challengeRating": "7",
+      "bookSource": "MME 211",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Monstrous Gelatinous Cube",
+      "size": "Huge",
+      "type": "ooze",
+      "tag": "monstous gelatinous gelatenous cube ooze pudding goo jelly",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MME 212",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Monstrous Gray Ooze",
+      "size": "Large",
+      "type": "ooze",
+      "tag": "monstous gray pudding ooze goo jelly",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MME 212",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Monstrous Ochre Jelly",
+      "size": "Huge",
+      "type": "ooze",
+      "tag": "monstous ochre pudding ooze goo jelly",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "MME 213",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Archer",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant archer",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 214",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Berserker",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant berserker barbarian",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MME 215",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Brigand",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant brigand",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 215",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Champion of Gruumsh",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant champion gruumsh",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 216",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Raider",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant raider",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 216",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Scout",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant scout",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 217",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Sorcerer",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant scorcerer",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 217",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Wardrummer",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant bard war drummer",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 217",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Wolf Shaman",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant wolf shaman druid",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 218",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Orc Witchblade",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "ogre orc goblinoid giant witch blade warlock",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME 218",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lifeleech Otyugh",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "otyugh life leech",
+      "alignment": "N",
+      "challengeRating": "7",
+      "bookSource": "MME 219",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Neo-Otyugh",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "otyugh neo",
+      "alignment": "N",
       "challengeRating": "12",
-      "bookSource": "MME 168",
+      "bookSource": "MME 220",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Dire Owlbear",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "dire owl bear owlbear",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME 221",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ironfeather Owlbear",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "owl bear owlbear iron feather",
+      "alignment": "U",
+      "challengeRating": "6",
+      "bookSource": "MME 222",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Great Horned Owlbear",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "owl bear owlbear great horned",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "MME 222",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Winterclaw Owlbear",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "owl bear owlbear winter claw",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MME 222",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Peryton Alpha",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "peryton alpha",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 223",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Dire Peryton",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "peryton dire",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 223",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Pixie Court Trickster",
+      "size": "Tiny",
+      "type": "fey",
+      "tag": "pixie fae fey fairy court trickster",
+      "alignment": "NG",
+      "challengeRating": "1",
+      "bookSource": "MME 224",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Pixie Queen",
+      "size": "Tiny",
+      "type": "fey",
+      "tag": "pixie fae fey fairy queen",
+      "alignment": "NG",
+      "challengeRating": "4",
+      "bookSource": "MME 224",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Young Purple Worm",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "purple wurm worm wyrm young",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME 225",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Purple Wormling",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "purple wurm worm wyrm wormling wyrmling",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 225",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Quaggoth Alpha",
+      "size": "Medium",
+      "type": "humnaoid",
+      "tag": "quaggoth alpha wolf cat were",
+      "alignment": "CN",
+      "challengeRating": "5",
+      "bookSource": "MME 226",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Quaggoth Thonot",
+      "size": "Medium",
+      "type": "humnaoid",
+      "tag": "quaggoth thonot wolf cat were",
+      "alignment": "CN",
+      "challengeRating": "3",
+      "bookSource": "MME 226",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Rakshasa Ak'chazar",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "rakshasa ak chazar fiend demon cat tiger lion panther",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MME 227",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Rakshasa Naztharune",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "rakshasa naztharune fiend demon cat tiger lion panther",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MME 228",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Rakshasa Rajah",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "rakshasa rajah fiend demon cat tiger lion panther",
+      "alignment": "LE",
+      "challengeRating": "19",
+      "bookSource": "MME 229",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Rakshasa Zakya",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "rakshasa zakya fiend demon cat tiger lion panther",
+      "alignment": "LE",
+      "challengeRating": "14",
+      "bookSource": "MME 230",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ancient Remorhaz",
+      "size": "Gargantuan",
+      "type": "monsrosity",
+      "tag": "remorhaz ancient snake fire bug centipede",
+      "alignment": "U",
+      "challengeRating": "19",
+      "bookSource": "MME 231",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Revenant Avenger",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "revenant undead avenger returned",
+      "alignment": "N",
+      "challengeRating": "10",
+      "bookSource": "MME 232",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Young Roc",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "young roc bird birb",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MME 233",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Ancient Roper",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "ancient roper",
+      "alignment": "NE",
+      "challengeRating": "11",
+      "bookSource": "MME 234",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Urophion",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "urophion roper",
+      "alignment": "LE",
+      "challengeRating": "9",
+      "bookSource": "MME 235",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Dire Rust Monster",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "dire rust monster",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 236",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Sahuagin Champion of Sekolah",
+      "size": "Large",
+      "type": "humanoid",
+      "tag": "sahuagin champion sekolah",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MME 237",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin Harpooner",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin harpooner",
+      "alignment": "LE",
+      "challengeRating": "1",
+      "bookSource": "MME 238",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin High Priestess",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin high priestess",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "MME 238",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin Hunter",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin hunter",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 239",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin Reaver",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin reaver",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 239",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin Sea Witch",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin sea witch",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MME 240",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Sahuagin Storm Sorceress",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "sahuagin storm sorcerer",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MME 240",
       "environments": [
          "COASTAL",
          "UNDERDARK",
