@@ -27061,5 +27061,1251 @@
          "HILL",
          "URBAN"
       ]
+   },
+   {
+      "name": "Fire Giant Captain",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire giant captain",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MME 118",
+      "environments": [
+         "DESERT",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fire Giant Duke",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire giant duke",
+      "alignment": "LE",
+      "challengeRating": "16",
+      "bookSource": "MME 119",
+      "environments": [
+         "DESERT",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fire Giant Forgecaller",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire giant forge caller",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "MME 119",
+      "environments": [
+         "DESERT",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Skald",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "frost giant skald",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 120",
+      "environments": [
+         "ARCTIC",
+         "GRASSLAND",
+         "HILL",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Jarl",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "frost giant jarl",
+      "alignment": "CE",
+      "challengeRating": "14",
+      "bookSource": "MME 120",
+      "environments": [
+         "ARCTIC",
+         "GRASSLAND",
+         "HILL",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Frostmaiden",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "frost giant frostmaiden",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MME 121",
+      "environments": [
+         "ARCTIC",
+         "GRASSLAND",
+         "HILL",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Berserker",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "hill giant berserker",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MME 122",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Chieftain",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "hill giant chieftain",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MME 123",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Witch Doctor",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "hill giant witch doctor paladin cleric warlock druid",
+      "alignment": "CE",
+      "challengeRating": "9",
+      "bookSource": "MME 123",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Stone Giant Earth Shaman",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "stone giant earth shaman druid",
+      "alignment": "N",
+      "challengeRating": "9",
+      "bookSource": "MME 124",
+      "environments": [
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Storm Giant Stormguard",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "storm giant stormguard guard",
+      "alignment": "CG",
+      "challengeRating": "19",
+      "bookSource": "MME 125",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Gibbering Horror",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "gibbering horror mouther abonimation aberration",
+      "alignment": "N",
+      "challengeRating": "6",
+      "bookSource": "MME 126",
+      "environments": [
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Gnoll Huntmaster",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "gnoll huntmaster hunt master yeenoghu",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 127",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Gnoll Matriarch",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "gnoll mother leader matriarch yeenoghu",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 127",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Gnoll Shaman of Yeenoghu",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "gnoll shaman druid warlock yeenoghu",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 128",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Gnoll Witch Doctor",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "gnoll shaman druid warlock witch doctor yeenoghu",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 128",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Alchemist",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin alchemist alchemists chemistry apothecary",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 129",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Blackblade",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin black blade assassin rogue",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 130",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Bodyguard",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin body guard sentry",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 130",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Chieftain",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin body guard sentry",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 130",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Cutthroat",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin cut throat assassin rogue",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 131",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Shaman",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin shaman druid witch doctor warlock",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MME 131",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Skirmisher",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin skirmisher fighter",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 132",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Goblin Witch Doctor",
+      "size": "small",
+      "type": "humanoid",
+      "tag": "goblin shaman druid witch doctor warlock",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 132",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Clay Golem Mauler",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "clay golem mauler",
+      "alignment": "U",
+      "challengeRating": "13",
+      "bookSource": "MME 134",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Flesh Golem Abomination",
+      "size": "Large",
+      "type": "construct",
+      "tag": "golem flesh undead abomination",
+      "alignment": "U",
+      "challengeRating": "10",
+      "bookSource": "MME 135",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Stone Golem Sentinel",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "golem stone sentinel",
+      "alignment": "U",
+      "challengeRating": "15",
+      "bookSource": "MME 135",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Iron Golem Juggernaut",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "golem iron juggernaut",
+      "alignment": "U",
+      "challengeRating": "18",
+      "bookSource": "MME 136",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Greater Gorgon",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "greater gorgon brass bull",
+      "alignment": "U",
+      "challengeRating": "10",
+      "bookSource": "MME 137",
+      "environments": [
+         "COASTAL",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Grell Patriarch",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "grell grick underdark illithid flayer mind brain beak",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "MME 138",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grell Philosopher",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "grell grick underdark illithid flayer mind brain beak",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MME 138",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grick Den Mother",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "grell grick underdark mother nest",
+      "alignment": "N",
+      "challengeRating": "10",
+      "bookSource": "MME 139",
+      "environments": [
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grick Hatchling",
+      "size": "Small",
+      "type": "monstrosity",
+      "tag": "grell grick underdark spawn",
+      "alignment": "N",
+      "challengeRating": "1/4",
+      "bookSource": "MME 139",
+      "environments": [
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Griffon Alpha",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "griffon alpha",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 140",
+      "environments": [
+         "COASTAL",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Griffon of Xvim",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "griffon Xvim Bane",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 140",
+      "environments": [
+         "COASTAL",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Grimlock Brute",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "grimlock brute",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MME 141",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grimlock Cavestalker",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "grimlock cave stalker",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME 142",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grimlock Chieftain",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "grimlock cave chieftain",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME 142",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grimlock Scalphunter",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "grimlock scalp hunter",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 143",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Grimlock Shaman",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "grimlock shaman druid warlock witch doctor",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME 143",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Elder Green Hag",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "elder hag fey witch warlock bog swamp green",
+      "alignment": "NE",
+      "challengeRating": "10",
+      "bookSource": "MME 144",
+      "environments": [
+         "FOREST",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Elder Night Hag",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "elder hag fey witch warlock bog swamp night",
+      "alignment": "NE",
+      "challengeRating": "13",
+      "bookSource": "MME 145",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Elder Sea Hag",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "elder hag fey witch warlock bog swamp sea",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "MME 146",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Half Black Dragon Bagaceratops",
+      "size": "Medium",
+      "type": "beast",
+      "tag": "half dragon baga ceratops black",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MME 147",
+      "environments": [
+         "FOREST",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Half Green Dragon Megaraptor",
+      "size": "Large",
+      "type": "beast",
+      "tag": "half dragon mega raptor green",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 147",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Half Red Dragon Allosaurus",
+      "size": "Large",
+      "type": "beast",
+      "tag": "half dragon allosaurus red",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 148",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Half Red Dragon Tyrannosaurus Rex",
+      "size": "Huge",
+      "type": "beast",
+      "tag": "half dragon trex red",
+      "alignment": "U",
+      "challengeRating": "11",
+      "bookSource": "MME 148",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Harpy Witch",
+      "size": "Medium",
+      "type": "monstorosity",
+      "tag": "harpy witch",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MME 149",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Harpy Witch Queen",
+      "size": "Medium",
+      "type": "monstorosity",
+      "tag": "harpy witch queen",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME 150",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Nessian Warhound",
+      "size": "Large",
+      "type": "beast",
+      "tag": "hell hound nessian war hound",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "MME 151",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Battle Horror",
+      "size": "Large",
+      "type": "construct",
+      "tag": "helmed horror statue animated armor construct golem",
+      "alignment": "N",
+      "challengeRating": "12",
+      "bookSource": "MME 152",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Hippogriff Alpha",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "hippogriff alpha",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MME 153",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "War Hippogriff",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "hippogriff war mount",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MME 153",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hobgoblin Dreadmaster",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "hobgoblin dread master goblinoid",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MME 154",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hobgoblin Scout",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "hobgoblin scout goblinoid",
+      "alignment": "LE",
+      "challengeRating": "1",
+      "bookSource": "MME 154",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hobgoblin Talon of Tiamat",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "hobgoblin talon tiamat goblinoid",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MME 155",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hobgoblin Veteran",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "hobgoblin veteran goblinoid",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 156",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hobgoblin War Priest",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "hobgoblin war priest goblinoid",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 156",
+      "environments": [
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hook Horror Alpha",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "hook horror alpha",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "MME 157",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Hook Horror Clan Mother",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "hook horror clan mother",
+      "alignment": "N",
+      "challengeRating": "7",
+      "bookSource": "MME 157",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Cryohydra",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "cryohydra cold",
+      "alignment": "N",
+      "challengeRating": "9",
+      "bookSource": "MME 158",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Fen Hydra",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "cryohydra cold",
+      "alignment": "N",
+      "challengeRating": "6",
+      "bookSource": "MME 159",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "SWAMP",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Gulguthydra",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "gulguthydra hydra",
+      "alignment": "N",
+      "challengeRating": "14",
+      "bookSource": "MME 160",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "MOUNTAIN",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Mordant Hydra",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "mordant hydra",
+      "alignment": "N",
+      "challengeRating": "13",
+      "bookSource": "MME 161",
+      "environments": [
+         "COASTAL",
+         "SWAMP",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Pyrohydra",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "pyro fire hydra",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MME 161",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Jackalwere Thug",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "were jackal lycanthrope lycanthropy shapechanger thug",
+      "alignment": "LE",
+      "challengeRating": "1",
+      "bookSource": "MME 162",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Jackalwere Deceiver",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "were jackal lycanthrope lycanthropy shapechanger deceiver",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 163",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Kenku Gang Boss",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kenku gang boss",
+      "alignment": "CN",
+      "challengeRating": "2",
+      "bookSource": "MME 164",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Kenku Eagle Claw",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kenku eagle claw",
+      "alignment": "CN",
+      "challengeRating": "1",
+      "bookSource": "MME 165",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Kenku Sneak",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "kenku sneak rogue",
+      "alignment": "CN",
+      "challengeRating": "1/2",
+      "bookSource": "MME 165",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Dragonwrought Sorcerer",
+      "size": "Small",
+      "type": "humanoid",
+      "tag": "kobold dragon wrough sorcerer",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MME 166",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Kobold Skirmisher",
+      "size": "Small",
+      "type": "humanoid",
+      "tag": "kobold skirmisher",
+      "alignment": "LE",
+      "challengeRating": "1/4",
+      "bookSource": "MME 166",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Kobold Sneak",
+      "size": "Small",
+      "type": "humanoid",
+      "tag": "kobold sneak",
+      "alignment": "LE",
+      "challengeRating": "1/2",
+      "bookSource": "MME 167",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Kobold Wyrmpriest",
+      "size": "Small",
+      "type": "humanoid",
+      "tag": "kobold wyrm dragon priest",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MME 167",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Young Kraken",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "titan young kraken",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MME 168",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Kuo-Toa Exalted Whip",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "titan young kraken",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MME 168",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
    }
 ]
