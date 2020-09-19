@@ -16184,7 +16184,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Brain Illithid Mind Flayer",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "6",
       "bookSource": "LLoK 38",
       "environments": [
@@ -16221,7 +16221,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Waterdeep Guard",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "2",
       "bookSource": "W:DH 197",
       "environments": [
@@ -16233,7 +16233,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Waterdeep Drow Gunslinger",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "4",
       "bookSource": "W:DH 201",
       "environments": [
@@ -16570,7 +16570,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Undead Orzhov Syndicate",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "GGtR 206",
       "environments": [
@@ -17371,7 +17371,7 @@
       "size": "Small",
       "type": "Celestial",
       "tag": "Angel Eye Celetial",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "CC 16",
       "environments": []
@@ -18189,7 +18189,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Dhampir Vampire",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "CC 106",
       "environments": [
@@ -18201,7 +18201,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Dhampir Vampire Commander",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "7",
       "bookSource": "CC 107",
       "environments": [
@@ -18557,7 +18557,7 @@
       "size": "Huge",
       "type": "Giant",
       "tag": "Giant Dvarapala",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "5",
       "bookSource": "CC 137",
       "environments": [
@@ -18606,7 +18606,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Alchemist Elf Archer Ranger",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "10",
       "bookSource": "CC 141",
       "environments": [
@@ -18633,7 +18633,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Enchanter Elf",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "7",
       "bookSource": "CC 143",
       "environments": [
@@ -18968,7 +18968,7 @@
       "size": "Large",
       "type": "Undead",
       "tag": "Ghost Draon Spirit Undead",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "11",
       "bookSource": "CC 170",
       "environments": []
@@ -19905,7 +19905,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Lady in White Undead Spirit",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "2",
       "bookSource": "CC 246",
       "environments": []
@@ -19979,7 +19979,7 @@
       "size": "Huge",
       "type": "Celestial",
       "tag": "Living Star Celestial",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "19",
       "bookSource": "CC 256",
       "environments": []
@@ -20443,7 +20443,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Phantom Spirit Undead",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "CC 296",
       "environments": [
@@ -20654,7 +20654,7 @@
       "size": "Small",
       "type": "Humanoid",
       "tag": "Ratfolk Warlock",
-      "alignment": "A",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "CC 316",
       "environments": []
