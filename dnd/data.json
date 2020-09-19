@@ -346,7 +346,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Mindflayer",
-      "alignment": "Any evil",
+      "alignment": "Any Evil",
       "challengeRating": "10",
       "bookSource": "VGtM 172",
       "environments": []
@@ -902,7 +902,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-good",
+      "alignment": "Any Non-good",
       "challengeRating": "8",
       "bookSource": "MM 343",
       "environments": [
@@ -1095,7 +1095,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-lawful",
+      "alignment": "Any Non-lawful",
       "challengeRating": "1/8",
       "bookSource": "MM 343",
       "environments": [
@@ -1112,7 +1112,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-lawful",
+      "alignment": "Any Non-lawful",
       "challengeRating": "2",
       "bookSource": "MM 344",
       "environments": [
@@ -1129,7 +1129,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "",
-      "alignment": "Any non-lawful",
+      "alignment": "Any Non-lawful",
       "challengeRating": "4",
       "bookSource": "ToB 418",
       "environments": []
@@ -1896,7 +1896,7 @@
       "size": "Medium",
       "type": "Fiend",
       "tag": "",
-      "alignment": "Any evil",
+      "alignment": "Any Evil",
       "challengeRating": "5",
       "bookSource": "MM 36",
       "environments": [
@@ -2651,7 +2651,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-good",
+      "alignment": "Any Non-good",
       "challengeRating": "2",
       "bookSource": "MM 345",
       "environments": [
@@ -2663,7 +2663,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-good",
+      "alignment": "Any Non-good",
       "challengeRating": "1/8",
       "bookSource": "MM 345",
       "environments": [
@@ -5850,7 +5850,7 @@
       "size": "Large",
       "type": "Giant",
       "tag": "",
-      "alignment": "Any chaotic",
+      "alignment": "Any Chaotic",
       "challengeRating": "1",
       "bookSource": "MM 238",
       "environments": [
@@ -6813,7 +6813,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any evil",
+      "alignment": "Any Evil",
       "challengeRating": "5",
       "bookSource": "VGtM 215",
       "environments": [
@@ -6974,7 +6974,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "",
-      "alignment": "Any evil",
+      "alignment": "Any Evil",
       "challengeRating": "21",
       "bookSource": "MM 202",
       "environments": [
@@ -6996,7 +6996,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "",
-      "alignment": "Any evil",
+      "alignment": "Any Evil",
       "challengeRating": "22",
       "bookSource": "MM 202",
       "environments": [
@@ -10799,7 +10799,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-lawful",
+      "alignment": "Any Non-lawful",
       "challengeRating": "3",
       "bookSource": "VGtM 217",
       "environments": [
@@ -10921,7 +10921,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Any Race",
-      "alignment": "Any non-good",
+      "alignment": "Any Non-good",
       "challengeRating": "1/2",
       "bookSource": "MM 350",
       "environments": [
@@ -12747,7 +12747,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "9",
       "bookSource": "ToA 216",
       "environments": []
@@ -12922,7 +12922,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Tabaxi",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "ToA 232",
       "environments": []
@@ -12932,7 +12932,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Tabaxi",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "1/4",
       "bookSource": "ToA 233",
       "environments": []
@@ -14047,7 +14047,7 @@
       "size": "Medium",
       "type": "Undead",
       "tag": "Eidolon",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "12",
       "bookSource": "MToF 194",
       "environments": []
@@ -14057,7 +14057,7 @@
       "size": "Large",
       "type": "Construct",
       "tag": "Eidolon",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "0",
       "bookSource": "MToF 194",
       "environments": []
@@ -15360,7 +15360,7 @@
       "size": "Medium",
       "type": "Humanoid",
       "tag": "Mongrelfolk",
-      "alignment": "ANY",
+      "alignment": "Any",
       "challengeRating": "1/4",
       "bookSource": "CoS 234",
       "environments": []
@@ -22768,7 +22768,7 @@
       "size": "Medium",
       "type": "humanoid (any)",
       "tag": "bone knight",
-      "alignment": "any non-good",
+      "alignment": "any Non-good",
       "challengeRating": "5",
       "bookSource": "E:RftLW 316",
       "environments": []
@@ -22778,7 +22778,7 @@
       "size": "Medium",
       "type": "humanoid shapechanger",
       "tag": "changeling",
-      "alignment": "any",
+      "alignment": "Any",
       "challengeRating": "1/2",
       "bookSource": "E:RftLW 317",
       "environments": []
@@ -22788,7 +22788,7 @@
       "size": "Medium",
       "type": "humanoid",
       "tag": "kalashtar",
-      "alignment": "any",
+      "alignment": "Any",
       "challengeRating": "1/4",
       "bookSource": "E:RftLW 317",
       "environments": []
@@ -22798,7 +22798,7 @@
       "size": "Medium",
       "type": "humanoid (any)",
       "tag": "magewright mechanic mage wright worker smith",
-      "alignment": "any",
+      "alignment": "Any",
       "challengeRating": "0",
       "bookSource": "E:RftLW 318",
       "environments": []
@@ -22808,7 +22808,7 @@
       "size": "Medium",
       "type": "humanoid (shifter)",
       "tag": "shifter changeling shape changer shapechanger",
-      "alignment": "any",
+      "alignment": "Any",
       "challengeRating": "1/2",
       "bookSource": "E:RftLW 319",
       "environments": []
@@ -22818,7 +22818,7 @@
       "size": "Medium",
       "type": "humanoid (shifter)",
       "tag": "trakanan assassin",
-      "alignment": "any non-good",
+      "alignment": "Any non-good",
       "challengeRating": "2",
       "bookSource": "E:RftLW 320",
       "environments": []
@@ -22828,7 +22828,7 @@
       "size": "Medium",
       "type": "humanoid (warforged)",
       "tag": "warforged soldier",
-      "alignment": "any",
+      "alignment": "Any",
       "challengeRating": "1",
       "bookSource": "E:RftLW 320",
       "environments": []
