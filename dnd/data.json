@@ -32332,5 +32332,260 @@
       "bookSource": "MME 325",
       "environments": [
       ]
+   },
+   {
+      "name": "Dread Allip",
+      "size": "Large",
+      "type": "undead",
+      "tag": "shadow",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "MMEII 8",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aranea",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "spider drider shapechanger",
+      "alignment": "N",
+      "challengeRating": "3",
+      "bookSource": "MMEII 9",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Elder Aranea",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "spider drider shapechanger",
+      "alignment": "N",
+      "challengeRating": "8",
+      "bookSource": "MMEII 10",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Athach",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "athach abomination giant",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 11",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Elder Balhannoth",
+      "size": "Huge",
+      "type": "aberration",
+      "tag": "elder balhannoth aberration",
+      "alignment": "CE",
+      "challengeRating": "16",
+      "bookSource": "MMEII 12",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Banderhobb Bogeyman",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "banderhobb bogeyman toad frog",
+      "alignment": "NE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 13",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Banderhobb Shadow Assassin",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "banderhobb bogeyman toad frog shadow assassin",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "MMEII 14",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Banderhobb Shadow Raider",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "banderhobb bogeyman toad frog shadow raider",
+      "alignment": "NE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 14",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bargda",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "bargda ram demon baphomet",
+      "alignment": "CE",
+      "challengeRating": "9",
+      "bookSource": "MMEII 15",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Barghest Whelp",
+      "size": "Medium",
+      "type": "fiend",
+      "tag": "barghest whelp",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 16",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Greater Barghest",
+      "size": "Large",
+      "type": "fiend",
+      "tag": "barghest demon",
+      "alignment": "NE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 17",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Doomsphere",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "doom sphere beholder",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MMEII 18",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Eye of the Deep",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "eye deep lobster beholder",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 19",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Gouger",
+      "size": "Large",
+      "type": "aberration",
+      "tag": "gouger beholder",
+      "alignment": "NE",
+      "challengeRating": "13",
+      "bookSource": "MMEII 20",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Young Beholder",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "young beholder",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 21",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Berbalang Lore Master",
+      "size": "Medium",
+      "type": "aberration",
+      "tag": "berbalang lore master",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 22",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Bodak Ravager",
+      "size": "Large",
+      "type": "undead",
+      "tag": "bodak bobaduke undead wailer banshee",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 23",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Bodak Devotee of Orcus",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "bodak bobaduke undead wailer banshee orcus",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 24",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Boggle Trickster",
+      "size": "Small",
+      "type": "fey",
+      "tag": "fey fae fairy pixie",
+      "alignment": "CN",
+      "challengeRating": "3",
+      "bookSource": "MMEII 25",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Lesser Boneclaw",
+      "size": "Large",
+      "type": "undead",
+      "tag": "bone claw skeleton undead",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 26",
+      "environments": [
+         "UNDERDARK"
+      ]
    }
 ]
