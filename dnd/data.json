@@ -32587,5 +32587,152 @@
       "environments": [
          "UNDERDARK"
       ]
+   },
+   {
+      "name": "Bugbear Assassin",
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "tag": "bugbear assassin goblin bug bear",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 27",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Huntmaster",
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "tag": "bugbear hunt master huntmaster hunter goblin bug bear",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 28",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear King",
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "tag": "bugbear king leader jarl goblin bug bear",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 29",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bugbear Beast Shaman",
+      "size": "Medium",
+      "type": "humanoid (goblinoid)",
+      "tag": "bugbear beast shaman druid goblin bug bear",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 29",
+      "environments": [
+         "ARCTIC",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bunyip",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "bunyip seal shark leopard",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MMEII 30",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Dire Bunyip",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "dire bunyip seal shark leopard",
+      "alignment": "U",
+      "challengeRating": "6",
+      "bookSource": "MMEII 30",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Greater Cadaver Collector",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "greater cadaver collector corpse war juggernaut",
+      "alignment": "LE",
+      "challengeRating": "19",
+      "bookSource": "MMEII 31",
+      "environments": [
+         "DESERT",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Catoblepas Calf",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "catoblepas calf cow demon theros wendigo",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MMEII 32",
+      "environments": [
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Monstrous Catoblepas",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "catoblepas cow demon theros wendigo",
+      "alignment": "U",
+      "challengeRating": "10",
+      "bookSource": "MMEII 33",
+      "environments": [
+         "SWAMP"
+      ]
    }
 ]
