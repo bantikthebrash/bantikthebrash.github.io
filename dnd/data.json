@@ -33338,5 +33338,764 @@
          "UNDERWATER",
          "URBAN"
       ]
+   },
+   {
+      "name": "Monstrous Cave Fisher",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "monstrous cave fisher crab",
+      "alignment": "U",
+      "challengeRating": "11",
+      "bookSource": "MMEII 34",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Monstrous Cave Fisher",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "monstrous cave fisher crab",
+      "alignment": "U",
+      "challengeRating": "11",
+      "bookSource": "MMEII 34",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Giant Cave Fisher",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "monstrous giant cave fisher crab",
+      "alignment": "U",
+      "challengeRating": "6",
+      "bookSource": "MMEII 34",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Chitine Skulker",
+      "size": "Small",
+      "type": "monstrosity",
+      "tag": "chitine skulker japenese insectoid oni",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 35",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Chitine Warrior",
+      "size": "Small",
+      "type": "monstrosity",
+      "tag": "chitine warrior japenese insectoid oni",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 354",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Chitine Priestess",
+      "size": "Small",
+      "type": "monstrosity",
+      "tag": "chitine priestess japenese insectoid oni",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 36",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Chitine Queen",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "chitine queen japenese insectoid oni",
+      "alignment": "CE",
+      "challengeRating": "9",
+      "bookSource": "MMEII 36",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Choker Cavestalker",
+      "size": "Small",
+      "type": "aberration",
+      "tag": "choker cavestalker",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 37",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Arcane Ballista",
+      "size": "Large",
+      "type": "construct",
+      "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked machione robot automaton",
+      "alignment": "U",
+      "challengeRating": "11",
+      "bookSource": "MMEII 38",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Clockroach",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked bug machine robot automaton",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "MMEII 38",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Hammerer",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked smith machine robot automaton",
+      "alignment": "U",
+      "challengeRating": "3",
+      "bookSource": "MMEII 39",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Pulverizer",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked smith machine robot automaton",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "MMEII 39",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Darkling Creeper",
+      "size": "Small",
+      "type": "fey",
+      "tag": "darkling creeper fey fae shadow rogue",
+      "alignment": "CN",
+      "challengeRating": "1",
+      "bookSource": "MMEII 40",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Darkling Elder Assassin",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "darkling creeper fey fae shadow rogue",
+      "alignment": "CN",
+      "challengeRating": "5",
+      "bookSource": "MMEII 41",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Darkling Elder Hexblade",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "darkling creeper fey fae shadow rogue",
+      "alignment": "CN",
+      "challengeRating": "6",
+      "bookSource": "MMEII 41",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Darkling Elder Mastermind",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "darkling creeper fey fae shadow mastermind",
+      "alignment": "CN",
+      "challengeRating": "9",
+      "bookSource": "MMEII 42",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Darkling Skulker",
+      "size": "Small",
+      "type": "fey",
+      "tag": "darkling creeper fey fae shadow rogue",
+      "alignment": "CN",
+      "challengeRating": "3",
+      "bookSource": "MMEII 42",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Deathlock Assassin",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "deathlock assassin warlock lich undead",
+      "alignment": "NE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 43",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Deathlock Knight",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "deathlock knight warlock lich undead",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 43",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Deep Scion Assassin",
+      "size": "Medium",
+      "type": "humanoid (shapechanger)",
+      "tag": "deep scion psionic shapechanegr lovecraft eldritch",
+      "alignment": "NE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 44",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Deep Scion Thug",
+      "size": "Medium",
+      "type": "humanoid (shapechanger)",
+      "tag": "deep scion psionic shapechanegr lovecraft eldritch",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 45",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Deep Scion Warlock",
+      "size": "Medium",
+      "type": "humanoid (shapechanger)",
+      "tag": "deep scion psionic shapechanegr lovecraft eldritch",
+      "alignment": "NE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 45",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Abyssal Skulker",
+      "size": "Small",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 46",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Babau",
+      "size": "Medium",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend juiblex",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 47",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Brachavyrm",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend wurm worm human centipede undead construct",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 48",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Nuckalavee",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend centuar minotaur horse beast gore orcus",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 49",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Jovoc",
+      "size": "Small",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 50",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Jovoc",
+      "size": "Small",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 50",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Palrethee",
+      "size": "Medium",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 50",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Zovvut",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 51",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Shoosuva Pack Lord",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend wolf dog",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 52",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Lolth",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend lolth spider queen lord",
+      "alignment": "CE",
+      "challengeRating": "28",
+      "bookSource": "MMEII 54",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Baphomet",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect baphomet",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 56",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Demogorgon",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect demogorgon",
+      "alignment": "CE",
+      "challengeRating": "14",
+      "bookSource": "MMEII 57",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Fraz-Urb'luu",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect fraz urb luu frazurbluu",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 58",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Graz'zt",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect grazzt graz zt",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 59",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Juiblex",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect juiblex jubilex",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 60",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Kostchtchie",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect kostchtchie",
+      "alignment": "CE",
+      "challengeRating": "13",
+      "bookSource": "MMEII 61",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Lolth",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect lolth",
+      "alignment": "CE",
+      "challengeRating": "15",
+      "bookSource": "MMEII 62",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Orcus",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect orcus",
+      "alignment": "CE",
+      "challengeRating": "14",
+      "bookSource": "MMEII 63",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Yeenoghu",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect yeenoghu",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MMEII 64",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Zuggtmoy",
+      "size": "Huge",
+      "type": "fiend (demon)",
+      "tag": "abyssal demon daemon fiend aspect zuggtmoy fungus spore",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 65",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Derro Berserker",
+      "size": "Small",
+      "type": "humanoid (derro)",
+      "tag": "aderro dark dwarf underdark",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 66",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Derro Hookguard",
+      "size": "Small",
+      "type": "humanoid (derro)",
+      "tag": "aderro dark dwarf underdark",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 67",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Derro Master Savant",
+      "size": "Small",
+      "type": "humanoid (derro)",
+      "tag": "aderro dark dwarf underdark",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 67",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Derro Taskmaster",
+      "size": "Small",
+      "type": "humanoid (derro)",
+      "tag": "aderro dark dwarf underdark",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 68",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Derro Thug",
+      "size": "Small",
+      "type": "humanoid (derro)",
+      "tag": "aderro dark dwarf underdark",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "MMEII 68",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Cornugon",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil bull gargoyle minotaur",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "MMEII 69",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Dogai",
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "tag": "infernal devil assassin",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 70",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Gastrobolus",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil snail bile stomach undead",
+      "alignment": "LE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 71",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Paeliryon",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil ursula ugly succubi",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "MMEII 72",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Passion Devil",
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "tag": "infernal devil passion lust",
+      "alignment": "LE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 73",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Remmanon",
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "tag": "infernal devil androgenous barded wire hooks cenobite",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 74",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Xerfilstyx",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil slug xerfilstyx",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MMEII 75",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Asmodeus",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil archdevil arch asmodeus",
+      "alignment": "LE",
+      "challengeRating": "30",
+      "bookSource": "MMEII 77",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Dispatcher",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil archdevil arch dispatcher",
+      "alignment": "LE",
+      "challengeRating": "25",
+      "bookSource": "MMEII 79",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Mephistopheles",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil archdevil arch mephistopheles",
+      "alignment": "LE",
+      "challengeRating": "26",
+      "bookSource": "MMEII 81",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Asmodeus",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil asmodeus",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "MMEII 82",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Bael",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil bael",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 83",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Bel",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil bel",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "MMEII 84",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Dispatcher",
+      "size": "Medium",
+      "type": "fiend (devil)",
+      "tag": "infernal devil bel",
+      "alignment": "LE",
+      "challengeRating": "14",
+      "bookSource": "MMEII 85",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Geryon",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil geryon gorgon",
+      "alignment": "LE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 86",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Mephistopheles",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil mephistopheles",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MMEII 87",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Moloch",
+      "size": "Large",
+      "type": "fiend (devil)",
+      "tag": "infernal devil moloch",
+      "alignment": "LE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 88",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Tiamat",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil dragon tiamat",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "MMEII 89",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Aspect of Zariel",
+      "size": "Huge",
+      "type": "fiend (devil)",
+      "tag": "infernal devil zariel arch angel fallen",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "MMEII 90",
+      "environments": [
+      ]
    }
 ]
