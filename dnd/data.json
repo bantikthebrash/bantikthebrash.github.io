@@ -32734,5 +32734,609 @@
       "environments": [
          "SWAMP"
       ]
+   },
+   {
+      "name": "Juvenile Mimic",
+      "size": "Tiny",
+      "type": "monstrosity",
+      "tag": "juvenile young tiny mimic ooze shapechanger doppelganger",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "TCoE 167",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Mighty Servant of Leuk-o",
+      "size": "Huge",
+      "type": "construct",
+      "tag": "mighty servant leuk-o leuko comstuct golem egg eggman",
+      "alignment": "U",
+      "challengeRating": "0",
+      "bookSource": "TCoE 132",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Reflections",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "fey mirror fairy reflection fae faery",
+      "alignment": "CE",
+      "challengeRating": "1/2",
+      "bookSource": "TCoE 158",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Animated Broom",
+      "size": "Small",
+      "type": "construct",
+      "tag": "animated object broom wood construct",
+      "alignment": "U",
+      "challengeRating": "1/4",
+      "bookSource": "CM 20",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Animated Chained Library",
+      "size": "Large",
+      "type": "construct",
+      "tag": "animated object chain chained library book construct",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "CM 24",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Arrant Quill",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "NPC arrant quill badguy story",
+      "alignment": "NE",
+      "challengeRating": "11",
+      "bookSource": "CM 157",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bak Mei",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "NPC bak mei badguy candel keep mystery kung fu eastern martial arts",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "CM 168",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bak Mei",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "NPC bak mei badguy candel keep mystery kung fu eastern martial arts",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "CM 168",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Canopic Golem",
+      "size": "Large",
+      "type": "construct",
+      "tag": "canopic golem mummy jar glass construct undead organ sacred ritual",
+      "alignment": "Any",
+      "challengeRating": "13",
+      "bookSource": "CM 179",
+      "environments": [
+         "DESERT",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Cloud Giant Ghost",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "cloud giant ghost undead",
+      "alignment": "Any",
+      "challengeRating": "9",
+      "bookSource": "CM 146",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Constructed Commoner",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "construct commoner marianette puppet wood actor zombie",
+      "alignment": "Any",
+      "challengeRating": "0",
+      "bookSource": "CM 149",
+      "environments": [
+         "FOREST",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Corrupted Avatar of Lurue",
+      "size": "Large",
+      "type": "monstorosity",
+      "tag": "corrupted avatar lurue nightmare horse mare avatar lurue corrupted",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "CM 123",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Dragon Tortoise",
+      "size": "Gargantuan",
+      "type": "dragon",
+      "tag": "dragon tortoise turtle monstrosity",
+      "alignment": "N",
+      "challengeRating": "17",
+      "bookSource": "CM 20",
+      "environments": [
+         "COASTAL",
+         "FOREST",
+         "MOUNTAIN",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Faerl",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "faerl elf cand keep mystery swashbuckle NPC badguy",
+      "alignment": "NE",
+      "challengeRating": "1/8",
+      "bookSource": "CM 104",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fungal Servant",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "fungal servant fungus zombie spore plant undead",
+      "alignment": "LE",
+      "challengeRating": "15",
+      "bookSource": "CM 217",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Gingwatzim",
+      "size": "Small",
+      "type": "aberration (shapechanger)",
+      "tag": "will o wisp ging wat zim ectoplasm ghost orb",
+      "alignment": "U",
+      "challengeRating": "2",
+      "bookSource": "CM 27",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Grippli Warrior",
+      "size": "Small",
+      "type": "humanoid (grippli)",
+      "tag": "grippli warrior grung toad frog slaad kua toa",
+      "alignment": "U",
+      "challengeRating": "1/4",
+      "bookSource": "CM 99",
+      "environments": [
+         "COASTAL",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hag of the Fetid Gaze",
+      "size": "Medium",
+      "type": "fey",
+      "tag": "hag fetud gaze green dorian grey",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "CM 76",
+      "environments": [
+         "FOREST",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Immortal Lotus Monk",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "immortal lotus kung fu monk martail arts",
+      "alignment": "Any",
+      "challengeRating": "5",
+      "bookSource": "CM 165",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Jade Tigress",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "jade tigress kung fu monk martail arts",
+      "alignment": "LE",
+      "challengeRating": "8",
+      "bookSource": "CM 166",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "K'Tulah",
+      "size": "Medium",
+      "type": "humanoid (tabaxi)",
+      "tag": "tabaxi NPC kajhit candle keep",
+      "alignment": "NG",
+      "challengeRating": "2",
+      "bookSource": "CM 64",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Kiddywidget",
+      "size": "Small",
+      "type": "construct",
+      "tag": "kiddy widget gizmo gadget construct clock work artifice",
+      "alignment": "U",
+      "challengeRating": "1/2",
+      "bookSource": "CM 136",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lichen Lich",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "fungal lich fungus zombie spore plant undead",
+      "alignment": "LE",
+      "challengeRating": "18",
+      "bookSource": "CM 223",
+      "environments": [
+         "FOREST",
+         "GRASSLAND",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Lightning Golem",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "lightning golem frankenstein construct elemental",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "CM 129",
+      "environments": [
+         "GRASSLAND",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Master Sage",
+      "size": "Medium",
+      "type": "humanoid (any)",
+      "tag": "master NPC sage librarian candle keep",
+      "alignment": "LN",
+      "challengeRating": "5",
+      "bookSource": "CM 64",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Miirym",
+      "size": "Large",
+      "type": "undead",
+      "tag": "NPC undead silver dragon metallic ghost candle keep",
+      "alignment": "LG",
+      "challengeRating": "22",
+      "bookSource": "CM 16",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Mimic Chair",
+      "size": "Medium",
+      "type": "monstrosity (shapechanger)",
+      "tag": "chair wood urban mimic ooze shapechanger doppelganger",
+      "alignment": "N",
+      "challengeRating": "2",
+      "bookSource": "CM 22",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Nintra Siotta",
+      "size": "Large",
+      "type": "fey",
+      "tag": "Nintra Siotta fey shadow",
+      "alignment": "CE",
+      "challengeRating": "16",
+      "bookSource": "CM 197",
+      "environments": [
+         "FOREST",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Parasite-Infested Behir",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "parasite infested behir dragon snake",
+      "alignment": "NE",
+      "challengeRating": "11",
+      "bookSource": "CM 220",
+      "environments": [
+         "ARCTIC",
+         "DESERT",
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ram Sugar",
+      "size": "Medium",
+      "type": "humanoid (dragonborn)",
+      "tag": "ram sugar dragon born NPC",
+      "alignment": "CN",
+      "challengeRating": "2",
+      "bookSource": "CM 132",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Sage",
+      "size": "Medium",
+      "type": "humanoid (any)",
+      "tag": "NPC sage librarian candle keep",
+      "alignment": "LN",
+      "challengeRating": "1/2",
+      "bookSource": "CM 9",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Sapphire Sentinel",
+      "size": "Large",
+      "type": "construct",
+      "tag": "construct sapphire gem sentinel golem",
+      "alignment": "U",
+      "challengeRating": "10",
+      "bookSource": "CM 201",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Shemshime",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "shemshime undead shade shadow",
+      "alignment": "U",
+      "challengeRating": "4",
+      "bookSource": "CM 69",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Skitterwidget",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "skitter widget gizmo gadget construct clock work artifice",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "CM 136",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Steel Crane",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "steel crane kung fu monk martail arts",
+      "alignment": "LE",
+      "challengeRating": "8",
+      "bookSource": "CM 164",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Storm Giant Skeleton",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "storm giant ghost undead skeleton",
+      "alignment": "Any",
+      "challengeRating": "16",
+      "bookSource": "CM 208",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Swarm of Animated Book",
+      "size": "Medium swarm",
+      "type": "tiny constructs",
+      "tag": "book library animated object golem swarm",
+      "alignment": "Any",
+      "challengeRating": "1/4",
+      "bookSource": "CM 19",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Valin Sarnaster",
+      "size": "Medium",
+      "type": "undead",
+      "tag": "undead mummy canopic",
+      "alignment": "LE",
+      "challengeRating": "16",
+      "bookSource": "CM 182",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Varnyr",
+      "size": "Medium",
+      "type": "humnaoid (elf)",
+      "tag": "scribe NPC elf senior candle keep",
+      "alignment": "CG",
+      "challengeRating": "1/8",
+      "bookSource": "CM 63",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Wood Elf Wizard",
+      "size": "Medium",
+      "type": "humnaoid (elf)",
+      "tag": "NPC candle keep",
+      "alignment": "NE",
+      "challengeRating": "7",
+      "bookSource": "CM 187",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Zikran",
+      "size": "Medium",
+      "type": "humnaoid (water genasi)",
+      "tag": "Zikran water genasi evil hag",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "CM 145",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Zikzokrishka",
+      "size": "Huge",
+      "type": "undead",
+      "tag": "zikzokrishka dracolich dragon undead blue lich",
+      "alignment": "LE",
+      "challengeRating": "17",
+      "bookSource": "CM 209",
+      "environments": [
+         "COASTAL",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERWATER",
+         "URBAN"
+      ]
    }
 ]
