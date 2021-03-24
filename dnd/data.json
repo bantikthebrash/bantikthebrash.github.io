@@ -34777,5 +34777,223 @@
          "MOUNTAIN",
          "URBAN"
       ]
+   },
+   {
+      "name": "Fire Giant Champion of Surtur",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire champion surtur giant",
+      "alignment": "LE",
+      "challengeRating": "14",
+      "bookSource": "MME II 129",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fire Giant Doomblade",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire doom blade surtur giant",
+      "alignment": "LE",
+      "challengeRating": "12",
+      "bookSource": "MME II 130",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fire Giant Houndmaster",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire hound master surtur giant",
+      "alignment": "LE",
+      "challengeRating": "12",
+      "bookSource": "MME II 131",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Fire Giant Vanguard",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "fire hound master surtur giant",
+      "alignment": "LE",
+      "challengeRating": "13",
+      "bookSource": "MME II 131",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Berserker",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "berserker berserk frost giant",
+      "alignment": "CE",
+      "challengeRating": "9",
+      "bookSource": "MME II 132",
+      "environments": [
+         "ARCTIC",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Champion of Kostchtchie",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "champion kostchtchie frost giant",
+      "alignment": "CE",
+      "challengeRating": "12",
+      "bookSource": "MME II 133",
+      "environments": [
+         "ARCTIC",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Frost Giant Champion of Thrym",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "champion thrym frost giant",
+      "alignment": "CE",
+      "challengeRating": "13",
+      "bookSource": "MME II 133",
+      "environments": [
+         "ARCTIC",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Bruiser",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "bruiser hill giant",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MME II 134",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Champion of Grolantor",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "champion grolantor hill giant",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MME II 135",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Hill Giant Shaman of Ogrémoch",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "shaman ogre ogremoch orcus hill giant",
+      "alignment": "CE",
+      "challengeRating": "9",
+      "bookSource": "MME II 135",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Stone Giant Skirmisher",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "stone giant skirmisher",
+      "alignment": "N",
+      "challengeRating": "8",
+      "bookSource": "MME II 136",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Stone Giant Warden",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "stone giant warden",
+      "alignment": "N",
+      "challengeRating": "8",
+      "bookSource": "MME II 137",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Stone Giant Thane",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "stone giant thane king jarl chieftain",
+      "alignment": "N",
+      "challengeRating": "13",
+      "bookSource": "MME II 138",
+      "environments": [
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Storm Giant Blackguard",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "storm giant black guard",
+      "alignment": "CE",
+      "challengeRating": "17",
+      "bookSource": "MME II 138",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Storm Giant War Caster",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "storm giant war caster",
+      "alignment": "CG or CE",
+      "challengeRating": "15",
+      "bookSource": "MME II 139",
+      "environments": [
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
    }
 ]
