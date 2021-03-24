@@ -32340,7 +32340,7 @@
       "tag": "shadow",
       "alignment": "NE",
       "challengeRating": "9",
-      "bookSource": "MMEII 8",
+      "bookSource": "MME II 8",
       "environments": [
       ]
    },
@@ -32351,7 +32351,7 @@
       "tag": "spider drider shapechanger",
       "alignment": "N",
       "challengeRating": "3",
-      "bookSource": "MMEII 9",
+      "bookSource": "MME II 9",
       "environments": [
          "UNDERDARK"
       ]
@@ -32363,7 +32363,7 @@
       "tag": "spider drider shapechanger",
       "alignment": "N",
       "challengeRating": "8",
-      "bookSource": "MMEII 10",
+      "bookSource": "MME II 10",
       "environments": [
          "UNDERDARK"
       ]
@@ -32375,7 +32375,7 @@
       "tag": "athach abomination giant",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 11",
+      "bookSource": "MME II 11",
       "environments": [
          "ARCTIC",
          "FOREST",
@@ -32392,7 +32392,7 @@
       "tag": "elder balhannoth aberration",
       "alignment": "CE",
       "challengeRating": "16",
-      "bookSource": "MMEII 12",
+      "bookSource": "MME II 12",
       "environments": [
          "SWAMP",
          "UNDERDARK"
@@ -32405,7 +32405,7 @@
       "tag": "banderhobb bogeyman toad frog",
       "alignment": "NE",
       "challengeRating": "11",
-      "bookSource": "MMEII 13",
+      "bookSource": "MME II 13",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -32419,7 +32419,7 @@
       "tag": "banderhobb bogeyman toad frog shadow assassin",
       "alignment": "NE",
       "challengeRating": "9",
-      "bookSource": "MMEII 14",
+      "bookSource": "MME II 14",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -32433,7 +32433,7 @@
       "tag": "banderhobb bogeyman toad frog shadow raider",
       "alignment": "NE",
       "challengeRating": "7",
-      "bookSource": "MMEII 14",
+      "bookSource": "MME II 14",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -32447,7 +32447,7 @@
       "tag": "bargda ram demon baphomet",
       "alignment": "CE",
       "challengeRating": "9",
-      "bookSource": "MMEII 15",
+      "bookSource": "MME II 15",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -32461,7 +32461,7 @@
       "tag": "barghest whelp",
       "alignment": "NE",
       "challengeRating": "2",
-      "bookSource": "MMEII 16",
+      "bookSource": "MME II 16",
       "environments": [
          "UNDERDARK"
       ]
@@ -32473,7 +32473,7 @@
       "tag": "barghest demon",
       "alignment": "NE",
       "challengeRating": "8",
-      "bookSource": "MMEII 17",
+      "bookSource": "MME II 17",
       "environments": [
          "UNDERDARK"
       ]
@@ -32485,7 +32485,7 @@
       "tag": "doom sphere beholder",
       "alignment": "LE",
       "challengeRating": "15",
-      "bookSource": "MMEII 18",
+      "bookSource": "MME II 18",
       "environments": [
          "UNDERDARK"
       ]
@@ -32497,7 +32497,7 @@
       "tag": "eye deep lobster beholder",
       "alignment": "LE",
       "challengeRating": "11",
-      "bookSource": "MMEII 19",
+      "bookSource": "MME II 19",
       "environments": [
          "COASTAL",
          "UNDERDARK",
@@ -32511,7 +32511,7 @@
       "tag": "gouger beholder",
       "alignment": "NE",
       "challengeRating": "13",
-      "bookSource": "MMEII 20",
+      "bookSource": "MME II 20",
       "environments": [
          "UNDERDARK"
       ]
@@ -32523,7 +32523,7 @@
       "tag": "young beholder",
       "alignment": "LE",
       "challengeRating": "7",
-      "bookSource": "MMEII 21",
+      "bookSource": "MME II 21",
       "environments": [
          "UNDERDARK"
       ]
@@ -32535,7 +32535,7 @@
       "tag": "berbalang lore master",
       "alignment": "NE",
       "challengeRating": "5",
-      "bookSource": "MMEII 22",
+      "bookSource": "MME II 22",
       "environments": [
          "UNDERDARK"
       ]
@@ -32547,7 +32547,7 @@
       "tag": "bodak bobaduke undead wailer banshee",
       "alignment": "CE",
       "challengeRating": "10",
-      "bookSource": "MMEII 23",
+      "bookSource": "MME II 23",
       "environments": [
          "UNDERDARK"
       ]
@@ -32559,7 +32559,7 @@
       "tag": "bodak bobaduke undead wailer banshee orcus",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 24",
+      "bookSource": "MME II 24",
       "environments": [
          "UNDERDARK"
       ]
@@ -32571,7 +32571,7 @@
       "tag": "fey fae fairy pixie",
       "alignment": "CN",
       "challengeRating": "3",
-      "bookSource": "MMEII 25",
+      "bookSource": "MME II 25",
       "environments": [
          "UNDERDARK"
       ]
@@ -32583,7 +32583,7 @@
       "tag": "bone claw skeleton undead",
       "alignment": "CE",
       "challengeRating": "6",
-      "bookSource": "MMEII 26",
+      "bookSource": "MME II 26",
       "environments": [
          "UNDERDARK"
       ]
@@ -32595,7 +32595,7 @@
       "tag": "bugbear assassin goblin bug bear",
       "alignment": "CE",
       "challengeRating": "7",
-      "bookSource": "MMEII 27",
+      "bookSource": "MME II 27",
       "environments": [
          "ARCTIC",
          "COASTAL",
@@ -32616,7 +32616,7 @@
       "tag": "bugbear hunt master huntmaster hunter goblin bug bear",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 28",
+      "bookSource": "MME II 28",
       "environments": [
          "ARCTIC",
          "FOREST",
@@ -32635,7 +32635,7 @@
       "tag": "bugbear king leader jarl goblin bug bear",
       "alignment": "CE",
       "challengeRating": "10",
-      "bookSource": "MMEII 29",
+      "bookSource": "MME II 29",
       "environments": [
          "ARCTIC",
          "FOREST",
@@ -32654,7 +32654,7 @@
       "tag": "bugbear beast shaman druid goblin bug bear",
       "alignment": "CE",
       "challengeRating": "4",
-      "bookSource": "MMEII 29",
+      "bookSource": "MME II 29",
       "environments": [
          "ARCTIC",
          "FOREST",
@@ -32673,7 +32673,7 @@
       "tag": "bunyip seal shark leopard",
       "alignment": "U",
       "challengeRating": "2",
-      "bookSource": "MMEII 30",
+      "bookSource": "MME II 30",
       "environments": [
          "ARCTIC",
          "COASTAL",
@@ -32687,7 +32687,7 @@
       "tag": "dire bunyip seal shark leopard",
       "alignment": "U",
       "challengeRating": "6",
-      "bookSource": "MMEII 30",
+      "bookSource": "MME II 30",
       "environments": [
          "ARCTIC",
          "COASTAL",
@@ -32701,7 +32701,7 @@
       "tag": "greater cadaver collector corpse war juggernaut",
       "alignment": "LE",
       "challengeRating": "19",
-      "bookSource": "MMEII 31",
+      "bookSource": "MME II 31",
       "environments": [
          "DESERT",
          "GRASSLAND",
@@ -32718,7 +32718,7 @@
       "tag": "catoblepas calf cow demon theros wendigo",
       "alignment": "U",
       "challengeRating": "2",
-      "bookSource": "MMEII 32",
+      "bookSource": "MME II 32",
       "environments": [
          "SWAMP"
       ]
@@ -32730,7 +32730,7 @@
       "tag": "catoblepas cow demon theros wendigo",
       "alignment": "U",
       "challengeRating": "10",
-      "bookSource": "MMEII 33",
+      "bookSource": "MME II 33",
       "environments": [
          "SWAMP"
       ]
@@ -33346,7 +33346,7 @@
       "tag": "monstrous cave fisher crab",
       "alignment": "U",
       "challengeRating": "11",
-      "bookSource": "MMEII 34",
+      "bookSource": "MME II 34",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -33360,7 +33360,7 @@
       "tag": "monstrous cave fisher crab",
       "alignment": "U",
       "challengeRating": "11",
-      "bookSource": "MMEII 34",
+      "bookSource": "MME II 34",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -33374,7 +33374,7 @@
       "tag": "monstrous giant cave fisher crab",
       "alignment": "U",
       "challengeRating": "6",
-      "bookSource": "MMEII 34",
+      "bookSource": "MME II 34",
       "environments": [
          "SWAMP",
          "UNDERDARK",
@@ -33388,7 +33388,7 @@
       "tag": "chitine skulker japenese insectoid oni",
       "alignment": "CE",
       "challengeRating": "2",
-      "bookSource": "MMEII 35",
+      "bookSource": "MME II 35",
       "environments": [
          "HILL",
          "MOUNTAIN",
@@ -33404,7 +33404,7 @@
       "tag": "chitine warrior japenese insectoid oni",
       "alignment": "CE",
       "challengeRating": "1",
-      "bookSource": "MMEII 354",
+      "bookSource": "MME II 354",
       "environments": [
          "HILL",
          "MOUNTAIN",
@@ -33420,7 +33420,7 @@
       "tag": "chitine priestess japenese insectoid oni",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 36",
+      "bookSource": "MME II 36",
       "environments": [
          "HILL",
          "MOUNTAIN",
@@ -33436,7 +33436,7 @@
       "tag": "chitine queen japenese insectoid oni",
       "alignment": "CE",
       "challengeRating": "9",
-      "bookSource": "MMEII 36",
+      "bookSource": "MME II 36",
       "environments": [
          "HILL",
          "MOUNTAIN",
@@ -33452,7 +33452,7 @@
       "tag": "choker cavestalker",
       "alignment": "CE",
       "challengeRating": "2",
-      "bookSource": "MMEII 37",
+      "bookSource": "MME II 37",
       "environments": [
          "HILL",
          "MOUNTAIN",
@@ -33467,7 +33467,7 @@
       "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked machione robot automaton",
       "alignment": "U",
       "challengeRating": "11",
-      "bookSource": "MMEII 38",
+      "bookSource": "MME II 38",
       "environments": [
       ]
    },
@@ -33478,7 +33478,7 @@
       "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked bug machine robot automaton",
       "alignment": "U",
       "challengeRating": "1",
-      "bookSource": "MMEII 38",
+      "bookSource": "MME II 38",
       "environments": [
       ]
    },
@@ -33489,7 +33489,7 @@
       "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked smith machine robot automaton",
       "alignment": "U",
       "challengeRating": "3",
-      "bookSource": "MMEII 39",
+      "bookSource": "MME II 39",
       "environments": [
       ]
    },
@@ -33500,7 +33500,7 @@
       "tag": "artifice golem animated object arcane construct ballista clockwork gear clock worked smith machine robot automaton",
       "alignment": "U",
       "challengeRating": "2",
-      "bookSource": "MMEII 39",
+      "bookSource": "MME II 39",
       "environments": [
       ]
    },
@@ -33511,7 +33511,7 @@
       "tag": "darkling creeper fey fae shadow rogue",
       "alignment": "CN",
       "challengeRating": "1",
-      "bookSource": "MMEII 40",
+      "bookSource": "MME II 40",
       "environments": [
       ]
    },
@@ -33522,7 +33522,7 @@
       "tag": "darkling creeper fey fae shadow rogue",
       "alignment": "CN",
       "challengeRating": "5",
-      "bookSource": "MMEII 41",
+      "bookSource": "MME II 41",
       "environments": [
       ]
    },
@@ -33533,7 +33533,7 @@
       "tag": "darkling creeper fey fae shadow rogue",
       "alignment": "CN",
       "challengeRating": "6",
-      "bookSource": "MMEII 41",
+      "bookSource": "MME II 41",
       "environments": [
       ]
    },
@@ -33544,7 +33544,7 @@
       "tag": "darkling creeper fey fae shadow mastermind",
       "alignment": "CN",
       "challengeRating": "9",
-      "bookSource": "MMEII 42",
+      "bookSource": "MME II 42",
       "environments": [
       ]
    },
@@ -33555,7 +33555,7 @@
       "tag": "darkling creeper fey fae shadow rogue",
       "alignment": "CN",
       "challengeRating": "3",
-      "bookSource": "MMEII 42",
+      "bookSource": "MME II 42",
       "environments": [
       ]
    },
@@ -33566,7 +33566,7 @@
       "tag": "deathlock assassin warlock lich undead",
       "alignment": "NE",
       "challengeRating": "7",
-      "bookSource": "MMEII 43",
+      "bookSource": "MME II 43",
       "environments": [
       ]
    },
@@ -33577,7 +33577,7 @@
       "tag": "deathlock knight warlock lich undead",
       "alignment": "NE",
       "challengeRating": "5",
-      "bookSource": "MMEII 43",
+      "bookSource": "MME II 43",
       "environments": [
       ]
    },
@@ -33588,7 +33588,7 @@
       "tag": "deep scion psionic shapechanegr lovecraft eldritch",
       "alignment": "NE",
       "challengeRating": "6",
-      "bookSource": "MMEII 44",
+      "bookSource": "MME II 44",
       "environments": [
       ]
    },
@@ -33599,7 +33599,7 @@
       "tag": "deep scion psionic shapechanegr lovecraft eldritch",
       "alignment": "NE",
       "challengeRating": "4",
-      "bookSource": "MMEII 45",
+      "bookSource": "MME II 45",
       "environments": [
       ]
    },
@@ -33610,7 +33610,7 @@
       "tag": "deep scion psionic shapechanegr lovecraft eldritch",
       "alignment": "NE",
       "challengeRating": "7",
-      "bookSource": "MMEII 45",
+      "bookSource": "MME II 45",
       "environments": [
       ]
    },
@@ -33621,7 +33621,7 @@
       "tag": "abyssal demon daemon fiend",
       "alignment": "CE",
       "challengeRating": "1",
-      "bookSource": "MMEII 46",
+      "bookSource": "MME II 46",
       "environments": [
       ]
    },
@@ -33632,7 +33632,7 @@
       "tag": "abyssal demon daemon fiend juiblex",
       "alignment": "CE",
       "challengeRating": "8",
-      "bookSource": "MMEII 47",
+      "bookSource": "MME II 47",
       "environments": [
       ]
    },
@@ -33643,7 +33643,7 @@
       "tag": "abyssal demon daemon fiend wurm worm human centipede undead construct",
       "alignment": "CE",
       "challengeRating": "10",
-      "bookSource": "MMEII 48",
+      "bookSource": "MME II 48",
       "environments": [
       ]
    },
@@ -33654,7 +33654,7 @@
       "tag": "abyssal demon daemon fiend centuar minotaur horse beast gore orcus",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 49",
+      "bookSource": "MME II 49",
       "environments": [
       ]
    },
@@ -33665,7 +33665,7 @@
       "tag": "abyssal demon daemon fiend",
       "alignment": "CE",
       "challengeRating": "1",
-      "bookSource": "MMEII 50",
+      "bookSource": "MME II 50",
       "environments": [
       ]
    },
@@ -33676,7 +33676,7 @@
       "tag": "abyssal demon daemon fiend",
       "alignment": "CE",
       "challengeRating": "1",
-      "bookSource": "MMEII 50",
+      "bookSource": "MME II 50",
       "environments": [
       ]
    },
@@ -33687,7 +33687,7 @@
       "tag": "abyssal demon daemon fiend",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 50",
+      "bookSource": "MME II 50",
       "environments": [
       ]
    },
@@ -33698,7 +33698,7 @@
       "tag": "abyssal demon daemon fiend",
       "alignment": "CE",
       "challengeRating": "7",
-      "bookSource": "MMEII 51",
+      "bookSource": "MME II 51",
       "environments": [
       ]
    },
@@ -33709,7 +33709,7 @@
       "tag": "abyssal demon daemon fiend wolf dog",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 52",
+      "bookSource": "MME II 52",
       "environments": [
       ]
    },
@@ -33720,7 +33720,7 @@
       "tag": "abyssal demon daemon fiend lolth spider queen lord",
       "alignment": "CE",
       "challengeRating": "28",
-      "bookSource": "MMEII 54",
+      "bookSource": "MME II 54",
       "environments": [
       ]
    },
@@ -33731,7 +33731,7 @@
       "tag": "abyssal demon daemon fiend aspect baphomet",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "MMEII 56",
+      "bookSource": "MME II 56",
       "environments": [
       ]
    },
@@ -33742,7 +33742,7 @@
       "tag": "abyssal demon daemon fiend aspect demogorgon",
       "alignment": "CE",
       "challengeRating": "14",
-      "bookSource": "MMEII 57",
+      "bookSource": "MME II 57",
       "environments": [
       ]
    },
@@ -33753,7 +33753,7 @@
       "tag": "abyssal demon daemon fiend aspect fraz urb luu frazurbluu",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "MMEII 58",
+      "bookSource": "MME II 58",
       "environments": [
       ]
    },
@@ -33764,7 +33764,7 @@
       "tag": "abyssal demon daemon fiend aspect grazzt graz zt",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 59",
+      "bookSource": "MME II 59",
       "environments": [
       ]
    },
@@ -33775,7 +33775,7 @@
       "tag": "abyssal demon daemon fiend aspect juiblex jubilex",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "MMEII 60",
+      "bookSource": "MME II 60",
       "environments": [
       ]
    },
@@ -33786,7 +33786,7 @@
       "tag": "abyssal demon daemon fiend aspect kostchtchie",
       "alignment": "CE",
       "challengeRating": "13",
-      "bookSource": "MMEII 61",
+      "bookSource": "MME II 61",
       "environments": [
       ]
    },
@@ -33797,7 +33797,7 @@
       "tag": "abyssal demon daemon fiend aspect lolth",
       "alignment": "CE",
       "challengeRating": "15",
-      "bookSource": "MMEII 62",
+      "bookSource": "MME II 62",
       "environments": [
       ]
    },
@@ -33808,7 +33808,7 @@
       "tag": "abyssal demon daemon fiend aspect orcus",
       "alignment": "CE",
       "challengeRating": "14",
-      "bookSource": "MMEII 63",
+      "bookSource": "MME II 63",
       "environments": [
       ]
    },
@@ -33819,7 +33819,7 @@
       "tag": "abyssal demon daemon fiend aspect yeenoghu",
       "alignment": "CE",
       "challengeRating": "12",
-      "bookSource": "MMEII 64",
+      "bookSource": "MME II 64",
       "environments": [
       ]
    },
@@ -33830,7 +33830,7 @@
       "tag": "abyssal demon daemon fiend aspect zuggtmoy fungus spore",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "MMEII 65",
+      "bookSource": "MME II 65",
       "environments": [
       ]
    },
@@ -33841,7 +33841,7 @@
       "tag": "aderro dark dwarf underdark",
       "alignment": "CE",
       "challengeRating": "1",
-      "bookSource": "MMEII 66",
+      "bookSource": "MME II 66",
       "environments": [
       ]
    },
@@ -33852,7 +33852,7 @@
       "tag": "aderro dark dwarf underdark",
       "alignment": "CE",
       "challengeRating": "2",
-      "bookSource": "MMEII 67",
+      "bookSource": "MME II 67",
       "environments": [
       ]
    },
@@ -33863,7 +33863,7 @@
       "tag": "aderro dark dwarf underdark",
       "alignment": "CE",
       "challengeRating": "6",
-      "bookSource": "MMEII 67",
+      "bookSource": "MME II 67",
       "environments": [
       ]
    },
@@ -33874,7 +33874,7 @@
       "tag": "aderro dark dwarf underdark",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 68",
+      "bookSource": "MME II 68",
       "environments": [
       ]
    },
@@ -33885,7 +33885,7 @@
       "tag": "aderro dark dwarf underdark",
       "alignment": "CE",
       "challengeRating": "1/2",
-      "bookSource": "MMEII 68",
+      "bookSource": "MME II 68",
       "environments": [
       ]
    },
@@ -33896,7 +33896,7 @@
       "tag": "infernal devil bull gargoyle minotaur",
       "alignment": "LE",
       "challengeRating": "13",
-      "bookSource": "MMEII 69",
+      "bookSource": "MME II 69",
       "environments": [
       ]
    },
@@ -33907,7 +33907,7 @@
       "tag": "infernal devil assassin",
       "alignment": "LE",
       "challengeRating": "10",
-      "bookSource": "MMEII 70",
+      "bookSource": "MME II 70",
       "environments": [
       ]
    },
@@ -33918,7 +33918,7 @@
       "tag": "infernal devil snail bile stomach undead",
       "alignment": "LE",
       "challengeRating": "7",
-      "bookSource": "MMEII 71",
+      "bookSource": "MME II 71",
       "environments": [
       ]
    },
@@ -33929,7 +33929,7 @@
       "tag": "infernal devil ursula ugly succubi",
       "alignment": "LE",
       "challengeRating": "17",
-      "bookSource": "MMEII 72",
+      "bookSource": "MME II 72",
       "environments": [
       ]
    },
@@ -33940,7 +33940,7 @@
       "tag": "infernal devil passion lust",
       "alignment": "LE",
       "challengeRating": "8",
-      "bookSource": "MMEII 73",
+      "bookSource": "MME II 73",
       "environments": [
       ]
    },
@@ -33951,7 +33951,7 @@
       "tag": "infernal devil androgenous barded wire hooks cenobite",
       "alignment": "LE",
       "challengeRating": "11",
-      "bookSource": "MMEII 74",
+      "bookSource": "MME II 74",
       "environments": [
       ]
    },
@@ -33962,7 +33962,7 @@
       "tag": "infernal devil slug xerfilstyx",
       "alignment": "LE",
       "challengeRating": "15",
-      "bookSource": "MMEII 75",
+      "bookSource": "MME II 75",
       "environments": [
       ]
    },
@@ -33973,7 +33973,7 @@
       "tag": "infernal devil archdevil arch asmodeus",
       "alignment": "LE",
       "challengeRating": "30",
-      "bookSource": "MMEII 77",
+      "bookSource": "MME II 77",
       "environments": [
       ]
    },
@@ -33984,7 +33984,7 @@
       "tag": "infernal devil archdevil arch dispatcher",
       "alignment": "LE",
       "challengeRating": "25",
-      "bookSource": "MMEII 79",
+      "bookSource": "MME II 79",
       "environments": [
       ]
    },
@@ -33995,7 +33995,7 @@
       "tag": "infernal devil archdevil arch mephistopheles",
       "alignment": "LE",
       "challengeRating": "26",
-      "bookSource": "MMEII 81",
+      "bookSource": "MME II 81",
       "environments": [
       ]
    },
@@ -34006,7 +34006,7 @@
       "tag": "infernal devil asmodeus",
       "alignment": "LE",
       "challengeRating": "17",
-      "bookSource": "MMEII 82",
+      "bookSource": "MME II 82",
       "environments": [
       ]
    },
@@ -34017,7 +34017,7 @@
       "tag": "infernal devil bael",
       "alignment": "LE",
       "challengeRating": "10",
-      "bookSource": "MMEII 83",
+      "bookSource": "MME II 83",
       "environments": [
       ]
    },
@@ -34028,7 +34028,7 @@
       "tag": "infernal devil bel",
       "alignment": "LE",
       "challengeRating": "13",
-      "bookSource": "MMEII 84",
+      "bookSource": "MME II 84",
       "environments": [
       ]
    },
@@ -34039,7 +34039,7 @@
       "tag": "infernal devil bel",
       "alignment": "LE",
       "challengeRating": "14",
-      "bookSource": "MMEII 85",
+      "bookSource": "MME II 85",
       "environments": [
       ]
    },
@@ -34050,7 +34050,7 @@
       "tag": "infernal devil geryon gorgon",
       "alignment": "LE",
       "challengeRating": "11",
-      "bookSource": "MMEII 86",
+      "bookSource": "MME II 86",
       "environments": [
       ]
    },
@@ -34061,7 +34061,7 @@
       "tag": "infernal devil mephistopheles",
       "alignment": "LE",
       "challengeRating": "15",
-      "bookSource": "MMEII 87",
+      "bookSource": "MME II 87",
       "environments": [
       ]
    },
@@ -34072,7 +34072,7 @@
       "tag": "infernal devil moloch",
       "alignment": "LE",
       "challengeRating": "10",
-      "bookSource": "MMEII 88",
+      "bookSource": "MME II 88",
       "environments": [
       ]
    },
@@ -34083,7 +34083,7 @@
       "tag": "infernal devil dragon tiamat",
       "alignment": "LE",
       "challengeRating": "17",
-      "bookSource": "MMEII 89",
+      "bookSource": "MME II 89",
       "environments": [
       ]
    },
@@ -34094,7 +34094,7 @@
       "tag": "infernal devil zariel arch angel fallen",
       "alignment": "LE",
       "challengeRating": "15",
-      "bookSource": "MMEII 90",
+      "bookSource": "MME II 90",
       "environments": [
       ]
    },
@@ -34105,7 +34105,7 @@
       "tag": "destrachan underdark echo stranger things",
       "alignment": "NE",
       "challengeRating": "3",
-      "bookSource": "MMEII 91",
+      "bookSource": "MME II 91",
       "environments": [
          "UNDERDARK"
       ]
@@ -34117,7 +34117,7 @@
       "tag": "destrachan underdark echo stranger things pack lorde lord",
       "alignment": "NE",
       "challengeRating": "8",
-      "bookSource": "MMEII 92",
+      "bookSource": "MME II 92",
       "environments": [
          "UNDERDARK"
       ]
@@ -34129,7 +34129,7 @@
       "tag": "dire corby dark kenku underdark",
       "alignment": "NE",
       "challengeRating": "1",
-      "bookSource": "MMEII 93",
+      "bookSource": "MME II 93",
       "environments": [
          "UNDERDARK"
       ]
@@ -34141,7 +34141,7 @@
       "tag": "dire corby dark kenku underdark alpha",
       "alignment": "NE",
       "challengeRating": "4",
-      "bookSource": "MMEII 93",
+      "bookSource": "MME II 93",
       "environments": [
          "UNDERDARK"
       ]
@@ -34153,7 +34153,7 @@
       "tag": "draegloth abomination demon fiend abyssal",
       "alignment": "CE",
       "challengeRating": "10",
-      "bookSource": "MMEII 94",
+      "bookSource": "MME II 94",
       "environments": [
          "UNDERDARK"
       ]
@@ -34165,7 +34165,7 @@
       "tag": "draegloth abomination demon fiend abyssal",
       "alignment": "CE",
       "challengeRating": "11",
-      "bookSource": "MMEII 94",
+      "bookSource": "MME II 94",
       "environments": [
          "UNDERDARK"
       ]
@@ -34177,7 +34177,7 @@
       "tag": "ancient dracolisk dragon basalisk behir",
       "alignment": "CE",
       "challengeRating": "20",
-      "bookSource": "MMEII 95",
+      "bookSource": "MME II 95",
       "environments": [
       ]
    },
@@ -34188,7 +34188,7 @@
       "tag": "adult dracolisk dragon basalisk behir",
       "alignment": "CE",
       "challengeRating": "10",
-      "bookSource": "MMEII 96",
+      "bookSource": "MME II 96",
       "environments": [
       ]
    },
@@ -34199,7 +34199,7 @@
       "tag": "young dracolisk dragon basalisk behir",
       "alignment": "CE",
       "challengeRating": "4",
-      "bookSource": "MMEII 96",
+      "bookSource": "MME II 96",
       "environments": [
       ]
    },
@@ -34210,7 +34210,7 @@
       "tag": "juvenile black dragon chromatic",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 97",
+      "bookSource": "MME II 97",
       "environments": [
          "SWAMP"
       ]
@@ -34222,7 +34222,7 @@
       "tag": "juvenile blue dragon chromatic",
       "alignment": "CE",
       "challengeRating": "6",
-      "bookSource": "MMEII 97",
+      "bookSource": "MME II 97",
       "environments": [
          "COASTAL",
          "HILL"
@@ -34235,7 +34235,7 @@
       "tag": "juvenile green dragon chromatic",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 98",
+      "bookSource": "MME II 98",
       "environments": [
          "FOREST"
       ]
@@ -34247,7 +34247,7 @@
       "tag": "juvenile red dragon chromatic",
       "alignment": "CE",
       "challengeRating": "7",
-      "bookSource": "MMEII 98",
+      "bookSource": "MME II 98",
       "environments": [
          "MOUNTAIN"
       ]
@@ -34259,7 +34259,7 @@
       "tag": "juvenile white dragon chromatic",
       "alignment": "CE",
       "challengeRating": "4",
-      "bookSource": "MMEII 99",
+      "bookSource": "MME II 99",
       "environments": [
          "ARCTIC"
       ]
@@ -34271,7 +34271,7 @@
       "tag": "dragonne dragon lion leopard cat tiger ram dragonspawn spawn",
       "alignment": "N",
       "challengeRating": "11",
-      "bookSource": "MMEII 100",
+      "bookSource": "MME II 100",
       "environments": [
       ]
    },
@@ -34282,7 +34282,7 @@
       "tag": "dragonne dragon lion leopard cat tiger ram dragonspawn spawn",
       "alignment": "N",
       "challengeRating": "5",
-      "bookSource": "MMEII 100",
+      "bookSource": "MME II 100",
       "environments": [
       ]
    },
@@ -34293,7 +34293,7 @@
       "tag": "dragon black spider dragonspawn spawn",
       "alignment": "CE",
       "challengeRating": "5",
-      "bookSource": "MMEII 101",
+      "bookSource": "MME II 101",
       "environments": [
          "MOUNTAIN",
          "SWAMP",
@@ -34307,7 +34307,7 @@
       "tag": "dragon black centipede bug dragonspawn spawn",
       "alignment": "U",
       "challengeRating": "5",
-      "bookSource": "MMEII 102",
+      "bookSource": "MME II 102",
       "environments": [
          "MOUNTAIN",
          "SWAMP",
@@ -34321,7 +34321,7 @@
       "tag": "dragon blue bull badger dragonspawn spawn",
       "alignment": "LE",
       "challengeRating": "3",
-      "bookSource": "MMEII 102",
+      "bookSource": "MME II 102",
       "environments": [
          "COASTAL",
          "UNDERDARK"
@@ -34334,7 +34334,7 @@
       "tag": "dragon blue lizard kodo dragonspawn spawn",
       "alignment": "LE",
       "challengeRating": "5",
-      "bookSource": "MMEII 103",
+      "bookSource": "MME II 103",
       "environments": [
          "COASTAL",
          "UNDERDARK"
@@ -34347,7 +34347,7 @@
       "tag": "dragon green leaper drake dragonspawn spawn",
       "alignment": "NE",
       "challengeRating": "2",
-      "bookSource": "MMEII 104",
+      "bookSource": "MME II 104",
       "environments": [
          "FOREST",
          "UNDERDARK"
@@ -34360,7 +34360,7 @@
       "tag": "dragon green razorfield razor field bat dragonspawn spawn",
       "alignment": "NE",
       "challengeRating": "5",
-      "bookSource": "MMEII 105",
+      "bookSource": "MME II 105",
       "environments": [
          "FOREST",
          "UNDERDARK"
@@ -34373,7 +34373,7 @@
       "tag": "dragon red fire belcher triceratops dragon dragonspawn spawn",
       "alignment": "CE",
       "challengeRating": "6",
-      "bookSource": "MMEII 106",
+      "bookSource": "MME II 106",
       "environments": [
          "MOUNTAIN",
          "UNDERDARK"
@@ -34386,7 +34386,7 @@
       "tag": "dragon white ice skidder iceskidder dragon dragonspawn spawn",
       "alignment": "CE",
       "challengeRating": "4",
-      "bookSource": "MMEII 107",
+      "bookSource": "MME II 107",
       "environments": [
          "ARCTIC",
          "UNDERDARK"
@@ -34399,7 +34399,7 @@
       "tag": "green dragon drake ambush",
       "alignment": "NE",
       "challengeRating": "1",
-      "bookSource": "MMEII 108",
+      "bookSource": "MME II 108",
       "environments": [
       ]
    },
@@ -34410,7 +34410,7 @@
       "tag": "rage red dragon drake",
       "alignment": "CE",
       "challengeRating": "8",
-      "bookSource": "MMEII 109",
+      "bookSource": "MME II 109",
       "environments": [
       ]
    },
@@ -34421,7 +34421,7 @@
       "tag": "green black stone rock dragon drake",
       "alignment": "NE",
       "challengeRating": "7",
-      "bookSource": "MMEII 110",
+      "bookSource": "MME II 110",
       "environments": [
       ]
    },
@@ -34432,7 +34432,7 @@
       "tag": "duergar dark dwarf underdark artillery artillerist cannon cavalry artificer",
       "alignment": "LE",
       "challengeRating": "6",
-      "bookSource": "MMEII 111",
+      "bookSource": "MME II 111",
       "environments": [
          "UNDERDARK"
       ]
@@ -34444,7 +34444,7 @@
       "tag": "duergar dark dwarf underdark battle smith artificer",
       "alignment": "LE",
       "challengeRating": "4",
-      "bookSource": "MMEII 112",
+      "bookSource": "MME II 112",
       "environments": [
          "UNDERDARK"
       ]
@@ -34456,7 +34456,7 @@
       "tag": "iron defender spider clockwork gear construct golem automaton artifice tinker",
       "alignment": "U",
       "challengeRating": "1",
-      "bookSource": "MMEII 111",
+      "bookSource": "MME II 111",
       "environments": [
          "UNDERDARK",
          "URBAN"
@@ -34469,7 +34469,7 @@
       "tag": "duergar dark dwarf underdark gunner sniper riffle artificer",
       "alignment": "LE",
       "challengeRating": "4",
-      "bookSource": "MMEII 113",
+      "bookSource": "MME II 113",
       "environments": [
          "UNDERDARK"
       ]
@@ -34481,7 +34481,7 @@
       "tag": "duergar dark dwarf underdark inquisitor priest artificer",
       "alignment": "LE",
       "challengeRating": "4",
-      "bookSource": "MMEII 113",
+      "bookSource": "MME II 113",
       "environments": [
          "UNDERDARK"
       ]
@@ -34493,7 +34493,7 @@
       "tag": "duergar dark dwarf underdark sergeant officer artificer",
       "alignment": "LE",
       "challengeRating": "2",
-      "bookSource": "MMEII 114",
+      "bookSource": "MME II 114",
       "environments": [
          "UNDERDARK"
       ]
@@ -34505,7 +34505,7 @@
       "tag": "duergar dark dwarf underdark slaver master slave artificer",
       "alignment": "LE",
       "challengeRating": "3",
-      "bookSource": "MMEII 114",
+      "bookSource": "MME II 114",
       "environments": [
          "UNDERDARK"
       ]
@@ -34517,7 +34517,7 @@
       "tag": "young leviathan water wave elemental elder",
       "alignment": "N",
       "challengeRating": "12",
-      "bookSource": "MMEII 115",
+      "bookSource": "MME II 115",
       "environments": [
          "COASTAL",
          "UNDERWATER"
@@ -34530,7 +34530,7 @@
       "tag": "young phoenix pheonix fire elemental bord birb elder",
       "alignment": "N",
       "challengeRating": "10",
-      "bookSource": "MMEII 116",
+      "bookSource": "MME II 116",
       "environments": [
       ]
    },
@@ -34541,7 +34541,7 @@
       "tag": "young tempest storm fire elemental elder",
       "alignment": "N",
       "challengeRating": "13",
-      "bookSource": "MMEII 117",
+      "bookSource": "MME II 117",
       "environments": [
       ]
    },
@@ -34552,7 +34552,7 @@
       "tag": "young zaratan rock stone golem elemental elder",
       "alignment": "N",
       "challengeRating": "12",
-      "bookSource": "MMEII 117",
+      "bookSource": "MME II 117",
       "environments": [
       ]
    },
@@ -34563,7 +34563,7 @@
       "tag": "greater elemental myrmidon mymidon air",
       "alignment": "N",
       "challengeRating": "11",
-      "bookSource": "MMEII 118",
+      "bookSource": "MME II 118",
       "environments": [
       ]
    },
@@ -34574,7 +34574,7 @@
       "tag": "greater elemental myrmidon mymidon earth",
       "alignment": "N",
       "challengeRating": "11",
-      "bookSource": "MMEII 118",
+      "bookSource": "MME II 118",
       "environments": [
       ]
    },
@@ -34585,7 +34585,7 @@
       "tag": "greater elemental myrmidon mymidon fire",
       "alignment": "N",
       "challengeRating": "11",
-      "bookSource": "MMEII 119",
+      "bookSource": "MME II 119",
       "environments": [
       ]
    },
@@ -34596,7 +34596,7 @@
       "tag": "greater elemental myrmidon mymidon water",
       "alignment": "N",
       "challengeRating": "11",
-      "bookSource": "MMEII 119",
+      "bookSource": "MME II 119",
       "environments": [
       ]
    },
@@ -34607,7 +34607,7 @@
       "tag": "drow dark elf underdark lolth arcane knight",
       "alignment": "NE",
       "challengeRating": "10",
-      "bookSource": "MMEII 120",
+      "bookSource": "MME II 120",
       "environments": [
       ]
    },
@@ -34618,7 +34618,7 @@
       "tag": "drow dark elf underdark lolth sniper",
       "alignment": "NE",
       "challengeRating": "5",
-      "bookSource": "MMEII 121",
+      "bookSource": "MME II 121",
       "environments": [
       ]
    },
@@ -34629,7 +34629,7 @@
       "tag": "drow dark elf underdark lolth arcane house wizard",
       "alignment": "NE",
       "challengeRating": "9",
-      "bookSource": "MMEII 121",
+      "bookSource": "MME II 121",
       "environments": [
       ]
    },
@@ -34640,7 +34640,7 @@
       "tag": "drow dark elf underdark lolth sting arcane poisoner",
       "alignment": "NE",
       "challengeRating": "4",
-      "bookSource": "MMEII 122",
+      "bookSource": "MME II 122",
       "environments": [
       ]
    },
@@ -34651,7 +34651,7 @@
       "tag": "drow dark elf underdark lolth soldier",
       "alignment": "NE",
       "challengeRating": "1",
-      "bookSource": "MMEII 122",
+      "bookSource": "MME II 122",
       "environments": [
       ]
    },
@@ -34662,7 +34662,7 @@
       "tag": "ettin berserker giant foe",
       "alignment": "CE",
       "challengeRating": "6",
-      "bookSource": "MMEII 123",
+      "bookSource": "MME II 123",
       "environments": [
       ]
    },
@@ -34673,7 +34673,7 @@
       "tag": "ettin vanguard giant foe",
       "alignment": "CE",
       "challengeRating": "8",
-      "bookSource": "MMEII 124",
+      "bookSource": "MME II 124",
       "environments": [
       ]
    },
@@ -34684,7 +34684,7 @@
       "tag": "ettin wicth doctor giant foe",
       "alignment": "CE",
       "challengeRating": "7",
-      "bookSource": "MMEII 124",
+      "bookSource": "MME II 124",
       "environments": [
       ]
    },
@@ -34695,7 +34695,7 @@
       "tag": "firenewt newt fire lizard gekko salamander imix",
       "alignment": "NE",
       "challengeRating": "5",
-      "bookSource": "MMEII 125",
+      "bookSource": "MME II 125",
       "environments": [
       ]
    },
@@ -34706,7 +34706,7 @@
       "tag": "firenewt newt fire lizard gekko salamander imix",
       "alignment": "NE",
       "challengeRating": "2",
-      "bookSource": "MMEII 125",
+      "bookSource": "MME II 125",
       "environments": [
       ]
    },
@@ -34717,7 +34717,7 @@
       "tag": "monstrous flail snail underdark weird",
       "alignment": "U",
       "challengeRating": "8",
-      "bookSource": "MMEII 126",
+      "bookSource": "MME II 126",
       "environments": [
          "UNDERDARK"
       ]
@@ -34729,7 +34729,7 @@
       "tag": "froghemoth frog tadpole toad behemoth",
       "alignment": "U",
       "challengeRating": "1/4",
-      "bookSource": "MMEII 127",
+      "bookSource": "MME II 127",
       "environments": [
          "SWAMP",
          "UNDERDARK"
@@ -34742,7 +34742,7 @@
       "tag": "froghemoth frog tadpole toad behemoth",
       "alignment": "U",
       "challengeRating": "5",
-      "bookSource": "MMEII 127",
+      "bookSource": "MME II 127",
       "environments": [
          "SWAMP",
          "UNDERDARK"
@@ -34755,7 +34755,7 @@
       "tag": "cloud mastermind giant",
       "alignment": "NG or NE",
       "challengeRating": "16",
-      "bookSource": "MMEII 128",
+      "bookSource": "MME II 128",
       "environments": [
          "ARCTIC",
          "HILL",
@@ -34770,7 +34770,7 @@
       "tag": "cloud mastermind giant",
       "alignment": "NG or NE",
       "challengeRating": "13",
-      "bookSource": "MMEII 129",
+      "bookSource": "MME II 129",
       "environments": [
          "ARCTIC",
          "HILL",
