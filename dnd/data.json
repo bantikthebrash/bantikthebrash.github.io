@@ -34097,5 +34097,685 @@
       "bookSource": "MMEII 90",
       "environments": [
       ]
+   },
+   {
+      "name": "Destrachan",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "destrachan underdark echo stranger things",
+      "alignment": "NE",
+      "challengeRating": "3",
+      "bookSource": "MMEII 91",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Destrachan Pack Lord",
+      "size": "Huge",
+      "type": "monstrosity",
+      "tag": "destrachan underdark echo stranger things pack lorde lord",
+      "alignment": "NE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 92",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Dire Corby",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "dire corby dark kenku underdark",
+      "alignment": "NE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 93",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Dire Corby Alpha",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "dire corby dark kenku underdark alpha",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 93",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Draegloth Abomination",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "draegloth abomination demon fiend abyssal",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 94",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Draegloth War Caster",
+      "size": "Large",
+      "type": "fiend (demon)",
+      "tag": "draegloth abomination demon fiend abyssal",
+      "alignment": "CE",
+      "challengeRating": "11",
+      "bookSource": "MMEII 94",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ancient Dracolisk",
+      "size": "Huge",
+      "type": "dragon",
+      "tag": "ancient dracolisk dragon basalisk behir",
+      "alignment": "CE",
+      "challengeRating": "20",
+      "bookSource": "MMEII 95",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Adult Dracolisk",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "adult dracolisk dragon basalisk behir",
+      "alignment": "CE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 96",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Young Dracolisk",
+      "size": "Medium",
+      "type": "dragon",
+      "tag": "young dracolisk dragon basalisk behir",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 96",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Juvenile Black Dragon",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "juvenile black dragon chromatic",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 97",
+      "environments": [
+         "SWAMP"
+      ]
+   },
+   {
+      "name": "Juvenile Blue Dragon",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "juvenile blue dragon chromatic",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 97",
+      "environments": [
+         "COASTAL",
+         "HILL"
+      ]
+   },
+   {
+      "name": "Juvenile Green Dragon",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "juvenile green dragon chromatic",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 98",
+      "environments": [
+         "FOREST"
+      ]
+   },
+   {
+      "name": "Juvenile Red Dragon",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "juvenile red dragon chromatic",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 98",
+      "environments": [
+         "MOUNTAIN"
+      ]
+   },
+   {
+      "name": "Juvenile White Dragon",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "juvenile white dragon chromatic",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 99",
+      "environments": [
+         "ARCTIC"
+      ]
+   },
+   {
+      "name": "Adult Dragonne",
+      "size": "Huge",
+      "type": "dragonne",
+      "tag": "dragonne dragon lion leopard cat tiger ram dragonspawn spawn",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MMEII 100",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Young Dragonne",
+      "size": "Large",
+      "type": "dragonne",
+      "tag": "dragonne dragon lion leopard cat tiger ram dragonspawn spawn",
+      "alignment": "N",
+      "challengeRating": "5",
+      "bookSource": "MMEII 100",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Blackspawn Stakler",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon black spider dragonspawn spawn",
+      "alignment": "CE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 101",
+      "environments": [
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Blackspawn Crawler",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon black centipede bug dragonspawn spawn",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MMEII 102",
+      "environments": [
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Bluespawn Ambusher",
+      "size": "Medium",
+      "type": "dragon",
+      "tag": "dragon blue bull badger dragonspawn spawn",
+      "alignment": "LE",
+      "challengeRating": "3",
+      "bookSource": "MMEII 102",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Bluespawn Stormlizard",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon blue lizard kodo dragonspawn spawn",
+      "alignment": "LE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 103",
+      "environments": [
+         "COASTAL",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Greenspawn Leaper",
+      "size": "Medium",
+      "type": "dragon",
+      "tag": "dragon green leaper drake dragonspawn spawn",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 104",
+      "environments": [
+         "FOREST",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Greenspawn Razorfiend",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon green razorfield razor field bat dragonspawn spawn",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 105",
+      "environments": [
+         "FOREST",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Redspawn Firebelcher",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon red fire belcher triceratops dragon dragonspawn spawn",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 106",
+      "environments": [
+         "MOUNTAIN",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Whitespawn Iceskidder",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "dragon white ice skidder iceskidder dragon dragonspawn spawn",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 107",
+      "environments": [
+         "ARCTIC",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Ambush Drake",
+      "size": "Medium",
+      "type": "dragon",
+      "tag": "green dragon drake ambush",
+      "alignment": "NE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 108",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Rage Drake",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "rage red dragon drake",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 109",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Stone Drake",
+      "size": "Large",
+      "type": "dragon",
+      "tag": "green black stone rock dragon drake",
+      "alignment": "NE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 110",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Duergar Artillerist",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark artillery artillerist cannon cavalry artificer",
+      "alignment": "LE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 111",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Duergar Battle Smith",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark battle smith artificer",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 112",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Iron Defender",
+      "size": "Medium",
+      "type": "construct",
+      "tag": "iron defender spider clockwork gear construct golem automaton artifice tinker",
+      "alignment": "U",
+      "challengeRating": "1",
+      "bookSource": "MMEII 111",
+      "environments": [
+         "UNDERDARK",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Duergar Heavy Sniper",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark gunner sniper riffle artificer",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 113",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Duergar Inquisitor",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark inquisitor priest artificer",
+      "alignment": "LE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 113",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Duergar Sergeant",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark sergeant officer artificer",
+      "alignment": "LE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 114",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Duergar Slavemaster",
+      "size": "Medium",
+      "type": "humanoid (dwarf)",
+      "tag": "duergar dark dwarf underdark slaver master slave artificer",
+      "alignment": "LE",
+      "challengeRating": "3",
+      "bookSource": "MMEII 114",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Young Leviathan",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "young leviathan water wave elemental elder",
+      "alignment": "N",
+      "challengeRating": "12",
+      "bookSource": "MMEII 115",
+      "environments": [
+         "COASTAL",
+         "UNDERWATER"
+      ]
+   },
+   {
+      "name": "Young Phoenix",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "young phoenix pheonix fire elemental bord birb elder",
+      "alignment": "N",
+      "challengeRating": "10",
+      "bookSource": "MMEII 116",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Young Tempest",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "young tempest storm fire elemental elder",
+      "alignment": "N",
+      "challengeRating": "13",
+      "bookSource": "MMEII 117",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Young Zaratan",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "young zaratan rock stone golem elemental elder",
+      "alignment": "N",
+      "challengeRating": "12",
+      "bookSource": "MMEII 117",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Air Elemental Myrmidon",
+      "size": "Large",
+      "type": "elemental",
+      "tag": "greater elemental myrmidon mymidon air",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MMEII 118",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Earth Elemental Myrmidon",
+      "size": "Large",
+      "type": "elemental",
+      "tag": "greater elemental myrmidon mymidon earth",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MMEII 118",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Fire Elemental Myrmidon",
+      "size": "Large",
+      "type": "elemental",
+      "tag": "greater elemental myrmidon mymidon fire",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MMEII 119",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Greater Water Elemental Myrmidon",
+      "size": "Large",
+      "type": "elemental",
+      "tag": "greater elemental myrmidon mymidon water",
+      "alignment": "N",
+      "challengeRating": "11",
+      "bookSource": "MMEII 119",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Drow Arcane Knight",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "drow dark elf underdark lolth arcane knight",
+      "alignment": "NE",
+      "challengeRating": "10",
+      "bookSource": "MMEII 120",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Drow Dark Sniper",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "drow dark elf underdark lolth sniper",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 121",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Drow House Wizard",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "drow dark elf underdark lolth arcane house wizard",
+      "alignment": "NE",
+      "challengeRating": "9",
+      "bookSource": "MMEII 121",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Drow Lolth's Sting",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "drow dark elf underdark lolth sting arcane poisoner",
+      "alignment": "NE",
+      "challengeRating": "4",
+      "bookSource": "MMEII 122",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Drow Soldier",
+      "size": "Medium",
+      "type": "humanoid (elf)",
+      "tag": "drow dark elf underdark lolth soldier",
+      "alignment": "NE",
+      "challengeRating": "1",
+      "bookSource": "MMEII 122",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Ettin Berserker",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ettin berserker giant foe",
+      "alignment": "CE",
+      "challengeRating": "6",
+      "bookSource": "MMEII 123",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Ettin Vanguard",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ettin vanguard giant foe",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MMEII 124",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Ettin Witch Doctor",
+      "size": "Large",
+      "type": "giant",
+      "tag": "ettin wicth doctor giant foe",
+      "alignment": "CE",
+      "challengeRating": "7",
+      "bookSource": "MMEII 124",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Firenewt War Priest of Imix",
+      "size": "Medium",
+      "type": "humanoid (firenewt)",
+      "tag": "firenewt newt fire lizard gekko salamander imix",
+      "alignment": "NE",
+      "challengeRating": "5",
+      "bookSource": "MMEII 125",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Firenewt Zealot",
+      "size": "Medium",
+      "type": "humanoid (firenewt)",
+      "tag": "firenewt newt fire lizard gekko salamander imix",
+      "alignment": "NE",
+      "challengeRating": "2",
+      "bookSource": "MMEII 125",
+      "environments": [
+      ]
+   },
+   {
+      "name": "Monstrous Flail Snail",
+      "size": "Huge",
+      "type": "elemental",
+      "tag": "monstrous flail snail underdark weird",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MMEII 126",
+      "environments": [
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Froghemoth Tadpole",
+      "size": "Medium",
+      "type": "monstrosity",
+      "tag": "froghemoth frog tadpole toad behemoth",
+      "alignment": "U",
+      "challengeRating": "1/4",
+      "bookSource": "MMEII 127",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Young Froghemoth",
+      "size": "Large",
+      "type": "monstrosity",
+      "tag": "froghemoth frog tadpole toad behemoth",
+      "alignment": "U",
+      "challengeRating": "5",
+      "bookSource": "MMEII 127",
+      "environments": [
+         "SWAMP",
+         "UNDERDARK"
+      ]
+   },
+   {
+      "name": "Cloud Giant Mastermind",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "cloud mastermind giant",
+      "alignment": "NG or NE",
+      "challengeRating": "16",
+      "bookSource": "MMEII 128",
+      "environments": [
+         "ARCTIC",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Cloud Giant Wind Disciple",
+      "size": "Huge",
+      "type": "giant",
+      "tag": "cloud mastermind giant",
+      "alignment": "NG or NE",
+      "challengeRating": "13",
+      "bookSource": "MMEII 129",
+      "environments": [
+         "ARCTIC",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
    }
 ]
