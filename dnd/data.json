@@ -34995,5 +34995,197 @@
          "MOUNTAIN",
          "URBAN"
       ]
+   },
+   {
+      "name": "Giff Captain",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "giff hippofolk hippo captain",
+      "alignment": "LN",
+      "challengeRating": "5",
+      "bookSource": "MME II 140",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Giff Sharpshooter",
+      "size": "Medium",
+      "type": "humanoid",
+      "tag": "giff hippofolk hippo captain",
+      "alignment": "LN",
+      "challengeRating": "4",
+      "bookSource": "MME II 140",
+      "environments": [
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin Assassin",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc assassin",
+      "alignment": "CE",
+      "challengeRating": "3",
+      "bookSource": "MME II 141",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin King",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc king",
+      "alignment": "CE",
+      "challengeRating": "8",
+      "bookSource": "MME II 142",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin Sharpshooter",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc sharpshooter",
+      "alignment": "CE",
+      "challengeRating": "2",
+      "bookSource": "MME II 142",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin Sorcerer",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc sorcerer",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME II 143",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin Sorcerer",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc sorcerer",
+      "alignment": "CE",
+      "challengeRating": "4",
+      "bookSource": "MME II 143",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Goblin Worg Rider",
+      "size": "Small",
+      "type": "humanoid (goblinoid)",
+      "tag": "goblin foe orc worg rider",
+      "alignment": "CE",
+      "challengeRating": "1",
+      "bookSource": "MME II 143",
+      "environments": [
+         "ARCTIC",
+         "COASTAL",
+         "DESERT",
+         "FOREST",
+         "GRASSLAND",
+         "HILL",
+         "MOUNTAIN",
+         "SWAMP",
+         "UNDERDARK",
+         "UNDERWATER",
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bone Golem",
+      "size": "Large",
+      "type": "construct",
+      "tag": "bone undead zombie golem construct",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME II 144",
+      "environments": [
+         "URBAN"
+      ]
+   },
+   {
+      "name": "Bone Golem",
+      "size": "Large",
+      "type": "construct",
+      "tag": "bone undead zombie golem construct",
+      "alignment": "U",
+      "challengeRating": "8",
+      "bookSource": "MME II 144",
+      "environments": [
+         "URBAN"
+      ]
    }
 ]
